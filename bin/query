@@ -1,0 +1,5 @@
+:
+bin=${0%/*}
+$bin/send $*
+$bin/check
+$bin/fetch
