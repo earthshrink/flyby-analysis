@@ -4,6 +4,10 @@
 .q.j:
 	../bin/query $< > $@
 
+.j.t:
+	../bin/extract $< > $@
+
+
 T=	\
 	near_los	\
 	near_aos	\
@@ -11,7 +15,7 @@ T=	\
 	near_millstone	\
 
 
-All=	$(T:=.j)
+All=	$(T:=.t)
 
 all:	$(All)
 
