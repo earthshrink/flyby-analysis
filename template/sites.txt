@@ -1,0 +1,4148 @@
+;ACCIMT Observatory;	ACCIMT Observatory
+;Kodaikanal Solar Observatory;	Kodaikanal Solar Observatory
+;Paranal Observatory (VLT);	Paranal Observatory (VLT)
+;TIRGO Observatory;	TIRGO Observatory
+000;Greenwich;	Greenwich [code 000]
+001;Crowborough;	Crowborough [code 001]
+002;Rayleigh;	Rayleigh [code 002]
+003;Montpellier;	Montpellier [code 003]
+004;Toulouse;	Toulouse [code 004]
+005;Meudon;	Meudon [code 005]
+006;Fabra Observatory, Barcelona;	Fabra Observatory, Barcelona [code 006]
+007;Paris;	Paris [code 007]
+008;Algiers-Bouzareah;	Algiers-Bouzareah [code 008]
+009;Berne-Uecht;	Berne-Uecht [code 009]
+010;Caussols;	Caussols [code 010]
+011;Wetzikon;	Wetzikon [code 011]
+012;Uccle;	Uccle [code 012]
+013;Leiden;	Leiden [code 013]
+014;Marseilles;	Marseilles [code 014]
+015;Utrecht;	Utrecht [code 015]
+016;Besancon;	Besancon [code 016]
+017;Hoher List;	Hoher List [code 017]
+018;Dusseldorf-Bilk;	Dusseldorf-Bilk [code 018]
+019;Neuchatel;	Neuchatel [code 019]
+020;Nice;	Nice [code 020]
+021;Karlsruhe;	Karlsruhe [code 021]
+022;Pino Torinese;	Pino Torinese [code 022]
+023;Wiesbaden;	Wiesbaden [code 023]
+024;Heidelberg-Konigstuhl;	Heidelberg-Konigstuhl [code 024]
+025;Stuttgart;	Stuttgart [code 025]
+026;Berne-Zimmerwald;	Berne-Zimmerwald [code 026]
+027;Milan;	Milan [code 027]
+028;Wurzburg;	Wurzburg [code 028]
+029;Hamburg-Bergedorf;	Hamburg-Bergedorf [code 029]
+030;Arcetri Observatory, Florence;	Arcetri Observatory, Florence [code 030]
+031;Sonneberg;	Sonneberg [code 031]
+032;Jena;	Jena [code 032]
+033;Karl Schwarzschild Observatory, Tautenburg;	Karl Schwarzschild Observatory, Tautenburg [code 033]
+034;Monte Mario Observatory, Rome;	Monte Mario Observatory, Rome [code 034]
+035;Copenhagen;	Copenhagen [code 035]
+036;Castel Gandolfo;	Castel Gandolfo [code 036]
+037;Collurania Observatory, Teramo;	Collurania Observatory, Teramo [code 037]
+038;Trieste;	Trieste [code 038]
+039;Lund;	Lund [code 039]
+040;Lohrmann Institute, Dresden;	Lohrmann Institute, Dresden [code 040]
+041;Innsbruck;	Innsbruck [code 041]
+042;Potsdam;	Potsdam [code 042]
+043;Asiago Astrophysical Observatory, Padua;	Asiago Astrophysical Observatory, Padua [code 043]
+044;Capodimonte Observatory, Naples;	Capodimonte Observatory, Naples [code 044]
+045;Vienna (since 1879);	Vienna (since 1879) [code 045]
+046;Klet Observatory, Ceske Budejovice;	Klet Observatory, Ceske Budejovice [code 046]
+047;Poznan;	Poznan [code 047]
+048;Hradec Kralove;	Hradec Kralove [code 048]
+049;Uppsala-Kvistaberg;	Uppsala-Kvistaberg [code 049]
+050;Stockholm (before 1931);	Stockholm (before 1931) [code 050]
+051;Cape;	Cape [code 051]
+052;Stockholm-Saltsjobaden;	Stockholm-Saltsjobaden [code 052]
+053;Konkoly Observatory, Budapest (since 1934);	Konkoly Observatory, Budapest (since 1934) [code 053]
+054;Brorfelde;	Brorfelde [code 054]
+055;Cracow;	Cracow [code 055]
+056;Skalnate Pleso;	Skalnate Pleso [code 056]
+057;Belgrade;	Belgrade [code 057]
+058;Kaliningrad;	Kaliningrad [code 058]
+059;Lomnicky Stit;	Lomnicky Stit [code 059]
+060;Warsaw-Ostrowik;	Warsaw-Ostrowik [code 060]
+061;Uzhgorod;	Uzhgorod [code 061]
+062;Turku;	Turku [code 062]
+063;Turku-Tuorla;	Turku-Tuorla [code 063]
+064;Turku-Kevola;	Turku-Kevola [code 064]
+065;Traunstein;	Traunstein [code 065]
+066;Athens;	Athens [code 066]
+067;Lvov University Observatory;	Lvov University Observatory [code 067]
+068;Lvov Polytechnic Institute;	Lvov Polytechnic Institute [code 068]
+069;Baldone;	Baldone [code 069]
+070;Vilnius (before 1939);	Vilnius (before 1939) [code 070]
+071;NAO Rozhen, Smolyan;	NAO Rozhen, Smolyan [code 071]
+072;Scheuren Observatory;	Scheuren Observatory [code 072]
+073;Bucharest;	Bucharest [code 073]
+074;Boyden Observatory, Bloemfontein;	Boyden Observatory, Bloemfontein [code 074]
+075;Tartu;	Tartu [code 075]
+076;Johannesburg-Hartbeespoort;	Johannesburg-Hartbeespoort [code 076]
+077;Yale-Columbia Station, Johannesburg;	Yale-Columbia Station, Johannesburg [code 077]
+078;Johannesburg;	Johannesburg [code 078]
+079;Radcliffe Observatory, Pretoria;	Radcliffe Observatory, Pretoria [code 079]
+080;Istanbul;	Istanbul [code 080]
+081;Leiden Station, Johannesburg;	Leiden Station, Johannesburg [code 081]
+082;St. Polten;	St. Polten [code 082]
+083;Golosseevo-Kiev;	Golosseevo-Kiev [code 083]
+084;Pulkovo;	Pulkovo [code 084]
+085;Kiev;	Kiev [code 085]
+086;Odessa;	Odessa [code 086]
+087;Helwan;	Helwan [code 087]
+088;Kottomia;	Kottomia [code 088]
+089;Nikolaev;	Nikolaev [code 089]
+090;Mainz;	Mainz [code 090]
+091;Observatoire de Nurol, Aurec sur Loire;	Observatoire de Nurol, Aurec sur Loire [code 091]
+092;Torun-Piwnice;	Torun-Piwnice [code 092]
+093;Skibotn;	Skibotn [code 093]
+094;Crimea-Simeis;	Crimea-Simeis [code 094]
+095;Crimea-Nauchnij;	Crimea-Nauchnij [code 095]
+096;Merate;	Merate [code 096]
+097;Wise Observatory, Mitzpeh Ramon;	Wise Observatory, Mitzpeh Ramon [code 097]
+098;Asiago Observatory, Cima Ekar;	Asiago Observatory, Cima Ekar [code 098]
+099;Lahti;	Lahti [code 099]
+100;Ahtari;	Ahtari [code 100]
+101;Kharkov;	Kharkov [code 101]
+102;Zvenigorod;	Zvenigorod [code 102]
+103;Ljubljana;	Ljubljana [code 103]
+104;San Marcello Pistoiese;	San Marcello Pistoiese [code 104]
+105;Moscow;	Moscow [code 105]
+106;Crni Vrh;	Crni Vrh [code 106]
+107;Cavezzo;	Cavezzo [code 107]
+108;Montelupo;	Montelupo [code 108]
+109;Algiers-Kouba;	Algiers-Kouba [code 109]
+110;Rostov;	Rostov [code 110]
+111;Piazzano Observatory, Florence;	Piazzano Observatory, Florence [code 111]
+112;Pleiade Observatory, Verona;	Pleiade Observatory, Verona [code 112]
+113;Volkssternwarte Drebach, Schoenbrunn;	Volkssternwarte Drebach, Schoenbrunn [code 113]
+114;Engelhardt Observatory, Zelenchukskaya Station;	Engelhardt Observatory, Zelenchukskaya Station [code 114]
+115;Zelenchukskaya;	Zelenchukskaya [code 115]
+116;Giesing;	Giesing [code 116]
+117;Sendling;	Sendling [code 117]
+118;Astronomical and Geophysical Observatory, Modra;	Astronomical and Geophysical Observatory, Modra [code 118]
+119;Abastuman;	Abastuman [code 119]
+120;Visnjan;	Visnjan [code 120]
+121;Kharkov University, Chuguevskaya Station;	Kharkov University, Chuguevskaya Station [code 121]
+122;Pises Observatory;	Pises Observatory [code 122]
+123;Byurakan;	Byurakan [code 123]
+124;Castres;	Castres [code 124]
+125;Tbilisi;	Tbilisi [code 125]
+126;Monte Viseggi;	Monte Viseggi [code 126]
+127;Bornheim;	Bornheim [code 127]
+128;Saratov;	Saratov [code 128]
+129;Ordubad;	Ordubad [code 129]
+130;Lumezzane;	Lumezzane [code 130]
+131;Observatoire de l&#39;Ardeche;	Observatoire de l&#39;Ardeche [code 131]
+132;Bedoin;	Bedoin [code 132]
+133;Les Tardieux;	Les Tardieux [code 133]
+134;Groszschwabhausen;	Groszschwabhausen [code 134]
+135;Kasan;	Kasan [code 135]
+136;Engelhardt Observatory, Kasan;	Engelhardt Observatory, Kasan [code 136]
+137;Givatayim Observatory;	Givatayim Observatory [code 137]
+138;Village-Neuf;	Village-Neuf [code 138]
+139;Antibes;	Antibes [code 139]
+140;Augerolles;	Augerolles [code 140]
+141;Hottviller;	Hottviller [code 141]
+142;Sinsen;	Sinsen [code 142]
+143;Gnosca;	Gnosca [code 143]
+144;Bray et Lu;	Bray et Lu [code 144]
+145;&#39;s-Gravenwezel;	&#39;s-Gravenwezel [code 145]
+146;Frignano;	Frignano [code 146]
+147;Osservatorio Astronomico di Suno;	Osservatorio Astronomico di Suno [code 147]
+148;Guitalens;	Guitalens [code 148]
+149;Beine-Nauroy;	Beine-Nauroy [code 149]
+150;Maisons Laffitte;	Maisons Laffitte [code 150]
+151;Eschenberg Observatory, Winterthur;	Eschenberg Observatory, Winterthur [code 151]
+152;Moletai Astronomical Observatory;	Moletai Astronomical Observatory [code 152]
+153;Stuttgart-Hoffeld;	Stuttgart-Hoffeld [code 153]
+154;Cortina;	Cortina [code 154]
+155;Ole Romer Observatory, Aarhus;	Ole Romer Observatory, Aarhus [code 155]
+156;Catania Astrophysical Observatory;	Catania Astrophysical Observatory [code 156]
+157;Frasso Sabino;	Frasso Sabino [code 157]
+158;Promiod;	Promiod [code 158]
+159;Monte Agliale;	Monte Agliale [code 159]
+160;Castelmartini;	Castelmartini [code 160]
+161;Cerrina Tololo Observatory;	Cerrina Tololo Observatory [code 161]
+162;Potenza;	Potenza [code 162]
+163;Roeser Observatory, Luxembourg;	Roeser Observatory, Luxembourg [code 163]
+164;St. Michel sur Meurthe;	St. Michel sur Meurthe [code 164]
+165;Piera Observatory, Barcelona;	Piera Observatory, Barcelona [code 165]
+166;Upice;	Upice [code 166]
+167;Bulach Observatory;	Bulach Observatory [code 167]
+168;Kourovskaya;	Kourovskaya [code 168]
+169;Airali Observatory;	Airali Observatory [code 169]
+170;Observatorio de Begues;	Observatorio de Begues [code 170]
+171;Flarestar Observatory, San Gwann;	Flarestar Observatory, San Gwann [code 171]
+172;Onnens;	Onnens [code 172]
+173;St. Clotilde, Reunion;	St. Clotilde, Reunion [code 173]
+174;Nyrola Observatory, Jyvaskyla;	Nyrola Observatory, Jyvaskyla [code 174]
+175;F.-X. Bagnoud Observatory, St-Luc;	F.-X. Bagnoud Observatory, St-Luc [code 175]
+176;Observatorio Astronomico de Consell;	Observatorio Astronomico de Consell [code 176]
+177;Le Cres;	Le Cres [code 177]
+178;Collonges;	Collonges [code 178]
+179;Monte Generoso;	Monte Generoso [code 179]
+180;Mauguio;	Mauguio [code 180]
+181;Observatoire des Makes, Saint-Louis;	Observatoire des Makes, Saint-Louis [code 181]
+182;St. Paul, Reunion;	St. Paul, Reunion [code 182]
+183;Starlab Observatory, Karachay-Cherkessia;	Starlab Observatory, Karachay-Cherkessia [code 183]
+184;Valmeca Observatory, Puimichel;	Valmeca Observatory, Puimichel [code 184]
+185;Observatoire Astronomique Jurassien-Vicques;	Observatoire Astronomique Jurassien-Vicques [code 185]
+186;Kitab;	Kitab [code 186]
+187;Astronomical Observatory, Borowiec;	Astronomical Observatory, Borowiec [code 187]
+188;Majdanak;	Majdanak [code 188]
+189;Geneva (before 1967);	Geneva (before 1967) [code 189]
+190;Gissar;	Gissar [code 190]
+191;Dushanbe;	Dushanbe [code 191]
+192;Tashkent;	Tashkent [code 192]
+193;Sanglok;	Sanglok [code 193]
+194;Tivoli;	Tivoli [code 194]
+195;Untermenzing Observatory, Munich;	Untermenzing Observatory, Munich [code 195]
+196;Homburg-Erbach;	Homburg-Erbach [code 196]
+197;Bastia;	Bastia [code 197]
+198;Wildberg;	Wildberg [code 198]
+199;Buthiers;	Buthiers [code 199]
+200;Beersel Hills Observatory;	Beersel Hills Observatory [code 200]
+201;Jonathan B. Postel Observatory;	Jonathan B. Postel Observatory [code 201]
+202;Tamaris Observatoire, La Seyne sur Mer;	Tamaris Observatoire, La Seyne sur Mer [code 202]
+203;GiaGa Observatory;	GiaGa Observatory [code 203]
+204;Schiaparelli Observatory;	Schiaparelli Observatory [code 204]
+205;Obs. Casalecchio di Reno, Bologna;	Obs. Casalecchio di Reno, Bologna [code 205]
+206;Haagaar Observatory, Eina;	Haagaar Observatory, Eina [code 206]
+207;Osservatorio Antonio Grosso;	Osservatorio Antonio Grosso [code 207]
+208;Rivalta;	Rivalta [code 208]
+209;Asiago Observatory, Cima Ekar-ADAS;	Asiago Observatory, Cima Ekar-ADAS [code 209]
+210;Alma-Ata;	Alma-Ata [code 210]
+211;Scandicci;	Scandicci [code 211]
+212;Observatorio La Dehesilla;	Observatorio La Dehesilla [code 212]
+213;Observatorio Montcabre;	Observatorio Montcabre [code 213]
+214;Garching Observatory;	Garching Observatory [code 214]
+215;Buchloe;	Buchloe [code 215]
+216;Observatoire des Cote de Meuse;	Observatoire des Cote de Meuse [code 216]
+217;Assah;	Assah [code 217]
+218;Hyderabad;	Hyderabad [code 218]
+219;Japal-Rangapur;	Japal-Rangapur [code 219]
+220;Vainu Bappu Observatory, Kavalur;	Vainu Bappu Observatory, Kavalur [code 220]
+221;IAS Observatory, Hakos;	IAS Observatory, Hakos [code 221]
+222;Yerres-Canotiers;	Yerres-Canotiers [code 222]
+223;Madras;	Madras [code 223]
+224;Ottmarsheim;	Ottmarsheim [code 224]
+225;Northwood Ridge Observatory;	Northwood Ridge Observatory [code 225]
+226;Guido Ruggieri Observatory, Padua;	Guido Ruggieri Observatory, Padua [code 226]
+227;OrbitJet Observatory, Colden;	OrbitJet Observatory, Colden [code 227]
+228;Bruno Zugna Observatory, Trieste;	Bruno Zugna Observatory, Trieste [code 228]
+229;G. C. Gloriosi Astronomical Observatory, Salerno;	G. C. Gloriosi Astronomical Observatory, Salerno [code 229]
+230;Mt. Wendelstein Observatory;	Mt. Wendelstein Observatory [code 230]
+231;Vesqueville;	Vesqueville [code 231]
+232;Masquefa Observatory;	Masquefa Observatory [code 232]
+233;Sauro Donati Astronomical Observatory, San Vito;	Sauro Donati Astronomical Observatory, San Vito [code 233]
+234;Coddenham Observatory;	Coddenham Observatory [code 234]
+235;CAST Observatory, Talmassons;	CAST Observatory, Talmassons [code 235]
+236;Tomsk;	Tomsk [code 236]
+237;Baugy;	Baugy [code 237]
+238;Grorudalen Optical Observatory;	Grorudalen Optical Observatory [code 238]
+239;Trebur;	Trebur [code 239]
+240;Herrenberg Sternwarte;	Herrenberg Sternwarte [code 240]
+241;Schaerding;	Schaerding [code 241]
+242;Varennes;	Varennes [code 242]
+243;Umbrella Observatory, Fredenbeck;	Umbrella Observatory, Fredenbeck [code 243]
+246;Klet Observatory-KLENOT;	Klet Observatory-KLENOT [code 246]
+257;Goldstone DSS 25, Fort Irwin;	Goldstone DSS 25, Fort Irwin [code 257]
+259;EISCAT Tromso UHF;	EISCAT Tromso UHF [code 259]
+260;Siding Spring Observatory-DSS;	Siding Spring Observatory-DSS [code 260]
+261;Palomar Mountain-DSS;	Palomar Mountain-DSS [code 261]
+262;European Southern Observatory, La Silla-DSS;	European Southern Observatory, La Silla-DSS [code 262]
+266;New Horizons KBO Search-Subaru;	New Horizons KBO Search-Subaru [code 266]
+267;New Horizons KBO Search-CFHT;	New Horizons KBO Search-CFHT [code 267]
+268;New Horizons KBO Search-Magellan/Clay;	New Horizons KBO Search-Magellan/Clay [code 268]
+269;New Horizons KBO Search-Magellan/Baade;	New Horizons KBO Search-Magellan/Baade [code 269]
+277;Royal Observatory, Blackford Hill, Edinburgh;	Royal Observatory, Blackford Hill, Edinburgh [code 277]
+278;Peking, Transit of Venus site;	Peking, Transit of Venus site [code 278]
+279;Seeberg Observatory, Gotha (1787-1857);	Seeberg Observatory, Gotha (1787-1857) [code 279]
+280;Lilienthal;	Lilienthal [code 280]
+281;Bologna;	Bologna [code 281]
+282;Nimes;	Nimes [code 282]
+283;Bremen;	Bremen [code 283]
+284;Driesen;	Driesen [code 284]
+285;Flammarion Observatory, Juvisy;	Flammarion Observatory, Juvisy [code 285]
+286;Yunnan Observatory;	Yunnan Observatory [code 286]
+290;Mt. Graham-VATT;	Mt. Graham-VATT [code 290]
+291;LPL/Spacewatch II;	LPL/Spacewatch II [code 291]
+292;Burlington, New Jersey;	Burlington, New Jersey [code 292]
+293;Burlington remote site;	Burlington remote site [code 293]
+294;Astrophysical Obs., College of Staten Island;	Astrophysical Obs., College of Staten Island [code 294]
+295;Catholic University Observatory, Washington;	Catholic University Observatory, Washington [code 295]
+296;Dudley Observatory, Albany (after 1893);	Dudley Observatory, Albany (after 1893) [code 296]
+297;Middlebury;	Middlebury [code 297]
+298;Van Vleck Observatory;	Van Vleck Observatory [code 298]
+299;Bosscha Observatory, Lembang;	Bosscha Observatory, Lembang [code 299]
+300;Bisei Spaceguard Center-BATTeRS;	Bisei Spaceguard Center-BATTeRS [code 300]
+301;Mont Megantic;	Mont Megantic [code 301]
+302;University of the Andes station;	University of the Andes station [code 302]
+303;OAN de Llano del Hato, Merida;	OAN de Llano del Hato, Merida [code 303]
+304;Las Campanas Observatory;	Las Campanas Observatory [code 304]
+305;Purple Mountain, Hainan Island station;	Purple Mountain, Hainan Island station [code 305]
+306;Observatorio Taya Beixo, Barquisimeto;	Observatorio Taya Beixo, Barquisimeto [code 306]
+307;Shattuck Observatory, Hanover;	Shattuck Observatory, Hanover [code 307]
+309;Cerro Paranal;	Cerro Paranal [code 309]
+312;Tsingtao field station, Xisha Islands;	Tsingtao field station, Xisha Islands [code 312]
+318;Quinns Rock;	Quinns Rock [code 318]
+319;Perth Observatory, Perth-Lowell Telescope;	Perth Observatory, Perth-Lowell Telescope [code 319]
+320;Chiro Observatory;	Chiro Observatory [code 320]
+321;Craigie;	Craigie [code 321]
+322;Perth Observatory, Bickley-MCT;	Perth Observatory, Bickley-MCT [code 322]
+323;Perth Observatory, Bickley;	Perth Observatory, Bickley [code 323]
+324;Peking Observatory, Shaho Station;	Peking Observatory, Shaho Station [code 324]
+327;Peking Observatory, Xinglong Station;	Peking Observatory, Xinglong Station [code 327]
+330;Purple Mountain Observatory, Nanking;	Purple Mountain Observatory, Nanking [code 330]
+333;Desert Eagle Observatory;	Desert Eagle Observatory [code 333]
+334;Tsingtao;	Tsingtao [code 334]
+337;Sheshan, formerly Zo-Se;	Sheshan, formerly Zo-Se [code 337]
+340;Toyonaka;	Toyonaka [code 340]
+341;Akashina;	Akashina [code 341]
+342;Shishikui;	Shishikui [code 342]
+343;Younchun;	Younchun [code 343]
+344;Bohyunsan Optical Astronomy Observatory;	Bohyunsan Optical Astronomy Observatory [code 344]
+345;Sobaeksan Optical Astronomy Observatory;	Sobaeksan Optical Astronomy Observatory [code 345]
+346;KNUE Astronomical Observatory;	KNUE Astronomical Observatory [code 346]
+347;Utsunomiya-Imaizumi;	Utsunomiya-Imaizumi [code 347]
+348;Ayabe;	Ayabe [code 348]
+349;Ageo;	Ageo [code 349]
+350;Kurohone;	Kurohone [code 350]
+351;Sakamoto;	Sakamoto [code 351]
+352;Konan;	Konan [code 352]
+353;Nishi Kobe;	Nishi Kobe [code 353]
+354;Kawachi;	Kawachi [code 354]
+355;Hadano;	Hadano [code 355]
+356;Kogota;	Kogota [code 356]
+357;Shimotsuma;	Shimotsuma [code 357]
+358;Nanyo;	Nanyo [code 358]
+359;Wakayama;	Wakayama [code 359]
+360;Kuma Kogen;	Kuma Kogen [code 360]
+361;Sumoto;	Sumoto [code 361]
+362;Ray Observatory;	Ray Observatory [code 362]
+363;Yamada;	Yamada [code 363]
+364;YCPM Kagoshima Station;	YCPM Kagoshima Station [code 364]
+365;Uto Observatory;	Uto Observatory [code 365]
+366;Miyasaka Observatory;	Miyasaka Observatory [code 366]
+367;Yatsuka;	Yatsuka [code 367]
+368;Ochiai;	Ochiai [code 368]
+369;Chichibu;	Chichibu [code 369]
+370;Kochi;	Kochi [code 370]
+371;Tokyo-Okayama;	Tokyo-Okayama [code 371]
+372;Geisei;	Geisei [code 372]
+373;Oishi;	Oishi [code 373]
+374;Minami-Oda Observatory;	Minami-Oda Observatory [code 374]
+375;Uzurano;	Uzurano [code 375]
+376;Uenohara;	Uenohara [code 376]
+377;Kwasan Observatory, Kyoto;	Kwasan Observatory, Kyoto [code 377]
+378;Murou;	Murou [code 378]
+379;Hamamatsu-Yuto;	Hamamatsu-Yuto [code 379]
+380;Ishiki;	Ishiki [code 380]
+381;Tokyo-Kiso;	Tokyo-Kiso [code 381]
+382;Tokyo-Norikura;	Tokyo-Norikura [code 382]
+383;Chirorin;	Chirorin [code 383]
+384;Shimada;	Shimada [code 384]
+385;Nihondaira Observatory;	Nihondaira Observatory [code 385]
+386;Yatsugatake-Kobuchizawa;	Yatsugatake-Kobuchizawa [code 386]
+387;Tokyo-Dodaira;	Tokyo-Dodaira [code 387]
+388;Tokyo-Mitaka;	Tokyo-Mitaka [code 388]
+389;Tokyo (before 1938);	Tokyo (before 1938) [code 389]
+390;Utsunomiya;	Utsunomiya [code 390]
+391;Sendai Observatory, Ayashi Station;	Sendai Observatory, Ayashi Station [code 391]
+392;JCPM Sapporo Station;	JCPM Sapporo Station [code 392]
+393;JCPM Sakura Station;	JCPM Sakura Station [code 393]
+394;JCPM Hamatonbetsu Station;	JCPM Hamatonbetsu Station [code 394]
+395;Tokyo-Asahikawa;	Tokyo-Asahikawa [code 395]
+396;Asahikawa;	Asahikawa [code 396]
+397;Sapporo Science Center;	Sapporo Science Center [code 397]
+398;Nagatoro;	Nagatoro [code 398]
+399;Kushiro;	Kushiro [code 399]
+400;Kitami;	Kitami [code 400]
+401;Oosato;	Oosato [code 401]
+402;Dynic Astronomical Observatory;	Dynic Astronomical Observatory [code 402]
+403;Kani;	Kani [code 403]
+404;Yamamoto;	Yamamoto [code 404]
+405;Kamihoriguchi;	Kamihoriguchi [code 405]
+406;Bibai;	Bibai [code 406]
+407;Kahoku;	Kahoku [code 407]
+408;Nyukasa;	Nyukasa [code 408]
+409;Kiyose and Mizuho;	Kiyose and Mizuho [code 409]
+410;Sengamine;	Sengamine [code 410]
+411;Oizumi;	Oizumi [code 411]
+412;Iwaki;	Iwaki [code 412]
+413;Siding Spring Observatory;	Siding Spring Observatory [code 413]
+414;Mount Stromlo;	Mount Stromlo [code 414]
+415;Kambah;	Kambah [code 415]
+416;Barton;	Barton [code 416]
+417;Yanagida Astronomical Observatory;	Yanagida Astronomical Observatory [code 417]
+418;Tamworth;	Tamworth [code 418]
+419;Windsor;	Windsor [code 419]
+420;Sydney;	Sydney [code 420]
+421;Mt. Kajigamori, Otoyo;	Mt. Kajigamori, Otoyo [code 421]
+422;Loomberah;	Loomberah [code 422]
+423;North Ryde;	North Ryde [code 423]
+424;Macquarie;	Macquarie [code 424]
+425;Taylor Range Observatory, Brisbane;	Taylor Range Observatory, Brisbane [code 425]
+426;Woomera;	Woomera [code 426]
+427;Stockport;	Stockport [code 427]
+428;Reedy Creek;	Reedy Creek [code 428]
+429;Hawker;	Hawker [code 429]
+430;Rainbow Observatory, near Coonabarabran;	Rainbow Observatory, near Coonabarabran [code 430]
+431;Mt. Tarana Observatory, Bathurst;	Mt. Tarana Observatory, Bathurst [code 431]
+432;Boambee;	Boambee [code 432]
+433;Bagnall Beach Observatory;	Bagnall Beach Observatory [code 433]
+434;S. Benedetto Po;	S. Benedetto Po [code 434]
+435;G. Colombo Astronomical Observatory, Padua;	G. Colombo Astronomical Observatory, Padua [code 435]
+436;Osservatorio di Livergnano;	Osservatorio di Livergnano [code 436]
+437;Haverford;	Haverford [code 437]
+438;Smith College Observatory, Northampton;	Smith College Observatory, Northampton [code 438]
+439;ROTSE-III, Los Alamos;	ROTSE-III, Los Alamos [code 439]
+440;Elginfield Observatory;	Elginfield Observatory [code 440]
+441;Swilken Brae, St. Andrews;	Swilken Brae, St. Andrews [code 441]
+442;Gualba Observatory;	Gualba Observatory [code 442]
+443;Obs. Astronomico Plomer, Buenos Aires;	Obs. Astronomico Plomer, Buenos Aires [code 443]
+444;Star Cruiser Observatory;	Star Cruiser Observatory [code 444]
+445;Observatorio d&#39;Ontinyent;	Observatorio d&#39;Ontinyent [code 445]
+446;Kingsnake Observatory, Seguin;	Kingsnake Observatory, Seguin [code 446]
+447;Centennial Observatory;	Centennial Observatory [code 447]
+448;Desert Moon Observatory, Las Cruces;	Desert Moon Observatory, Las Cruces [code 448]
+449;Griffin Hunter Observatory, Bethune;	Griffin Hunter Observatory, Bethune [code 449]
+450;Carla Jane Observatory, Charlotte;	Carla Jane Observatory, Charlotte [code 450]
+451;West Skies Observatory, Mulvane;	West Skies Observatory, Mulvane [code 451]
+452;Big Cypress Observatory, Fort Lauderdale;	Big Cypress Observatory, Fort Lauderdale [code 452]
+453;Edwards Raven Observatory;	Edwards Raven Observatory [code 453]
+454;Maryland Space Grant Consortium Observatory;	Maryland Space Grant Consortium Observatory [code 454]
+455;CBA Concord;	CBA Concord [code 455]
+456;Daventry Observatory;	Daventry Observatory [code 456]
+457;Partizanske;	Partizanske [code 457]
+458;Guadarrama Observatory;	Guadarrama Observatory [code 458]
+459;Smith River Observatory, Danbury;	Smith River Observatory, Danbury [code 459]
+460;Area 52 Observatory, Nashville;	Area 52 Observatory, Nashville [code 460]
+461;University of Szeged, Piszkesteto Stn. (Konkoly);	University of Szeged, Piszkesteto Stn. (Konkoly) [code 461]
+462;Mount Belleview Observatory;	Mount Belleview Observatory [code 462]
+463;Sommers-Bausch Observatory, Boulder;	Sommers-Bausch Observatory, Boulder [code 463]
+464;Toby Point Observatory, Narragansett;	Toby Point Observatory, Narragansett [code 464]
+465;Takapuna;	Takapuna [code 465]
+466;Mount Molehill Observatory, Auckland;	Mount Molehill Observatory, Auckland [code 466]
+467;Auckland Observatory;	Auckland Observatory [code 467]
+468;Astronomical Observatory, Campo Catino;	Astronomical Observatory, Campo Catino [code 468]
+469;Courroux;	Courroux [code 469]
+470;Ceccano;	Ceccano [code 470]
+471;Houstrup;	Houstrup [code 471]
+472;Merlette;	Merlette [code 472]
+473;Remanzacco;	Remanzacco [code 473]
+474;Mount John Observatory, Lake Tekapo;	Mount John Observatory, Lake Tekapo [code 474]
+475;Turin (before 1913);	Turin (before 1913) [code 475]
+476;Grange Observatory, Bussoleno;	Grange Observatory, Bussoleno [code 476]
+477;Galleywood;	Galleywood [code 477]
+478;Lamalou-les-Bains;	Lamalou-les-Bains [code 478]
+479;Sollies-Pont;	Sollies-Pont [code 479]
+480;Cockfield;	Cockfield [code 480]
+481;Moorwarfen;	Moorwarfen [code 481]
+482;St. Andrews;	St. Andrews [code 482]
+483;Carter Observatory, Black Birch Station;	Carter Observatory, Black Birch Station [code 483]
+484;Happy Valley, Wellington;	Happy Valley, Wellington [code 484]
+485;Carter Observatory, Wellington;	Carter Observatory, Wellington [code 485]
+486;Palmerston North;	Palmerston North [code 486]
+487;Macnairston Observatory;	Macnairston Observatory [code 487]
+488;Newcastle-upon-Tyne;	Newcastle-upon-Tyne [code 488]
+489;Hemingford Abbots;	Hemingford Abbots [code 489]
+490;Wimborne Minster;	Wimborne Minster [code 490]
+491;Centro Astronomico de Yebes;	Centro Astronomico de Yebes [code 491]
+492;Mickleover;	Mickleover [code 492]
+493;Calar Alto;	Calar Alto [code 493]
+494;Stakenbridge;	Stakenbridge [code 494]
+495;Altrincham;	Altrincham [code 495]
+496;Bishopstoke;	Bishopstoke [code 496]
+497;Loudwater;	Loudwater [code 497]
+498;Earls Barton;	Earls Barton [code 498]
+499;Cheam;	Cheam [code 499]
+500;Geocentric;	Geocentric [code 500]
+501;Herstmonceux;	Herstmonceux [code 501]
+502;Colchester;	Colchester [code 502]
+503;Cambridge;	Cambridge [code 503]
+504;Le Creusot;	Le Creusot [code 504]
+505;Simon Stevin;	Simon Stevin [code 505]
+506;Bendestorf;	Bendestorf [code 506]
+507;Nyenheim;	Nyenheim [code 507]
+508;Zeist;	Zeist [code 508]
+509;La Seyne sur Mer;	La Seyne sur Mer [code 509]
+510;Siegen;	Siegen [code 510]
+511;Haute Provence;	Haute Provence [code 511]
+512;Leiden (before 1860);	Leiden (before 1860) [code 512]
+513;Lyons;	Lyons [code 513]
+514;Mundenheim (1907-1913);	Mundenheim (1907-1913) [code 514]
+515;Volkssternwarte Dhaun, near Kirn;	Volkssternwarte Dhaun, near Kirn [code 515]
+516;Hamburg (before 1909);	Hamburg (before 1909) [code 516]
+517;Geneva (from 1967);	Geneva (from 1967) [code 517]
+518;Marine Observatory, Hamburg;	Marine Observatory, Hamburg [code 518]
+519;Meschede;	Meschede [code 519]
+520;Bonn;	Bonn [code 520]
+521;Remeis Observatory, Bamberg;	Remeis Observatory, Bamberg [code 521]
+522;Strasbourg;	Strasbourg [code 522]
+523;Frankfurt;	Frankfurt [code 523]
+524;Mannheim;	Mannheim [code 524]
+525;Marburg;	Marburg [code 525]
+526;Kiel;	Kiel [code 526]
+527;Altona;	Altona [code 527]
+528;Gottingen;	Gottingen [code 528]
+529;Christiania;	Christiania [code 529]
+530;Lubeck;	Lubeck [code 530]
+531;Collegio Romano, Rome;	Collegio Romano, Rome [code 531]
+532;Munich;	Munich [code 532]
+533;Padua;	Padua [code 533]
+534;Leipzig (since 1861);	Leipzig (since 1861) [code 534]
+535;Palermo;	Palermo [code 535]
+536;Berlin-Babelsberg;	Berlin-Babelsberg [code 536]
+537;Urania Observatory, Berlin;	Urania Observatory, Berlin [code 537]
+538;Pola;	Pola [code 538]
+539;Kremsmunster;	Kremsmunster [code 539]
+540;Linz;	Linz [code 540]
+541;Prague;	Prague [code 541]
+542;Falkensee;	Falkensee [code 542]
+543;Leipzig (before 1861);	Leipzig (before 1861) [code 543]
+544;Wilhelm Foerster Observatory, Berlin;	Wilhelm Foerster Observatory, Berlin [code 544]
+545;Vienna (before 1879);	Vienna (before 1879) [code 545]
+546;Oppolzer Observatory, Vienna;	Oppolzer Observatory, Vienna [code 546]
+547;Breslau;	Breslau [code 547]
+548;Berlin (1835-1913);	Berlin (1835-1913) [code 548]
+549;Uppsala;	Uppsala [code 549]
+550;Schwerin;	Schwerin [code 550]
+551;Hurbanovo, formerly O&#39;Gyalla;	Hurbanovo, formerly O&#39;Gyalla [code 551]
+552;Osservatorio S. Vittore, Bologna;	Osservatorio S. Vittore, Bologna [code 552]
+553;Chorzow;	Chorzow [code 553]
+554;Burgsolms Observatory, Wetzlar;	Burgsolms Observatory, Wetzlar [code 554]
+555;Cracow-Fort Skala;	Cracow-Fort Skala [code 555]
+556;Reintal, near Munich;	Reintal, near Munich [code 556]
+557;Ondrejov;	Ondrejov [code 557]
+558;Warsaw;	Warsaw [code 558]
+559;Serra La Nave;	Serra La Nave [code 559]
+560;Madonna di Dossobuono;	Madonna di Dossobuono [code 560]
+561;Piszkesteto Stn. (Konkoly);	Piszkesteto Stn. (Konkoly) [code 561]
+562;Figl Observatory, Vienna;	Figl Observatory, Vienna [code 562]
+563;Seewalchen;	Seewalchen [code 563]
+564;Herrsching;	Herrsching [code 564]
+565;Bassano Bresciano;	Bassano Bresciano [code 565]
+566;Haleakala-NEAT/GEODSS;	Haleakala-NEAT/GEODSS [code 566]
+567;Chions;	Chions [code 567]
+568;Mauna Kea;	Mauna Kea [code 568]
+569;Helsinki;	Helsinki [code 569]
+570;Vilnius (since 1939);	Vilnius (since 1939) [code 570]
+571;Cavriana;	Cavriana [code 571]
+572;Cologne;	Cologne [code 572]
+573;Eldagsen;	Eldagsen [code 573]
+574;Gottolengo;	Gottolengo [code 574]
+575;La Chaux de Fonds;	La Chaux de Fonds [code 575]
+576;Burwash;	Burwash [code 576]
+577;Metzerlen Observatory;	Metzerlen Observatory [code 577]
+578;Linden Observatory;	Linden Observatory [code 578]
+579;Novi Ligure;	Novi Ligure [code 579]
+580;Graz;	Graz [code 580]
+581;Sedgefield;	Sedgefield [code 581]
+582;Orwell Park;	Orwell Park [code 582]
+583;Odessa-Mayaki;	Odessa-Mayaki [code 583]
+584;Leningrad;	Leningrad [code 584]
+585;Kyiv comet station;	Kyiv comet station [code 585]
+586;Pic du Midi;	Pic du Midi [code 586]
+587;Sormano;	Sormano [code 587]
+588;Eremo di Tizzano;	Eremo di Tizzano [code 588]
+589;Santa Lucia Stroncone;	Santa Lucia Stroncone [code 589]
+590;Metzerlen;	Metzerlen [code 590]
+591;Resse Observatory;	Resse Observatory [code 591]
+592;Solingen;	Solingen [code 592]
+593;Monte Argentario;	Monte Argentario [code 593]
+594;Monte Autore;	Monte Autore [code 594]
+595;Farra d&#39;Isonzo;	Farra d&#39;Isonzo [code 595]
+596;Colleverde di Guidonia;	Colleverde di Guidonia [code 596]
+597;Springe;	Springe [code 597]
+598;Loiano;	Loiano [code 598]
+599;Campo Imperatore-CINEOS;	Campo Imperatore-CINEOS [code 599]
+600;TLC Observatory, Bologna;	TLC Observatory, Bologna [code 600]
+601;Engelhardt Observatory, Dresden;	Engelhardt Observatory, Dresden [code 601]
+602;Urania Observatory, Vienna;	Urania Observatory, Vienna [code 602]
+603;Bothkamp;	Bothkamp [code 603]
+604;Archenhold Sternwarte, Berlin-Treptow;	Archenhold Sternwarte, Berlin-Treptow [code 604]
+605;Marl;	Marl [code 605]
+606;Norderstedt;	Norderstedt [code 606]
+607;Hagen Observatory, Ronkhausen;	Hagen Observatory, Ronkhausen [code 607]
+608;Haleakala-AMOS;	Haleakala-AMOS [code 608]
+609;Osservatorio Polino;	Osservatorio Polino [code 609]
+610;Pianoro;	Pianoro [code 610]
+611;Starkenburg Sternwarte, Heppenheim;	Starkenburg Sternwarte, Heppenheim [code 611]
+612;Lenkerbeck;	Lenkerbeck [code 612]
+613;Heisingen;	Heisingen [code 613]
+614;Soisy-sur-Seine;	Soisy-sur-Seine [code 614]
+615;St. Veran;	St. Veran [code 615]
+616;Brno;	Brno [code 616]
+617;Arbonne la Foret;	Arbonne la Foret [code 617]
+618;Martigues;	Martigues [code 618]
+619;Sabadell;	Sabadell [code 619]
+620;Observatorio Astronomico de Mallorca;	Observatorio Astronomico de Mallorca [code 620]
+621;Bergisch Gladbach;	Bergisch Gladbach [code 621]
+622;Oberwichtrach;	Oberwichtrach [code 622]
+623;Liege;	Liege [code 623]
+624;Dertingen;	Dertingen [code 624]
+625;Kihei-AMOS Remote Maui Experimental Site;	Kihei-AMOS Remote Maui Experimental Site [code 625]
+626;Geel;	Geel [code 626]
+627;Blauvac;	Blauvac [code 627]
+628;Mulheim-Ruhr;	Mulheim-Ruhr [code 628]
+629;Szeged Observatory;	Szeged Observatory [code 629]
+630;Osenbach;	Osenbach [code 630]
+631;Hamburg-Georgswerder;	Hamburg-Georgswerder [code 631]
+632;San Polo A Mosciano;	San Polo A Mosciano [code 632]
+633;Romito;	Romito [code 633]
+634;Crolles;	Crolles [code 634]
+635;Pergignan;	Pergignan [code 635]
+636;Essen;	Essen [code 636]
+637;Hamburg-Himmelsmoor;	Hamburg-Himmelsmoor [code 637]
+638;Detmold;	Detmold [code 638]
+639;Dresden;	Dresden [code 639]
+640;Senftenberger Sternwarte;	Senftenberger Sternwarte [code 640]
+641;Overberg;	Overberg [code 641]
+642;Oak Bay, Victoria;	Oak Bay, Victoria [code 642]
+643;OCA-Anza Observatory;	OCA-Anza Observatory [code 643]
+644;Palomar Mountain/NEAT;	Palomar Mountain/NEAT [code 644]
+645;Apache Point-Sloan Digital Sky Survey;	Apache Point-Sloan Digital Sky Survey [code 645]
+646;Santana Observatory, Rancho Cucamonga;	Santana Observatory, Rancho Cucamonga [code 646]
+647;Stone Finder Observatory, Calgary;	Stone Finder Observatory, Calgary [code 647]
+648;Winer Observatory, Sonoita;	Winer Observatory, Sonoita [code 648]
+649;Powell Observatory, Louisburg;	Powell Observatory, Louisburg [code 649]
+650;Temecula;	Temecula [code 650]
+651;Grasslands Observatory, Tucson;	Grasslands Observatory, Tucson [code 651]
+652;Rock Finder Observatory, Calgary;	Rock Finder Observatory, Calgary [code 652]
+653;Torus Observatory, Buckley;	Torus Observatory, Buckley [code 653]
+654;Table Mountain Observatory, Wrightwood-PHMC;	Table Mountain Observatory, Wrightwood-PHMC [code 654]
+655;Sooke;	Sooke [code 655]
+656;Victoria;	Victoria [code 656]
+657;Climenhaga Observatory, Victoria;	Climenhaga Observatory, Victoria [code 657]
+658;National Research Council of Canada;	National Research Council of Canada [code 658]
+659;Heron Cove Observatory, Orcas;	Heron Cove Observatory, Orcas [code 659]
+660;Leuschner Observatory, Berkeley;	Leuschner Observatory, Berkeley [code 660]
+661;Rothney Astrophysical Observatory, Priddis;	Rothney Astrophysical Observatory, Priddis [code 661]
+662;Lick Observatory, Mount Hamilton;	Lick Observatory, Mount Hamilton [code 662]
+663;Red Mountain Observatory;	Red Mountain Observatory [code 663]
+664;Manastash Ridge Observatory;	Manastash Ridge Observatory [code 664]
+665;Wallis Observatory;	Wallis Observatory [code 665]
+666;Moorpark College Observatory;	Moorpark College Observatory [code 666]
+667;Wanapum Dam;	Wanapum Dam [code 667]
+668;San Emigdio Peak;	San Emigdio Peak [code 668]
+669;Ojai;	Ojai [code 669]
+670;Camarillo;	Camarillo [code 670]
+671;Stony Ridge;	Stony Ridge [code 671]
+672;Mount Wilson;	Mount Wilson [code 672]
+673;Table Mountain Observatory, Wrightwood;	Table Mountain Observatory, Wrightwood [code 673]
+674;Ford Observatory, Wrightwood;	Ford Observatory, Wrightwood [code 674]
+675;Palomar Mountain;	Palomar Mountain [code 675]
+676;San Clemente;	San Clemente [code 676]
+677;Lake Arrowhead;	Lake Arrowhead [code 677]
+678;Fountain Hills;	Fountain Hills [code 678]
+679;San Pedro Martir;	San Pedro Martir [code 679]
+680;Los Angeles;	Los Angeles [code 680]
+681;Calgary;	Calgary [code 681]
+682;Kanab;	Kanab [code 682]
+683;Goodricke-Pigott Observatory, Tucson;	Goodricke-Pigott Observatory, Tucson [code 683]
+684;Prescott;	Prescott [code 684]
+685;Williams;	Williams [code 685]
+686;U. of Minn. Infrared Obs., Mt. Lemmon;	U. of Minn. Infrared Obs., Mt. Lemmon [code 686]
+687;Northern Arizona University, Flagstaff;	Northern Arizona University, Flagstaff [code 687]
+688;Lowell Observatory, Anderson Mesa Station;	Lowell Observatory, Anderson Mesa Station [code 688]
+689;U.S. Naval Observatory, Flagstaff;	U.S. Naval Observatory, Flagstaff [code 689]
+690;Lowell Observatory, Flagstaff;	Lowell Observatory, Flagstaff [code 690]
+691;Steward Observatory, Kitt Peak-Spacewatch;	Steward Observatory, Kitt Peak-Spacewatch [code 691]
+692;Steward Observatory, Tucson;	Steward Observatory, Tucson [code 692]
+693;Catalina Station, Tucson;	Catalina Station, Tucson [code 693]
+694;Tumamoc Hill, Tucson;	Tumamoc Hill, Tucson [code 694]
+695;Kitt Peak;	Kitt Peak [code 695]
+696;Whipple Observatory, Mt. Hopkins;	Whipple Observatory, Mt. Hopkins [code 696]
+697;Kitt Peak, McGraw-Hill;	Kitt Peak, McGraw-Hill [code 697]
+698;Mt. Bigelow;	Mt. Bigelow [code 698]
+699;Lowell Observatory-LONEOS;	Lowell Observatory-LONEOS [code 699]
+700;Chinle;	Chinle [code 700]
+701;Junk Bond Observatory, Sierra Vista;	Junk Bond Observatory, Sierra Vista [code 701]
+702;Joint Obs. for cometary research, Socorro;	Joint Obs. for cometary research, Socorro [code 702]
+703;Catalina Sky Survey;	Catalina Sky Survey [code 703]
+704;Lincoln Laboratory ETS, New Mexico;	Lincoln Laboratory ETS, New Mexico [code 704]
+705;Apache Point;	Apache Point [code 705]
+706;Salida;	Salida [code 706]
+707;Chamberlin field station;	Chamberlin field station [code 707]
+708;Chamberlin Observatory, Denver;	Chamberlin Observatory, Denver [code 708]
+709;W &amp; B Observatory, Cloudcroft;	W &amp; B Observatory, Cloudcroft [code 709]
+710;MPO Observatory, Florissant;	MPO Observatory, Florissant [code 710]
+711;McDonald Observatory, Fort Davis;	McDonald Observatory, Fort Davis [code 711]
+712;USAF Academy Observatory, Colorado Springs;	USAF Academy Observatory, Colorado Springs [code 712]
+713;Thornton;	Thornton [code 713]
+714;Bagdad;	Bagdad [code 714]
+715;Jornada Observatory, Las Cruces;	Jornada Observatory, Las Cruces [code 715]
+716;Palmer Divide Observatory, Colorado Springs;	Palmer Divide Observatory, Colorado Springs [code 716]
+717;Prude Ranch;	Prude Ranch [code 717]
+718;Tooele;	Tooele [code 718]
+719;Etscorn Observatory;	Etscorn Observatory [code 719]
+720;Universidad de Monterrey;	Universidad de Monterrey [code 720]
+721;Lime Creek;	Lime Creek [code 721]
+722;Missouri City;	Missouri City [code 722]
+723;Cottonwood Observatory, Ada;	Cottonwood Observatory, Ada [code 723]
+724;National Observatory, Tacubaya;	National Observatory, Tacubaya [code 724]
+725;Fair Oaks Ranch;	Fair Oaks Ranch [code 725]
+726;Brainerd;	Brainerd [code 726]
+727;Zeno Observatory, Edmond;	Zeno Observatory, Edmond [code 727]
+728;Corpus Christi;	Corpus Christi [code 728]
+729;Glenlea Astronomical Observatory, Winnipeg;	Glenlea Astronomical Observatory, Winnipeg [code 729]
+730;University of North Dakota, Grand Forks;	University of North Dakota, Grand Forks [code 730]
+731;Rose-Hulman Observatory, Terre Haute;	Rose-Hulman Observatory, Terre Haute [code 731]
+732;Oaxaca;	Oaxaca [code 732]
+733;Allen, Texas;	Allen, Texas [code 733]
+734;Farpoint Observatory, Eskridge;	Farpoint Observatory, Eskridge [code 734]
+735;George Observatory, Needville;	George Observatory, Needville [code 735]
+736;Houston;	Houston [code 736]
+737;New Bullpen Observatory, Alpharetta;	New Bullpen Observatory, Alpharetta [code 737]
+738;Observatory of the State University of Missouri;	Observatory of the State University of Missouri [code 738]
+739;Sunflower Observatory, Olathe;	Sunflower Observatory, Olathe [code 739]
+740;SFA Observatory, Nacogdoches;	SFA Observatory, Nacogdoches [code 740]
+741;Goodsell Observatory, Northfield;	Goodsell Observatory, Northfield [code 741]
+742;Drake University, Des Moines;	Drake University, Des Moines [code 742]
+743;University of Minnesota, Minneapolis;	University of Minnesota, Minneapolis [code 743]
+744;Doyan Rose Observatory, Indianapolis;	Doyan Rose Observatory, Indianapolis [code 744]
+745;Morrison Obervatory, Glasgow;	Morrison Obervatory, Glasgow [code 745]
+746;Brooks Observatory, Mt. Pleasant;	Brooks Observatory, Mt. Pleasant [code 746]
+747;Highland Road Park Observatory;	Highland Road Park Observatory [code 747]
+748;Van Allen Observatory, Iowa City;	Van Allen Observatory, Iowa City [code 748]
+749;Oakwood;	Oakwood [code 749]
+750;Hobbs Observatory, Fall Creek;	Hobbs Observatory, Fall Creek [code 750]
+751;Lake Saint Louis;	Lake Saint Louis [code 751]
+752;Puckett Observatory, Mountain Town;	Puckett Observatory, Mountain Town [code 752]
+753;Washburn Observatory, Madison;	Washburn Observatory, Madison [code 753]
+754;Yerkes Observatory, Williams Bay;	Yerkes Observatory, Williams Bay [code 754]
+755;Optec Observatory;	Optec Observatory [code 755]
+756;Dearborn Observatory, Evanston;	Dearborn Observatory, Evanston [code 756]
+757;High Point;	High Point [code 757]
+758;BCC Observatory, Cocoa;	BCC Observatory, Cocoa [code 758]
+759;Nashville;	Nashville [code 759]
+760;Goethe Link Observatory, Brooklyn;	Goethe Link Observatory, Brooklyn [code 760]
+761;Zephyrhills;	Zephyrhills [code 761]
+762;Four Winds Observatory, Lake Leelanau;	Four Winds Observatory, Lake Leelanau [code 762]
+763;King City;	King City [code 763]
+764;Puckett Observatory, Stone Mountain;	Puckett Observatory, Stone Mountain [code 764]
+765;Cincinnati;	Cincinnati [code 765]
+766;Michigan State University Obs., East Lansing;	Michigan State University Obs., East Lansing [code 766]
+767;Ann Arbor;	Ann Arbor [code 767]
+768;Dearborn Observatory;	Dearborn Observatory [code 768]
+769;McMillin Observatory, Columbus;	McMillin Observatory, Columbus [code 769]
+770;Crescent Moon Observatory, Columbus;	Crescent Moon Observatory, Columbus [code 770]
+771;Boyeros Observatory, Havana;	Boyeros Observatory, Havana [code 771]
+772;Boltwood Observatory, Stittsville;	Boltwood Observatory, Stittsville [code 772]
+773;Warner and Swasey Observatory, Cleveland;	Warner and Swasey Observatory, Cleveland [code 773]
+774;Warner and Swasey Nassau Station, Chardon;	Warner and Swasey Nassau Station, Chardon [code 774]
+775;Sayre Observatory, South Bethlehem;	Sayre Observatory, South Bethlehem [code 775]
+776;Foggy Bottom, Hamilton;	Foggy Bottom, Hamilton [code 776]
+777;Toronto;	Toronto [code 777]
+778;Allegheny Observatory, Pittsburgh;	Allegheny Observatory, Pittsburgh [code 778]
+779;David Dunlap Observatory, Richmond Hill;	David Dunlap Observatory, Richmond Hill [code 779]
+780;Leander McCormick Observatory, Charlottesville;	Leander McCormick Observatory, Charlottesville [code 780]
+781;Quito;	Quito [code 781]
+782;Quito, comet astrograph station;	Quito, comet astrograph station [code 782]
+783;Rixeyville;	Rixeyville [code 783]
+784;Stull Observatory, Alfred University;	Stull Observatory, Alfred University [code 784]
+785;Fitz-Randolph Observatory, Princeton;	Fitz-Randolph Observatory, Princeton [code 785]
+786;U.S. Naval Obs., Washington (since 1893);	U.S. Naval Obs., Washington (since 1893) [code 786]
+787;U.S. Naval Obs., Washington (before 1893);	U.S. Naval Obs., Washington (before 1893) [code 787]
+788;Mount Cuba Observatory, Wilmington;	Mount Cuba Observatory, Wilmington [code 788]
+789;Litchfield Observatory, Clinton;	Litchfield Observatory, Clinton [code 789]
+790;Dominion Observatory, Ottawa;	Dominion Observatory, Ottawa [code 790]
+791;Flower and Cook Observatory, Philadelphia;	Flower and Cook Observatory, Philadelphia [code 791]
+792;University of Rhode Island, Quonochontaug;	University of Rhode Island, Quonochontaug [code 792]
+793;Dudley Observatory, Albany (before 1893);	Dudley Observatory, Albany (before 1893) [code 793]
+794;Vassar College Observatory, Poughkeepsie;	Vassar College Observatory, Poughkeepsie [code 794]
+795;Rutherford;	Rutherford [code 795]
+796;Stamford;	Stamford [code 796]
+797;Yale Observatory, New Haven;	Yale Observatory, New Haven [code 797]
+798;Yale Observatory, Bethany;	Yale Observatory, Bethany [code 798]
+799;Winchester;	Winchester [code 799]
+800;Harvard Observatory, Arequipa;	Harvard Observatory, Arequipa [code 800]
+801;Oak Ridge Observatory;	Oak Ridge Observatory [code 801]
+802;Harvard Observatory, Cambridge;	Harvard Observatory, Cambridge [code 802]
+803;Taunton;	Taunton [code 803]
+804;Santiago-San Bernardo;	Santiago-San Bernardo [code 804]
+805;Santiago-Cerro El Roble;	Santiago-Cerro El Roble [code 805]
+806;Santiago-Cerro Calan;	Santiago-Cerro Calan [code 806]
+807;Cerro Tololo Observatory, La Serena;	Cerro Tololo Observatory, La Serena [code 807]
+808;El Leoncito;	El Leoncito [code 808]
+809;European Southern Observatory, La Silla;	European Southern Observatory, La Silla [code 809]
+810;Wallace Observatory, Westford;	Wallace Observatory, Westford [code 810]
+811;Maria Mitchell Observatory, Nantucket;	Maria Mitchell Observatory, Nantucket [code 811]
+812;Vina del Mar;	Vina del Mar [code 812]
+813;Santiago-Quinta Normal (1862-1920);	Santiago-Quinta Normal (1862-1920) [code 813]
+814;North Scituate;	North Scituate [code 814]
+815;Santiago-Santa Lucia (1849-1861);	Santiago-Santa Lucia (1849-1861) [code 815]
+816;Rand Observatory;	Rand Observatory [code 816]
+817;Sudbury;	Sudbury [code 817]
+818;Gemeaux Observatory, Laval;	Gemeaux Observatory, Laval [code 818]
+819;Val-des-Bois;	Val-des-Bois [code 819]
+820;Tarija;	Tarija [code 820]
+821;Cordoba-Bosque Alegre;	Cordoba-Bosque Alegre [code 821]
+822;Cordoba;	Cordoba [code 822]
+823;Fitchburg;	Fitchburg [code 823]
+824;Lake Clear;	Lake Clear [code 824]
+825;Granville;	Granville [code 825]
+826;Plessissville;	Plessissville [code 826]
+827;Saint-Felicien;	Saint-Felicien [code 827]
+828;Assonet;	Assonet [code 828]
+829;Complejo Astronomico El Leoncito;	Complejo Astronomico El Leoncito [code 829]
+830;Hudson;	Hudson [code 830]
+831;Rosemary Hill Observatory, University of Florida;	Rosemary Hill Observatory, University of Florida [code 831]
+832;Etters;	Etters [code 832]
+833;Obs. Astronomico de Mercedes, Buenos Aires;	Obs. Astronomico de Mercedes, Buenos Aires [code 833]
+834;Buenos Aires-AAAA;	Buenos Aires-AAAA [code 834]
+835;Drum Hill Station, Chelmsford;	Drum Hill Station, Chelmsford [code 835]
+836;Furnace Brook Observatory, Cranston;	Furnace Brook Observatory, Cranston [code 836]
+837;Jupiter;	Jupiter [code 837]
+838;Dayton;	Dayton [code 838]
+839;La Plata;	La Plata [code 839]
+840;Flint;	Flint [code 840]
+841;Martin Observatory, Blacksburg;	Martin Observatory, Blacksburg [code 841]
+842;Gettysburg College Observatory;	Gettysburg College Observatory [code 842]
+843;Emerald Lane Observatory, Decatur;	Emerald Lane Observatory, Decatur [code 843]
+844;Observatorio Astronomico Los Molinos;	Observatorio Astronomico Los Molinos [code 844]
+845;Ford Observatory, Ithaca;	Ford Observatory, Ithaca [code 845]
+846;Principia Astronomical Observatory, Elsah;	Principia Astronomical Observatory, Elsah [code 846]
+847;Lunar Cafe Observator, Flint;	Lunar Cafe Observator, Flint [code 847]
+848;Tenagra Observatory, Cottage Grove;	Tenagra Observatory, Cottage Grove [code 848]
+849;Everstar Observatory, Olathe;	Everstar Observatory, Olathe [code 849]
+850;Cordell-Lorenz Observatory, Sewanee;	Cordell-Lorenz Observatory, Sewanee [code 850]
+851;Burke-Gaffney Observatory, Halifax;	Burke-Gaffney Observatory, Halifax [code 851]
+852;River Moss Observatory, St. Peters;	River Moss Observatory, St. Peters [code 852]
+853;Biosphere 2 Observatory;	Biosphere 2 Observatory [code 853]
+854;Sabino Canyon Observatory, Tucson;	Sabino Canyon Observatory, Tucson [code 854]
+855;Wayside Observatory, Minnetonka;	Wayside Observatory, Minnetonka [code 855]
+856;Riverside;	Riverside [code 856]
+857;Iowa Robotic Observatory, Sonoita;	Iowa Robotic Observatory, Sonoita [code 857]
+858;Tebbutt Observatory, Edgewood;	Tebbutt Observatory, Edgewood [code 858]
+859;Wykrota Observatory-CEAMIG;	Wykrota Observatory-CEAMIG [code 859]
+860;Valinhos;	Valinhos [code 860]
+861;Barao Geraldo;	Barao Geraldo [code 861]
+862;Saku;	Saku [code 862]
+863;Furukawa;	Furukawa [code 863]
+864;Kumamoto;	Kumamoto [code 864]
+865;Emmy Observatory, New Paltz;	Emmy Observatory, New Paltz [code 865]
+866;U.S. Naval Academy, Michelson;	U.S. Naval Academy, Michelson [code 866]
+867;Saji Observatory;	Saji Observatory [code 867]
+868;Hidaka Observatory;	Hidaka Observatory [code 868]
+869;Tosa;	Tosa [code 869]
+870;Campinas;	Campinas [code 870]
+871;Akou;	Akou [code 871]
+872;Tokushima;	Tokushima [code 872]
+873;Kurashiki Observatory;	Kurashiki Observatory [code 873]
+874;Observatorio do Pico dos Dias, Itajuba;	Observatorio do Pico dos Dias, Itajuba [code 874]
+875;Yorii;	Yorii [code 875]
+876;Honjo;	Honjo [code 876]
+877;Okutama;	Okutama [code 877]
+878;Kagiya;	Kagiya [code 878]
+879;Tokai;	Tokai [code 879]
+880;Rio de Janeiro;	Rio de Janeiro [code 880]
+881;Toyota;	Toyota [code 881]
+882;JCPM Oi Station;	JCPM Oi Station [code 882]
+883;Shizuoka;	Shizuoka [code 883]
+884;Kawane;	Kawane [code 884]
+885;JCPM Yakiimo Station;	JCPM Yakiimo Station [code 885]
+886;Mishima;	Mishima [code 886]
+887;Ojima;	Ojima [code 887]
+888;Gekko;	Gekko [code 888]
+889;Karasuyama;	Karasuyama [code 889]
+890;JCPM Tone Station;	JCPM Tone Station [code 890]
+891;JCPM Kimachi Station;	JCPM Kimachi Station [code 891]
+892;YGCO Hoshikawa and Nagano Stations;	YGCO Hoshikawa and Nagano Stations [code 892]
+893;Sendai Municipal Observatory;	Sendai Municipal Observatory [code 893]
+894;Kiyosato;	Kiyosato [code 894]
+895;Hatamae;	Hatamae [code 895]
+896;Yatsugatake South Base Observatory;	Yatsugatake South Base Observatory [code 896]
+897;YGCO Chiyoda Station;	YGCO Chiyoda Station [code 897]
+898;Fujieda;	Fujieda [code 898]
+899;Toma;	Toma [code 899]
+900;Moriyama;	Moriyama [code 900]
+901;Tajimi;	Tajimi [code 901]
+902;Ootake;	Ootake [code 902]
+903;Fukuchiyama and Kannabe;	Fukuchiyama and Kannabe [code 903]
+904;Go-Chome and Kobe-Suma;	Go-Chome and Kobe-Suma [code 904]
+905;Nachi-Katsuura Observatory;	Nachi-Katsuura Observatory [code 905]
+906;Cobram;	Cobram [code 906]
+907;Melbourne;	Melbourne [code 907]
+908;Toyama;	Toyama [code 908]
+909;Snohomish Hilltop Observatory;	Snohomish Hilltop Observatory [code 909]
+910;Caussols-ODAS;	Caussols-ODAS [code 910]
+911;Collins Observatory, Corning Community College;	Collins Observatory, Corning Community College [code 911]
+912;Carbuncle Hill Observatory, Greene;	Carbuncle Hill Observatory, Greene [code 912]
+913;Observatorio Kappa Crucis, Montevideo;	Observatorio Kappa Crucis, Montevideo [code 913]
+914;Underwood Observatory, Hubbardston;	Underwood Observatory, Hubbardston [code 914]
+915;River Oaks Observatory, New Braunfels;	River Oaks Observatory, New Braunfels [code 915]
+916;Oakley Observatory, Terre Haute;	Oakley Observatory, Terre Haute [code 916]
+917;Pacific Lutheran University Keck Observatory;	Pacific Lutheran University Keck Observatory [code 917]
+918;Badlands Observatory, Quinn;	Badlands Observatory, Quinn [code 918]
+919;Desert Beaver Observatory;	Desert Beaver Observatory [code 919]
+920;RIT Observatory, Rochester;	RIT Observatory, Rochester [code 920]
+921;SW Institute for Space Research, Cloudcroft;	SW Institute for Space Research, Cloudcroft [code 921]
+922;Timberland Observatory, Decatur;	Timberland Observatory, Decatur [code 922]
+923;The Bradstreet Observatory, St. Davids;	The Bradstreet Observatory, St. Davids [code 923]
+924;Observatoire du Cegep de Trois-Rivieres;	Observatoire du Cegep de Trois-Rivieres [code 924]
+925;Palominas Observatory;	Palominas Observatory [code 925]
+926;Tenagra II Observatory, Nogales;	Tenagra II Observatory, Nogales [code 926]
+927;Madison-YRS;	Madison-YRS [code 927]
+928;Moonedge Observatory, Northport;	Moonedge Observatory, Northport [code 928]
+929;Port Allen;	Port Allen [code 929]
+930;S. S. Observatory, Pamatai;	S. S. Observatory, Pamatai [code 930]
+931;Puna&#39;auia;	Puna&#39;auia [code 931]
+932;John J. McCarthy Obs., New Milford;	John J. McCarthy Obs., New Milford [code 932]
+933;Rockland Observatory, Sierra Vista;	Rockland Observatory, Sierra Vista [code 933]
+934;Poway Valley;	Poway Valley [code 934]
+935;Wyrick Observatory, Haymarket;	Wyrick Observatory, Haymarket [code 935]
+936;Ibis Observatory, Manhattan;	Ibis Observatory, Manhattan [code 936]
+937;Bradbury Observatory, Stockton-on-Tees;	Bradbury Observatory, Stockton-on-Tees [code 937]
+938;Linhaceira;	Linhaceira [code 938]
+939;Observatorio Rodeno;	Observatorio Rodeno [code 939]
+940;Waterlooville;	Waterlooville [code 940]
+941;Observatorio Pla D&#39;Arguines;	Observatorio Pla D&#39;Arguines [code 941]
+942;Grantham;	Grantham [code 942]
+943;Peverell;	Peverell [code 943]
+944;Observatorio Geminis, Dos Hermanas;	Observatorio Geminis, Dos Hermanas [code 944]
+945;Observatorio Monte Deva;	Observatorio Monte Deva [code 945]
+946;Ametlla de Mar;	Ametlla de Mar [code 946]
+947;Saint-Sulpice;	Saint-Sulpice [code 947]
+948;Pymoor;	Pymoor [code 948]
+949;Durtal;	Durtal [code 949]
+950;La Palma;	La Palma [code 950]
+951;Highworth;	Highworth [code 951]
+952;Marxuquera;	Marxuquera [code 952]
+953;Montjoia;	Montjoia [code 953]
+954;Teide Observatory;	Teide Observatory [code 954]
+955;Sassoeiros;	Sassoeiros [code 955]
+956;Observatorio Pozuelo;	Observatorio Pozuelo [code 956]
+957;Merignac;	Merignac [code 957]
+958;Observatoire de Dax;	Observatoire de Dax [code 958]
+959;Ramonville Saint Agne;	Ramonville Saint Agne [code 959]
+960;Rolvenden;	Rolvenden [code 960]
+961;City Observatory, Calton Hill, Edinburgh;	City Observatory, Calton Hill, Edinburgh [code 961]
+962;Gandia;	Gandia [code 962]
+963;Werrington;	Werrington [code 963]
+964;Southend Bradfield;	Southend Bradfield [code 964]
+965;Observacao Astronomica no Algarve, Portimao;	Observacao Astronomica no Algarve, Portimao [code 965]
+966;Church Stretton;	Church Stretton [code 966]
+967;Greens Norton;	Greens Norton [code 967]
+968;Haverhill;	Haverhill [code 968]
+969;London-Regents Park;	London-Regents Park [code 969]
+970;Chelmsford;	Chelmsford [code 970]
+971;Lisbon;	Lisbon [code 971]
+972;Dun Echt;	Dun Echt [code 972]
+973;Harrow;	Harrow [code 973]
+974;Genoa;	Genoa [code 974]
+975;Observatorio Astronomico de Valencia;	Observatorio Astronomico de Valencia [code 975]
+976;Leamington Spa;	Leamington Spa [code 976]
+977;Markree;	Markree [code 977]
+978;Conder Brow;	Conder Brow [code 978]
+979;South Wonston;	South Wonston [code 979]
+980;Lancaster;	Lancaster [code 980]
+981;Armagh;	Armagh [code 981]
+982;Dunsink Observatory, Dublin;	Dunsink Observatory, Dublin [code 982]
+983;San Fernando;	San Fernando [code 983]
+984;Eastfield;	Eastfield [code 984]
+985;Telford;	Telford [code 985]
+986;Ascot;	Ascot [code 986]
+987;Isle of Man Observatory, Foxdale;	Isle of Man Observatory, Foxdale [code 987]
+988;Glasgow;	Glasgow [code 988]
+989;Wilfred Hall Observatory, Preston;	Wilfred Hall Observatory, Preston [code 989]
+990;Madrid;	Madrid [code 990]
+991;Liverpool (since 1867);	Liverpool (since 1867) [code 991]
+992;Liverpool (before 1867);	Liverpool (before 1867) [code 992]
+993;Woolston Observatory;	Woolston Observatory [code 993]
+994;Godalming;	Godalming [code 994]
+995;Durham;	Durham [code 995]
+996;Oxford;	Oxford [code 996]
+997;Hartwell;	Hartwell [code 997]
+998;London-Mill Hill;	London-Mill Hill [code 998]
+999;Bordeaux-Floirac;	Bordeaux-Floirac [code 999]
+A00;Gravesend;	Gravesend [code A00]
+A01;Masia Cal Maciarol Modul 2;	Masia Cal Maciarol Modul 2 [code A01]
+A02;Masia Cal Maciarol Modul 8;	Masia Cal Maciarol Modul 8 [code A02]
+A03;Torredembarra;	Torredembarra [code A03]
+A04;Saint-Caprais;	Saint-Caprais [code A04]
+A05;Belesta;	Belesta [code A05]
+A06;Mataro;	Mataro [code A06]
+A07;Gretz-Armainvilliers;	Gretz-Armainvilliers [code A07]
+A08;Malibert;	Malibert [code A08]
+A09;Quincampoix;	Quincampoix [code A09]
+A10;Observatorio Astronomico de Corbera;	Observatorio Astronomico de Corbera [code A10]
+A11;Wormhout;	Wormhout [code A11]
+A12;Stazione Astronomica di Sozzago;	Stazione Astronomica di Sozzago [code A12]
+A13;Observatoire Naef, Marly;	Observatoire Naef, Marly [code A13]
+A14;Les Engarouines Observatory;	Les Engarouines Observatory [code A14]
+A15;Josef Bresser Sternwarte, Borken;	Josef Bresser Sternwarte, Borken [code A15]
+A16;Tentlingen;	Tentlingen [code A16]
+A17;Guidestar Observatory, Weinheim;	Guidestar Observatory, Weinheim [code A17]
+A18;Herne;	Herne [code A18]
+A19;Koln;	Koln [code A19]
+A20;Sogel;	Sogel [code A20]
+A21;Irmtraut;	Irmtraut [code A21]
+A22;Starkenburg Sternwarte-SOHAS;	Starkenburg Sternwarte-SOHAS [code A22]
+A23;Weinheim;	Weinheim [code A23]
+A24;New Millennium Observatory, Mozzate;	New Millennium Observatory, Mozzate [code A24]
+A25;Nova Milanese;	Nova Milanese [code A25]
+A26;Darmstadt;	Darmstadt [code A26]
+A27;Eridanus Observatory, Langelsheim;	Eridanus Observatory, Langelsheim [code A27]
+A28;Kempten;	Kempten [code A28]
+A29;Santa Maria a Monte;	Santa Maria a Monte [code A29]
+A30;Crespadoro;	Crespadoro [code A30]
+A31;Corcaroli Observatory;	Corcaroli Observatory [code A31]
+A32;Panker;	Panker [code A32]
+A33;Volkssternwarte Kirchheim;	Volkssternwarte Kirchheim [code A33]
+A34;Grosshabersdorf;	Grosshabersdorf [code A34]
+A35;Hormersdorf Observatory;	Hormersdorf Observatory [code A35]
+A36;Ganda di Aviatico;	Ganda di Aviatico [code A36]
+A37;Mueggelheim;	Mueggelheim [code A37]
+A38;Campocatino Automated Telescope, Collepardo;	Campocatino Automated Telescope, Collepardo [code A38]
+A39;Altenburg;	Altenburg [code A39]
+A40;Pieta;	Pieta [code A40]
+A41;Rezman Observatory, Kamnik;	Rezman Observatory, Kamnik [code A41]
+A42;Gehrden;	Gehrden [code A42]
+A43;Inastars Observatory, Potsdam (before 2006);	Inastars Observatory, Potsdam (before 2006) [code A43]
+A44;Altschwendt;	Altschwendt [code A44]
+A45;Karrenkneul;	Karrenkneul [code A45]
+A46;Lelekovice;	Lelekovice [code A46]
+A47;Matera;	Matera [code A47]
+A48;Povegliano Veronese;	Povegliano Veronese [code A48]
+A49;Uppsala-Angstrom;	Uppsala-Angstrom [code A49]
+A50;Andrushivka Astronomical Observatory;	Andrushivka Astronomical Observatory [code A50]
+A51;Danzig;	Danzig [code A51]
+A52;Etyek;	Etyek [code A52]
+A53;Peschiera del Garda;	Peschiera del Garda [code A53]
+A54;Ostrorog;	Ostrorog [code A54]
+A55;Osservatorio Astronomico Vallemare di Borbona;	Osservatorio Astronomico Vallemare di Borbona [code A55]
+A56;Parma;	Parma [code A56]
+A57;Osservatorio Astron. Margherita Hack, Firenze;	Osservatorio Astron. Margherita Hack, Firenze [code A57]
+A58;Observatoire de Chalandray-Canotiers;	Observatoire de Chalandray-Canotiers [code A58]
+A59;Karlovy Vary Observatory;	Karlovy Vary Observatory [code A59]
+A60;YSTAR-NEOPAT Station, Sutherland;	YSTAR-NEOPAT Station, Sutherland [code A60]
+A61;Tortona;	Tortona [code A61]
+A62;Aichtal;	Aichtal [code A62]
+A63;Cosmosoz Obs., Tassin la Demi Lune;	Cosmosoz Obs., Tassin la Demi Lune [code A63]
+A64;Couvaloup de St-Cergue;	Couvaloup de St-Cergue [code A64]
+A65;Le Couvent de Lentin;	Le Couvent de Lentin [code A65]
+A66;Stazione Osservativa Astronomica, Livorno;	Stazione Osservativa Astronomica, Livorno [code A66]
+A67;Chiusa di Pesio;	Chiusa di Pesio [code A67]
+A68;Swedenborg Obs., Bockholmwik;	Swedenborg Obs., Bockholmwik [code A68]
+A69;Osservatorio Palazzo Bindi Sergardi;	Osservatorio Palazzo Bindi Sergardi [code A69]
+A70;Lumijoki;	Lumijoki [code A70]
+A71;Stixendorf;	Stixendorf [code A71]
+A72;Radebeul Observatory;	Radebeul Observatory [code A72]
+A73;Penzing Astrometric Obs., Vienna;	Penzing Astrometric Obs., Vienna [code A73]
+A74;Bergen-Enkheim Observatory;	Bergen-Enkheim Observatory [code A74]
+A75;Fort Pius Observatory, Barcelona;	Fort Pius Observatory, Barcelona [code A75]
+A76;Andromeda Observatory, Miskolc;	Andromeda Observatory, Miskolc [code A76]
+A77;Observatoire Chante-Perdrix, Dauban;	Observatoire Chante-Perdrix, Dauban [code A77]
+A78;Stia;	Stia [code A78]
+A79;Zvezdno Obshtestvo Observatory, Plana;	Zvezdno Obshtestvo Observatory, Plana [code A79]
+A80;Lindenberg Observatory;	Lindenberg Observatory [code A80]
+A81;Balzaretto Observatory, Rome;	Balzaretto Observatory, Rome [code A81]
+A82;Osservatorio Astronomico di Trieste;	Osservatorio Astronomico di Trieste [code A82]
+A83;Jakokoski Observatory;	Jakokoski Observatory [code A83]
+A84;TUBITAK National Observatory;	TUBITAK National Observatory [code A84]
+A85;Odessa Astronomical Observatory, Kryzhanovka;	Odessa Astronomical Observatory, Kryzhanovka [code A85]
+A86;Albigneux;	Albigneux [code A86]
+A87;Rimbach;	Rimbach [code A87]
+A88;Bolzaneto;	Bolzaneto [code A88]
+A89;Sterni Observatory, Kempten;	Sterni Observatory, Kempten [code A89]
+A90;Sant Gervasi Observatory, Barcelona;	Sant Gervasi Observatory, Barcelona [code A90]
+A91;Hankasalmi Observatory;	Hankasalmi Observatory [code A91]
+A92;Urseanu Observatory, Bucharest;	Urseanu Observatory, Bucharest [code A92]
+A93;Lucca;	Lucca [code A93]
+A94;Cormons;	Cormons [code A94]
+A95;Taurus Hill Observatory, Varkaus;	Taurus Hill Observatory, Varkaus [code A95]
+A96;Klosterneuburg;	Klosterneuburg [code A96]
+A97;Stammersdorf;	Stammersdorf [code A97]
+A98;Observatory Mazzarot-1, Baran&#39;;	Observatory Mazzarot-1, Baran&#39; [code A98]
+A99;Osservatorio del Monte Baldo;	Osservatorio del Monte Baldo [code A99]
+B00;Savigny-le-Temple;	Savigny-le-Temple [code B00]
+B01;Taunus Observatory, Frankfurt;	Taunus Observatory, Frankfurt [code B01]
+B02;Kielce;	Kielce [code B02]
+B03;Alter Satzberg, Vienna;	Alter Satzberg, Vienna [code B03]
+B04;OAVdA, Saint-Barthelemy;	OAVdA, Saint-Barthelemy [code B04]
+B05;Ka-Dar Observatory, Barybino;	Ka-Dar Observatory, Barybino [code B05]
+B06;Montseny Astronomical Observatory;	Montseny Astronomical Observatory [code B06]
+B07;Camorino;	Camorino [code B07]
+B08;San Lazzaro di Savena;	San Lazzaro di Savena [code B08]
+B09;Capannoli;	Capannoli [code B09]
+B10;Observatoire des Baronnies Provencales, Moydans;	Observatoire des Baronnies Provencales, Moydans [code B10]
+B11;Osservatorio Cima Rest, Magasa;	Osservatorio Cima Rest, Magasa [code B11]
+B12;Koschny Observatory, Noordwijkerhout;	Koschny Observatory, Noordwijkerhout [code B12]
+B13;Osservatorio di Tradate;	Osservatorio di Tradate [code B13]
+B14;Ca del Monte;	Ca del Monte [code B14]
+B15;Inastars Observatory, Potsdam (since 2006);	Inastars Observatory, Potsdam (since 2006) [code B15]
+B16;1st Moscow Gymnasium Observatory, Lipki;	1st Moscow Gymnasium Observatory, Lipki [code B16]
+B17;AZT-8 Evpatoria;	AZT-8 Evpatoria [code B17]
+B18;Terskol;	Terskol [code B18]
+B19;Observatorio Iluro, Mataro;	Observatorio Iluro, Mataro [code B19]
+B20;Observatorio Carmelita, Tiana;	Observatorio Carmelita, Tiana [code B20]
+B21;Gaisberg Observatory, Schaerding;	Gaisberg Observatory, Schaerding [code B21]
+B22;Observatorio d&#39;Ager;	Observatorio d&#39;Ager [code B22]
+B23;Fiamene;	Fiamene [code B23]
+B24;Cesson;	Cesson [code B24]
+B25;Catania;	Catania [code B25]
+B26;Observatoire des Terres Blanches, Reillanne;	Observatoire des Terres Blanches, Reillanne [code B26]
+B27;Picard Observatory, St. Veit;	Picard Observatory, St. Veit [code B27]
+B28;Mandi Observatory, Pagnacco;	Mandi Observatory, Pagnacco [code B28]
+B29;L&#39;Ampolla Observatory, Tarragona;	L&#39;Ampolla Observatory, Tarragona [code B29]
+B30;Szamotuly-Galowo;	Szamotuly-Galowo [code B30]
+B31;Southern African Large Telescope, Sutherland;	Southern African Large Telescope, Sutherland [code B31]
+B32;Gelenau;	Gelenau [code B32]
+B33;Libbiano Observatory, Peccioli;	Libbiano Observatory, Peccioli [code B33]
+B34;Green Island Observatory, Gecitkale;	Green Island Observatory, Gecitkale [code B34]
+B35;Bareket Observatory, Macabim;	Bareket Observatory, Macabim [code B35]
+B36;Redshed Observatory, Kallham;	Redshed Observatory, Kallham [code B36]
+B37;Obs. de L&#39; Ametlla del Valles, Barcelona;	Obs. de L&#39; Ametlla del Valles, Barcelona [code B37]
+B38;Santa Mama;	Santa Mama [code B38]
+B39;Tradate;	Tradate [code B39]
+B40;Skylive Observatory, Catania;	Skylive Observatory, Catania [code B40]
+B41;Zlin Observatory;	Zlin Observatory [code B41]
+B42;Vitebsk;	Vitebsk [code B42]
+B43;Hennef;	Hennef [code B43]
+B44;Eygalayes;	Eygalayes [code B44]
+B45;Narama;	Narama [code B45]
+B46;Sintini Observatory, Alfonsine;	Sintini Observatory, Alfonsine [code B46]
+B47;Metsala Observatory, Espoo;	Metsala Observatory, Espoo [code B47]
+B48;Bocholt;	Bocholt [code B48]
+B49;Paus Observatory, Sabadell;	Paus Observatory, Sabadell [code B49]
+B50;Corner Observatory, Durmersheim;	Corner Observatory, Durmersheim [code B50]
+B51;Vallauris;	Vallauris [code B51]
+B52;Observatorio El Far;	Observatorio El Far [code B52]
+B53;Casal Lumbroso, Rome;	Casal Lumbroso, Rome [code B53]
+B54;Ager;	Ager [code B54]
+B55;Comeglians;	Comeglians [code B55]
+B56;Observatorio Sant Pere, Mataro;	Observatorio Sant Pere, Mataro [code B56]
+B57;Laietania Observatory, Parets del Valles;	Laietania Observatory, Parets del Valles [code B57]
+B58;Polaris Observatory, Budapest;	Polaris Observatory, Budapest [code B58]
+B59;Borken;	Borken [code B59]
+B60;Deep Sky Observatorium, Bad Bentheim;	Deep Sky Observatorium, Bad Bentheim [code B60]
+B61;Valldoreix Obs.,Sant Cugat del Valles;	Valldoreix Obs.,Sant Cugat del Valles [code B61]
+B62;Brelingen;	Brelingen [code B62]
+B63;Solaris Observatory, Luczanowice;	Solaris Observatory, Luczanowice [code B63]
+B64;Slope Rock Observatory, Hyvinkaa;	Slope Rock Observatory, Hyvinkaa [code B64]
+B65;Komakallio Observatory, Kirkkonummi;	Komakallio Observatory, Kirkkonummi [code B65]
+B66;Osservatorio di Casasco;	Osservatorio di Casasco [code B66]
+B67;Sternwarte Mirasteilas, Falera;	Sternwarte Mirasteilas, Falera [code B67]
+B68;Mount Matajur Observatory;	Mount Matajur Observatory [code B68]
+B69;Owls and Ravens Observatory, Holzgerlingen;	Owls and Ravens Observatory, Holzgerlingen [code B69]
+B70;Sant Celoni;	Sant Celoni [code B70]
+B71;Observatorio El Vendrell;	Observatorio El Vendrell [code B71]
+B72;Soerth;	Soerth [code B72]
+B73;Mauren Valley Observatory, Holzgerlingen;	Mauren Valley Observatory, Holzgerlingen [code B73]
+B74;Santa Maria de Montmagastrell;	Santa Maria de Montmagastrell [code B74]
+B75;Stazione Astronomica Betelgeuse, Magnago;	Stazione Astronomica Betelgeuse, Magnago [code B75]
+B76;Sternwarte Schonfeld, Dresden;	Sternwarte Schonfeld, Dresden [code B76]
+B77;Schafmatt Observatory, Aarau;	Schafmatt Observatory, Aarau [code B77]
+B78;Astrophoton Observatory, Audorf;	Astrophoton Observatory, Audorf [code B78]
+B79;Marana Observatory;	Marana Observatory [code B79]
+B80;Osservatorio Astronomico Campomaggiore;	Osservatorio Astronomico Campomaggiore [code B80]
+B81;Caimari;	Caimari [code B81]
+B82;Maidbronn;	Maidbronn [code B82]
+B83;Gieres;	Gieres [code B83]
+B84;Cyclops Observatory, Oostkapelle;	Cyclops Observatory, Oostkapelle [code B84]
+B85;Beilen Observatory;	Beilen Observatory [code B85]
+B86;Sternwarte Hagen;	Sternwarte Hagen [code B86]
+B87;Banyoles;	Banyoles [code B87]
+B88;Bigmuskie Observatory, Mombercelli;	Bigmuskie Observatory, Mombercelli [code B88]
+B89;Observatori Astronomic de Tiana;	Observatori Astronomic de Tiana [code B89]
+B90;Malina River Observatory, Povoletto;	Malina River Observatory, Povoletto [code B90]
+B91;Bollwiller;	Bollwiller [code B91]
+B92;Chinon;	Chinon [code B92]
+B93;Hoogeveen;	Hoogeveen [code B93]
+B94;Petrozavodsk;	Petrozavodsk [code B94]
+B95;Achternholt;	Achternholt [code B95]
+B96;Brixiis Observatory, Kruibeke;	Brixiis Observatory, Kruibeke [code B96]
+B97;Sterrenwacht Andromeda, Meppel;	Sterrenwacht Andromeda, Meppel [code B97]
+B98;Siena;	Siena [code B98]
+B99;Santa Coloma de Gramenet;	Santa Coloma de Gramenet [code B99]
+C00;Velikie Luki;	Velikie Luki [code C00]
+C01;Lohrmann-Observatorium, Triebenberg;	Lohrmann-Observatorium, Triebenberg [code C01]
+C02;Observatorio Royal Park;	Observatorio Royal Park [code C02]
+C03;Clayhole Observatory, Jokela;	Clayhole Observatory, Jokela [code C03]
+C04;Kramatorsk;	Kramatorsk [code C04]
+C05;Konigsleiten;	Konigsleiten [code C05]
+C06;Krasnoyarsk;	Krasnoyarsk [code C06]
+C07;Anysllum Observatory, Ager;	Anysllum Observatory, Ager [code C07]
+C08;Fiby;	Fiby [code C08]
+C09;Rouet;	Rouet [code C09]
+C10;Maisoncelles;	Maisoncelles [code C10]
+C11;City Observatory, Slany;	City Observatory, Slany [code C11]
+C12;Berta Observatory, Sabadell;	Berta Observatory, Sabadell [code C12]
+C13;Como;	Como [code C13]
+C14;Sky Vistas Observatory, Eichgraben;	Sky Vistas Observatory, Eichgraben [code C14]
+C15;ISON-Ussuriysk Observatory;	ISON-Ussuriysk Observatory [code C15]
+C16;Isarwinkel Observatory, Bad Tolz;	Isarwinkel Observatory, Bad Tolz [code C16]
+C17;Observatorio Joan Roget, Ager;	Observatorio Joan Roget, Ager [code C17]
+C18;Frasnes-Lez-Anvaing;	Frasnes-Lez-Anvaing [code C18]
+C19;ROSA Observatory, Vaucluse;	ROSA Observatory, Vaucluse [code C19]
+C20;Kislovodsk Mtn. Astronomical Stn., Pulkovo Obs.;	Kislovodsk Mtn. Astronomical Stn., Pulkovo Obs. [code C20]
+C21;Observatorio Via Lactea, Ager;	Observatorio Via Lactea, Ager [code C21]
+C22;Oberwiesenthal;	Oberwiesenthal [code C22]
+C23;Olmen;	Olmen [code C23]
+C24;Seveso;	Seveso [code C24]
+C25;Pulkovo Observatory Station, Campo Imperatore;	Pulkovo Observatory Station, Campo Imperatore [code C25]
+C26;Levendaal Observatory, Leiden;	Levendaal Observatory, Leiden [code C26]
+C27;Pallerols;	Pallerols [code C27]
+C28;Wellinghofen;	Wellinghofen [code C28]
+C29;Observatori Astronomic de Les Planes de Son;	Observatori Astronomic de Les Planes de Son [code C29]
+C30;Petrozavodsk University Obs., Sheltozero Stn.;	Petrozavodsk University Obs., Sheltozero Stn. [code C30]
+C31;Sternwarte Neanderhoehe Hochdahl e.V., Erkrath;	Sternwarte Neanderhoehe Hochdahl e.V., Erkrath [code C31]
+C32;Ka-Dar Observatory, TAU Station, Nizhny Arkhyz;	Ka-Dar Observatory, TAU Station, Nizhny Arkhyz [code C32]
+C33;Observatorio CEAM, Caimari;	Observatorio CEAM, Caimari [code C33]
+C34;Baja Astronomical Observatory;	Baja Astronomical Observatory [code C34]
+C35;Terrassa;	Terrassa [code C35]
+C36;Starry Wanderer Observatory, Baran&#39;;	Starry Wanderer Observatory, Baran&#39; [code C36]
+C37;Stowupland;	Stowupland [code C37]
+C38;Varuna Observatory, Cuorgne;	Varuna Observatory, Cuorgne [code C38]
+C39;Nijmegen;	Nijmegen [code C39]
+C40;Kuban State University Astrophysical Observatory;	Kuban State University Astrophysical Observatory [code C40]
+C41;MASTER-II Observatory, Kislovodsk;	MASTER-II Observatory, Kislovodsk [code C41]
+C42;Xingming Observatory, Mt. Nanshan;	Xingming Observatory, Mt. Nanshan [code C42]
+C43;Hoyerswerda;	Hoyerswerda [code C43]
+C44;A. Volta Observatory, Lanzo d&#39;Intelvi;	A. Volta Observatory, Lanzo d&#39;Intelvi [code C44]
+C45;La Giustiniana;	La Giustiniana [code C45]
+C46;Horizon Observatory, Petropavlovsk;	Horizon Observatory, Petropavlovsk [code C46]
+C47;Nonndorf;	Nonndorf [code C47]
+C48;Sayan Solar Observatory, Irkutsk;	Sayan Solar Observatory, Irkutsk [code C48]
+C60;Argelander Institute for Astronomy Obs., Bonn;	Argelander Institute for Astronomy Obs., Bonn [code C60]
+C61;Chelles;	Chelles [code C61]
+C62;Eurac Observatory, Bolzano;	Eurac Observatory, Bolzano [code C62]
+C63;Giuseppe Piazzi Observatory, Ponte in Valtellina;	Giuseppe Piazzi Observatory, Ponte in Valtellina [code C63]
+C64;Puchenstuben;	Puchenstuben [code C64]
+C65;Observatori Astronomic del Montsec;	Observatori Astronomic del Montsec [code C65]
+C66;Observatorio El Cielo de Consell;	Observatorio El Cielo de Consell [code C66]
+C67;Gnevsdorf;	Gnevsdorf [code C67]
+C68;Ellinogermaniki Agogi Observatory, Pallini;	Ellinogermaniki Agogi Observatory, Pallini [code C68]
+C69;Bayerwald Sternwarte, Neuhuette;	Bayerwald Sternwarte, Neuhuette [code C69]
+C70;Uiterstegracht Station, Leiden;	Uiterstegracht Station, Leiden [code C70]
+C71;Sant Marti Sesgueioles;	Sant Marti Sesgueioles [code C71]
+C72;Palestrina;	Palestrina [code C72]
+C73;Galati Observatory;	Galati Observatory [code C73]
+C74;Observatorio El Teatrillo de Lyra, Ager;	Observatorio El Teatrillo de Lyra, Ager [code C74]
+C75;Whitestar Observatory, Borgobello;	Whitestar Observatory, Borgobello [code C75]
+C76;Observatorio Estels, Ager;	Observatorio Estels, Ager [code C76]
+C77;Bernezzo Observatory;	Bernezzo Observatory [code C77]
+C78;Martin S. Kraar Observatory, Rehovot;	Martin S. Kraar Observatory, Rehovot [code C78]
+C79;Roser Observatory, Blanes;	Roser Observatory, Blanes [code C79]
+C80;Don Astronomical Observatory, Rostov-on-Don;	Don Astronomical Observatory, Rostov-on-Don [code C80]
+C81;Dolomites Astronomical Observatory;	Dolomites Astronomical Observatory [code C81]
+C82;Osservatorio Astronomico Nastro Verde, Sorrento;	Osservatorio Astronomico Nastro Verde, Sorrento [code C82]
+C83;Badalozhnyj Observatory;	Badalozhnyj Observatory [code C83]
+C84;Badalona;	Badalona [code C84]
+C85;Observatorio Cala d&#39;Hort, Ibiza;	Observatorio Cala d&#39;Hort, Ibiza [code C85]
+C86;Blanes;	Blanes [code C86]
+C87;Rimbach;	Rimbach [code C87]
+C88;Montarrenti Observatory, Siena;	Montarrenti Observatory, Siena [code C88]
+C89;Astronomical Station Vidojevica;	Astronomical Station Vidojevica [code C89]
+C90;Vinyols;	Vinyols [code C90]
+C91;Montevenere Observatory, Monzuno;	Montevenere Observatory, Monzuno [code C91]
+C92;Valdicerro Observatory, Loreto;	Valdicerro Observatory, Loreto [code C92]
+C93;Bellavista Observatory, L&#39;Aquila;	Bellavista Observatory, L&#39;Aquila [code C93]
+C94;MASTER-II Observatory, Tunka;	MASTER-II Observatory, Tunka [code C94]
+C95;SATINO Remote Observatory, Haute Provence;	SATINO Remote Observatory, Haute Provence [code C95]
+C96;OACL Observatory, Mosciano Sant Angelo;	OACL Observatory, Mosciano Sant Angelo [code C96]
+C97;Al-Fulaij Observatory, Oman;	Al-Fulaij Observatory, Oman [code C97]
+C98;Osservatorio Casellina, Scandicci;	Osservatorio Casellina, Scandicci [code C98]
+C99;Observatori Can Roig, Llagostera;	Observatori Can Roig, Llagostera [code C99]
+D00;ISON-Kislovodsk Observatory;	ISON-Kislovodsk Observatory [code D00]
+D01;Andean Northern Observatory, Nummi-Pusula;	Andean Northern Observatory, Nummi-Pusula [code D01]
+D02;Observatori Petit Sant Feliu;	Observatori Petit Sant Feliu [code D02]
+D03;Rantiga Osservatorio, Tincana;	Rantiga Osservatorio, Tincana [code D03]
+D04;Krasnodar;	Krasnodar [code D04]
+D05;ISON-Terskol Observatory;	ISON-Terskol Observatory [code D05]
+D06;Associazione Tuscolana di Astronomia, Domatore;	Associazione Tuscolana di Astronomia, Domatore [code D06]
+D07;Wegberg;	Wegberg [code D07]
+D08;Ghezz Observatory, Leontica;	Ghezz Observatory, Leontica [code D08]
+D09;Observatory Gromme, Maasmechelen;	Observatory Gromme, Maasmechelen [code D09]
+D14;Nanchuan Observatory, Guangzhou;	Nanchuan Observatory, Guangzhou [code D14]
+D16;Po Leung Kuk Observatory, Tuen Mun;	Po Leung Kuk Observatory, Tuen Mun [code D16]
+D17;Hong Kong;	Hong Kong [code D17]
+D18;Mt. Guizi Observatory;	Mt. Guizi Observatory [code D18]
+D19;Hong Kong Space Museum, Tsimshatsui;	Hong Kong Space Museum, Tsimshatsui [code D19]
+D20;Zadko Observatory, Wallingup Plain;	Zadko Observatory, Wallingup Plain [code D20]
+D21;Shenton Park;	Shenton Park [code D21]
+D22;UWA Observatory, Crawley;	UWA Observatory, Crawley [code D22]
+D24;LightBuckets Observatory, Pingelly;	LightBuckets Observatory, Pingelly [code D24]
+D25;Tzec Maun Observatory, Pingelly (before 2010);	Tzec Maun Observatory, Pingelly (before 2010) [code D25]
+D29;Purple Mountain Observatory, XuYi Station;	Purple Mountain Observatory, XuYi Station [code D29]
+D32;JiangNanTianChi Observatory, Mt. Getianling;	JiangNanTianChi Observatory, Mt. Getianling [code D32]
+D33;Kenting Observatory, Checheng;	Kenting Observatory, Checheng [code D33]
+D34;Kenting Observatory, Hengchun;	Kenting Observatory, Hengchun [code D34]
+D35;Lulin Observatory;	Lulin Observatory [code D35]
+D36;Tataka, Mt. Yu-Shan National Park;	Tataka, Mt. Yu-Shan National Park [code D36]
+D37;Lulin Widefield Telescope, Mt. Lulin;	Lulin Widefield Telescope, Mt. Lulin [code D37]
+D39;Shandong University Observatory, Weihai;	Shandong University Observatory, Weihai [code D39]
+D44;Ishigakijima Astronomical Observatory;	Ishigakijima Astronomical Observatory [code D44]
+D53;ISON-Blagoveschensk Observatory;	ISON-Blagoveschensk Observatory [code D53]
+D54;MASTER-II Observatory, Blagoveshchensk;	MASTER-II Observatory, Blagoveshchensk [code D54]
+D55;Kangwon Science High School Observatory, Ksho;	Kangwon Science High School Observatory, Ksho [code D55]
+D57;Gimhae Astronomical Observatory, Uhbang-dong;	Gimhae Astronomical Observatory, Uhbang-dong [code D57]
+D58;KSA SEM Observatory, Danggam-dong;	KSA SEM Observatory, Danggam-dong [code D58]
+D61;Suntopia Marina, Sumoto;	Suntopia Marina, Sumoto [code D61]
+D62;Miyaki-Argenteus;	Miyaki-Argenteus [code D62]
+D70;Tosa;	Tosa [code D70]
+D74;Nakagawa;	Nakagawa [code D74]
+D78;Iga-Ueno;	Iga-Ueno [code D78]
+D79;YSVP Observatory, Vale Park;	YSVP Observatory, Vale Park [code D79]
+D80;Gumma Astronomical Observatory;	Gumma Astronomical Observatory [code D80]
+D81;Nagano;	Nagano [code D81]
+D82;Wallaroo;	Wallaroo [code D82]
+D83;Miwa;	Miwa [code D83]
+D84;Hallet Cove;	Hallet Cove [code D84]
+D85;Ingle Farm;	Ingle Farm [code D85]
+D86;Penwortham;	Penwortham [code D86]
+D87;Brooklyn Park;	Brooklyn Park [code D87]
+D88;Hiratsuka;	Hiratsuka [code D88]
+D89;Yamagata;	Yamagata [code D89]
+D90;RAS Observatory, Moorook;	RAS Observatory, Moorook [code D90]
+D91;Adati;	Adati [code D91]
+D92;Osaki;	Osaki [code D92]
+D93;Sendai Astronomical Observatory;	Sendai Astronomical Observatory [code D93]
+D94;Takanezawa, Tochigi;	Takanezawa, Tochigi [code D94]
+D95;Kurihara;	Kurihara [code D95]
+D96;Tzec Maun Observatory, Moorook;	Tzec Maun Observatory, Moorook [code D96]
+D97;Berri;	Berri [code D97]
+E00;Castlemaine;	Castlemaine [code E00]
+E01;Barfold;	Barfold [code E01]
+E03;RAS Observatory, Officer;	RAS Observatory, Officer [code E03]
+E04;Pacific Sky Observatory, Saipan;	Pacific Sky Observatory, Saipan [code E04]
+E05;Earl Hill Observatory, Trinity Beach;	Earl Hill Observatory, Trinity Beach [code E05]
+E07;Murrumbateman;	Murrumbateman [code E07]
+E08;Wobblesock Observatory, Coonabarabran;	Wobblesock Observatory, Coonabarabran [code E08]
+E09;Oakley Southern Sky Observatory, Coonabarabran;	Oakley Southern Sky Observatory, Coonabarabran [code E09]
+E10;Siding Spring-Faulkes Telescope South;	Siding Spring-Faulkes Telescope South [code E10]
+E11;Frog Rock Observatory, Mudgee;	Frog Rock Observatory, Mudgee [code E11]
+E12;Siding Spring Survey;	Siding Spring Survey [code E12]
+E13;Wanniassa;	Wanniassa [code E13]
+E14;Hunters Hill Observatory, Ngunnawal;	Hunters Hill Observatory, Ngunnawal [code E14]
+E15;Magellan Observatory, near Goulburn;	Magellan Observatory, near Goulburn [code E15]
+E16;Grove Creek Observatory, Trunkey;	Grove Creek Observatory, Trunkey [code E16]
+E17;Leura;	Leura [code E17]
+E18;BDI Observatory, Regents Park;	BDI Observatory, Regents Park [code E18]
+E19;Kingsgrove;	Kingsgrove [code E19]
+E20;Marsfield;	Marsfield [code E20]
+E21;Norma Rose Observatory, Leyburn;	Norma Rose Observatory, Leyburn [code E21]
+E22;Univ. of Southern Queensland Obs., Mt. Kent;	Univ. of Southern Queensland Obs., Mt. Kent [code E22]
+E23;Arcadia;	Arcadia [code E23]
+E24;Tangra Observatory, St. Clair;	Tangra Observatory, St. Clair [code E24]
+E25;Rochedale (APTA);	Rochedale (APTA) [code E25]
+E26;RAS Observatory, Biggera Waters;	RAS Observatory, Biggera Waters [code E26]
+E27;Thornlands;	Thornlands [code E27]
+E28;Kuriwa Observatory, Hawkesbury Heights;	Kuriwa Observatory, Hawkesbury Heights [code E28]
+E81;Nelson;	Nelson [code E81]
+E83;Wither Observatory, Witherlea;	Wither Observatory, Witherlea [code E83]
+E85;Farm Cove;	Farm Cove [code E85]
+E87;Turitea;	Turitea [code E87]
+E89;Geyserland Observatory, Pukehangi;	Geyserland Observatory, Pukehangi [code E89]
+E94;Possum Observatory, Gisborne;	Possum Observatory, Gisborne [code E94]
+F51;Pan-STARRS 1, Haleakala;	Pan-STARRS 1, Haleakala [code F51]
+F52;Pan-STARRS 2, Haleakala;	Pan-STARRS 2, Haleakala [code F52]
+F59;Ironwood Remote Observatory, Hawaii;	Ironwood Remote Observatory, Hawaii [code F59]
+F60;Ironwood Observatory, Hawaii;	Ironwood Observatory, Hawaii [code F60]
+F65;Haleakala-Faulkes Telescope North;	Haleakala-Faulkes Telescope North [code F65]
+F84;Hibiscus Observatory, Punaauia;	Hibiscus Observatory, Punaauia [code F84]
+F85;Tiki Observatory, Punaauia;	Tiki Observatory, Punaauia [code F85]
+F86;Moana Observatory, Punaauia;	Moana Observatory, Punaauia [code F86]
+G25;Sherbrooke;	Sherbrooke [code G25]
+G26;Fushan Observatory, Mt Shaohua;	Fushan Observatory, Mt Shaohua [code G26]
+G27;Fabra Observatory, Montsec;	Fabra Observatory, Montsec [code G27]
+G28;Wyncroft Observatory, Attleborough;	Wyncroft Observatory, Attleborough [code G28]
+G29;Requena;	Requena [code G29]
+G30;Casselman;	Casselman [code G30]
+G31;CCAT Trieste;	CCAT Trieste [code G31]
+G32;Elena Remote Observatory, San Pedro de Atacama;	Elena Remote Observatory, San Pedro de Atacama [code G32]
+G33;Wickede;	Wickede [code G33]
+G34;Oberfrauendorf;	Oberfrauendorf [code G34]
+G35;Elephant Head Obsevatory, Sahuarita;	Elephant Head Obsevatory, Sahuarita [code G35]
+G36;Calar Alto-CASADO;	Calar Alto-CASADO [code G36]
+G37;Lowell Observatory-Discovery Channel Telescope;	Lowell Observatory-Discovery Channel Telescope [code G37]
+G38;Observatorio La Senda, Cabanillas del Campo;	Observatorio La Senda, Cabanillas del Campo [code G38]
+G39;ROAD, San Pedro de Atacama;	ROAD, San Pedro de Atacama [code G39]
+G40;Slooh.com Canary Islands Observatory;	Slooh.com Canary Islands Observatory [code G40]
+G41;Insperity Observatory, Humble;	Insperity Observatory, Humble [code G41]
+G42;Observatorio Astronomico UAdeC, Saltillo;	Observatorio Astronomico UAdeC, Saltillo [code G42]
+G43;Observatorio Buenaventura Suarez, San Luis;	Observatorio Buenaventura Suarez, San Luis [code G43]
+G44;Observatorio Longa Vista, Sao Paulo;	Observatorio Longa Vista, Sao Paulo [code G44]
+G45;Space Surveillance Telescope, Atom Site;	Space Surveillance Telescope, Atom Site [code G45]
+G46;Pinto Valley Observatory;	Pinto Valley Observatory [code G46]
+G47;HillTopTop Observatory, Edgewood;	HillTopTop Observatory, Edgewood [code G47]
+G48;Harlingten Research Observatory, Rancho Hildalgo;	Harlingten Research Observatory, Rancho Hildalgo [code G48]
+G49;Minnetonka;	Minnetonka [code G49]
+G50;Organ Mesa Observatory, Las Cruces;	Organ Mesa Observatory, Las Cruces [code G50]
+G51;Byrne Observatory, Sedgwick Reserve;	Byrne Observatory, Sedgwick Reserve [code G51]
+G52;Stone Edge Observatory, El Verano;	Stone Edge Observatory, El Verano [code G52]
+G53;Alder Springs Observatory, Auberry;	Alder Springs Observatory, Auberry [code G53]
+G54;Hemet;	Hemet [code G54]
+G55;Bakersfield;	Bakersfield [code G55]
+G56;Walnut Creek;	Walnut Creek [code G56]
+G57;Dilbert Observatory, Forest Grove;	Dilbert Observatory, Forest Grove [code G57]
+G58;Chabot Space and Science Center, Oakland;	Chabot Space and Science Center, Oakland [code G58]
+G59;Maiden Lane Obs., Bainbridge Island;	Maiden Lane Obs., Bainbridge Island [code G59]
+G60;Carroll Observatory, Montecito;	Carroll Observatory, Montecito [code G60]
+G61;Pleasanton;	Pleasanton [code G61]
+G62;Sunriver Nature Center Observatory, Sunriver;	Sunriver Nature Center Observatory, Sunriver [code G62]
+G63;Mill Creek Observatory, The Dalles;	Mill Creek Observatory, The Dalles [code G63]
+G64;Blue Canyon Observatory;	Blue Canyon Observatory [code G64]
+G65;Vulcan North, Lick Observatory, Mount Hamilton;	Vulcan North, Lick Observatory, Mount Hamilton [code G65]
+G66;Lake Forest Observatory, Forest Hills;	Lake Forest Observatory, Forest Hills [code G66]
+G67;Rancho Del Sol, Camino;	Rancho Del Sol, Camino [code G67]
+G68;Sierra Stars Observatory, Markleeville;	Sierra Stars Observatory, Markleeville [code G68]
+G69;Via Capote Sky Observatory, Thousand Oaks;	Via Capote Sky Observatory, Thousand Oaks [code G69]
+G70;Francisquito Observatory, Los Angeles;	Francisquito Observatory, Los Angeles [code G70]
+G71;Rancho Palos Verdes;	Rancho Palos Verdes [code G71]
+G72;University Hills;	University Hills [code G72]
+G73;Mount Wilson-TIE;	Mount Wilson-TIE [code G73]
+G74;Boulder Knolls Observatory, Escondido;	Boulder Knolls Observatory, Escondido [code G74]
+G75;Starry Knight Observatory, Coto de Caza;	Starry Knight Observatory, Coto de Caza [code G75]
+G76;Altimira Observatory, Coto de Caza;	Altimira Observatory, Coto de Caza [code G76]
+G77;Baldwin Lake;	Baldwin Lake [code G77]
+G78;Desert Wanderer Observatory, El Centro;	Desert Wanderer Observatory, El Centro [code G78]
+G79;Goat Mountain Astronomical Research Station;	Goat Mountain Astronomical Research Station [code G79]
+G80;Sierra Remote Observatories, Auberry;	Sierra Remote Observatories, Auberry [code G80]
+G81;Temecula;	Temecula [code G81]
+G82;SARA Observatory, Kitt Peak;	SARA Observatory, Kitt Peak [code G82]
+G83;Mt. Graham-LBT;	Mt. Graham-LBT [code G83]
+G84;Mount Lemmon SkyCenter;	Mount Lemmon SkyCenter [code G84]
+G85;Vermillion Cliffs Observatory, Kanab;	Vermillion Cliffs Observatory, Kanab [code G85]
+G86;Tucson-Winterhaven;	Tucson-Winterhaven [code G86]
+G87;Calvin M. Hooper Memorial Observatory, Hyde Park;	Calvin M. Hooper Memorial Observatory, Hyde Park [code G87]
+G88;LAMP Observatory, New River;	LAMP Observatory, New River [code G88]
+G89;Kachina Observatory, Flagstaff;	Kachina Observatory, Flagstaff [code G89]
+G90;Three Buttes Observatory, Tucson;	Three Buttes Observatory, Tucson [code G90]
+G91;Whipple Observatory, Mt. Hopkins--2MASS;	Whipple Observatory, Mt. Hopkins--2MASS [code G91]
+G92;Jarnac Observatory, Vail;	Jarnac Observatory, Vail [code G92]
+G93;Sonoita Research Observatory, Sonoita;	Sonoita Research Observatory, Sonoita [code G93]
+G94;Sonoran Skies Observatory, St. David;	Sonoran Skies Observatory, St. David [code G94]
+G95;Hereford Arizona Observatory, Hereford;	Hereford Arizona Observatory, Hereford [code G95]
+G96;Mt. Lemmon Survey;	Mt. Lemmon Survey [code G96]
+G97;Astronomical League Alpha Observatory, Portal;	Astronomical League Alpha Observatory, Portal [code G97]
+G98;Calvin-Rehoboth Observatory, Rehoboth;	Calvin-Rehoboth Observatory, Rehoboth [code G98]
+G99;NF Observatory, Silver City;	NF Observatory, Silver City [code G99]
+H00;Tyrone;	Tyrone [code H00]
+H01;Magdalena Ridge Observatory, Socorro;	Magdalena Ridge Observatory, Socorro [code H01]
+H02;Sulphur Flats Observatory, La Cueva;	Sulphur Flats Observatory, La Cueva [code H02]
+H03;Sandia View Observatory, Rio Rancho;	Sandia View Observatory, Rio Rancho [code H03]
+H04;Santa Fe;	Santa Fe [code H04]
+H05;Edmund Kline Observatory, Deer Trail;	Edmund Kline Observatory, Deer Trail [code H05]
+H06;iTelescope Observatory, Mayhill;	iTelescope Observatory, Mayhill [code H06]
+H07;7300 Observatory, Cloudcroft;	7300 Observatory, Cloudcroft [code H07]
+H08;BlackBird Observatory, Cloudcroft;	BlackBird Observatory, Cloudcroft [code H08]
+H09;Antelope Hills Observatory, Bennett;	Antelope Hills Observatory, Bennett [code H09]
+H10;Tzec Maun Observatory, Mayhill;	Tzec Maun Observatory, Mayhill [code H10]
+H11;LightBuckets Observatory, Rodeo;	LightBuckets Observatory, Rodeo [code H11]
+H12;TechDome, Mayhill;	TechDome, Mayhill [code H12]
+H13;Lenomiya Observatory, Casa Grande;	Lenomiya Observatory, Casa Grande [code H13]
+H14;Morning Star Observatory, Tucson;	Morning Star Observatory, Tucson [code H14]
+H15;ISON-NM Observatory, Mayhill;	ISON-NM Observatory, Mayhill [code H15]
+H16;HUT Observatory, Eagle;	HUT Observatory, Eagle [code H16]
+H17;Angel Peaks Observatory;	Angel Peaks Observatory [code H17]
+H18;Vail View Observatory, Vail;	Vail View Observatory, Vail [code H18]
+H19;Lone Star Observatory, Caney;	Lone Star Observatory, Caney [code H19]
+H20;Eastern Illinois University Obs., Charleston;	Eastern Illinois University Obs., Charleston [code H20]
+H21;Astronomical Research Observatory, Westfield;	Astronomical Research Observatory, Westfield [code H21]
+H22;Terre Haute;	Terre Haute [code H22]
+H23;Pear Tree Observatory, Valparaiso;	Pear Tree Observatory, Valparaiso [code H23]
+H24;J. C. Veen Observatory, Lowell;	J. C. Veen Observatory, Lowell [code H24]
+H25;Harvest Moon Observatory, Northfield;	Harvest Moon Observatory, Northfield [code H25]
+H26;Doc Greiner Research Observatory, Janesvillle;	Doc Greiner Research Observatory, Janesvillle [code H26]
+H27;Moonglow Observatory, Warrensburg;	Moonglow Observatory, Warrensburg [code H27]
+H28;Preston Hills Observatory, Celina;	Preston Hills Observatory, Celina [code H28]
+H29;Ivywood Observatory, Edmond;	Ivywood Observatory, Edmond [code H29]
+H30;University of Oklahoma Observatory, Norman;	University of Oklahoma Observatory, Norman [code H30]
+H31;Star Ridge Observatory, Weimar;	Star Ridge Observatory, Weimar [code H31]
+H32;Texas A&amp;M Physics Observatory, College Station;	Texas A&amp;M Physics Observatory, College Station [code H32]
+H33;Bixhoma Observatory, Bixby;	Bixhoma Observatory, Bixby [code H33]
+H34;Chapel Hill;	Chapel Hill [code H34]
+H35;Leavenworth;	Leavenworth [code H35]
+H36;Sandlot Observatory, Scranton;	Sandlot Observatory, Scranton [code H36]
+H37;Grems Timmons Observatories, Graettinger;	Grems Timmons Observatories, Graettinger [code H37]
+H38;Timberline Observatory, Urbandale;	Timberline Observatory, Urbandale [code H38]
+H39;S.O.S. Observatory, Minneapolis;	S.O.S. Observatory, Minneapolis [code H39]
+H40;Nubbin Ridge Observatory;	Nubbin Ridge Observatory [code H40]
+H41;Petit Jean Mountain;	Petit Jean Mountain [code H41]
+H42;Wartburg College Observatory, Waverly;	Wartburg College Observatory, Waverly [code H42]
+H43;Conway;	Conway [code H43]
+H44;Cascade Mountain;	Cascade Mountain [code H44]
+H45;Arkansas Sky Obs., Petit Jean Mountain South;	Arkansas Sky Obs., Petit Jean Mountain South [code H45]
+H46;Ricky Observatory, Blue Springs;	Ricky Observatory, Blue Springs [code H46]
+H47;Vicksburg;	Vicksburg [code H47]
+H48;PSU Greenbush Observatory, Pittsburg;	PSU Greenbush Observatory, Pittsburg [code H48]
+H49;ATU Astronomical Observatory, Russellville;	ATU Astronomical Observatory, Russellville [code H49]
+H50;University of Central Arkansas Obs., Conway;	University of Central Arkansas Obs., Conway [code H50]
+H51;Greiner Research Observatory, Verona;	Greiner Research Observatory, Verona [code H51]
+H52;Hawkeye Observatory, Durand;	Hawkeye Observatory, Durand [code H52]
+H53;Thompsonville;	Thompsonville [code H53]
+H54;Cedar Drive Observatory, Pulaski;	Cedar Drive Observatory, Pulaski [code H54]
+H55;Astronomical Research Observatory, Charleston;	Astronomical Research Observatory, Charleston [code H55]
+H56;Northbrook Meadow Observatory;	Northbrook Meadow Observatory [code H56]
+H57;Ohio State University Observatory, Lima;	Ohio State University Observatory, Lima [code H57]
+H58;NASA/MSFC ALaMO, Redstone Arsenal;	NASA/MSFC ALaMO, Redstone Arsenal [code H58]
+H59;Prairie Grass Observatory, Camp Cullom;	Prairie Grass Observatory, Camp Cullom [code H59]
+H60;Heartland Observatory, Carmel;	Heartland Observatory, Carmel [code H60]
+H61;Newcastle;	Newcastle [code H61]
+H62;Calvin College Observatory;	Calvin College Observatory [code H62]
+H63;DeKalb Observatory, Auburn;	DeKalb Observatory, Auburn [code H63]
+H64;Thomas More College Observatory, Crestview Hills;	Thomas More College Observatory, Crestview Hills [code H64]
+H65;Waltonfields Observatory, Walton;	Waltonfields Observatory, Walton [code H65]
+H66;Yellow Springs;	Yellow Springs [code H66]
+H67;Stonegate Observatory, Ann Arbor;	Stonegate Observatory, Ann Arbor [code H67]
+H68;Red Barn Observatory, Ty Ty;	Red Barn Observatory, Ty Ty [code H68]
+H69;Perkins Observatory, Delaware;	Perkins Observatory, Delaware [code H69]
+H70;Asheville;	Asheville [code H70]
+H71;Chula;	Chula [code H71]
+H72;Evelyn L. Egan Observatory, Fort Myers;	Evelyn L. Egan Observatory, Fort Myers [code H72]
+H73;Lakeland Astronomical Observatory, Kirtland;	Lakeland Astronomical Observatory, Kirtland [code H73]
+H74;Bar J Observatory, New Smyrna Beach;	Bar J Observatory, New Smyrna Beach [code H74]
+H75;Indian Hill North Observatory, Huntsburg;	Indian Hill North Observatory, Huntsburg [code H75]
+H76;Oakridge Observatory, Miami;	Oakridge Observatory, Miami [code H76]
+H77;Buehler Observatory;	Buehler Observatory [code H77]
+H78;University of Narino Observatory, Pasto;	University of Narino Observatory, Pasto [code H78]
+H79;York University Observatory, Toronto;	York University Observatory, Toronto [code H79]
+H80;Halstead Observatory, Princeton;	Halstead Observatory, Princeton [code H80]
+H81;Hartung-Boothroyd Observatory, Ithaca;	Hartung-Boothroyd Observatory, Ithaca [code H81]
+H82;CBA-NOVAC Observatory, Front Royal;	CBA-NOVAC Observatory, Front Royal [code H82]
+H83;Timberlake Observatory, Oakton;	Timberlake Observatory, Oakton [code H83]
+H84;Northview Observatory, Mendon;	Northview Observatory, Mendon [code H84]
+H85;Silver Spring;	Silver Spring [code H85]
+H86;CBA-East Observatory, Laurel;	CBA-East Observatory, Laurel [code H86]
+H87;Fenwick Observatory, Richmond;	Fenwick Observatory, Richmond [code H87]
+H88;Hope Observatory, Belcamp;	Hope Observatory, Belcamp [code H88]
+H89;Galaxy Blues Observatory, Gatineau;	Galaxy Blues Observatory, Gatineau [code H89]
+H90;Ottawa;	Ottawa [code H90]
+H91;Reynolds Observatory, Potsdam;	Reynolds Observatory, Potsdam [code H91]
+H92;Arcturus Observatory;	Arcturus Observatory [code H92]
+H93;Berkeley Heights;	Berkeley Heights [code H93]
+H94;Cedar Knolls;	Cedar Knolls [code H94]
+H95;NJIT Observatory, Newark;	NJIT Observatory, Newark [code H95]
+H96;Observatoire des Pleiades, Mandeville;	Observatoire des Pleiades, Mandeville [code H96]
+H97;Talcott Mountain Science Center, Avon;	Talcott Mountain Science Center, Avon [code H97]
+H98;Dark Rosanne Obs., Middlefield;	Dark Rosanne Obs., Middlefield [code H98]
+H99;Sunhill Observatory, Newton;	Sunhill Observatory, Newton [code H99]
+I00;Carbuncle Hill Observatory, Coventry;	Carbuncle Hill Observatory, Coventry [code I00]
+I01;Clay Center Observatory, Brookline;	Clay Center Observatory, Brookline [code I01]
+I02;Cerro Tololo Observatory, La Serena--2MASS;	Cerro Tololo Observatory, La Serena--2MASS [code I02]
+I03;European Southern Obs., La Silla--ASTROVIRTEL;	European Southern Obs., La Silla--ASTROVIRTEL [code I03]
+I04;Mamalluca Observatory;	Mamalluca Observatory [code I04]
+I05;Las Campanas Observatory-TIE;	Las Campanas Observatory-TIE [code I05]
+I06;Werner Schmidt Obs., Dennis-Yarmouth Regional HS;	Werner Schmidt Obs., Dennis-Yarmouth Regional HS [code I06]
+I07;Conlin Hill Observatory, Oxford;	Conlin Hill Observatory, Oxford [code I07]
+I08;Alianza S4, Cerro Burek;	Alianza S4, Cerro Burek [code I08]
+I09;Cerro Armazones;	Cerro Armazones [code I09]
+I10;CAO, San Pedro de Atacama (until 2012);	CAO, San Pedro de Atacama (until 2012) [code I10]
+I11;Gemini South Observatory, Cerro Pachon;	Gemini South Observatory, Cerro Pachon [code I11]
+I12;Phillips Academy Observatory, Andover;	Phillips Academy Observatory, Andover [code I12]
+I13;Burleith Observatory, Washington D.C.;	Burleith Observatory, Washington D.C. [code I13]
+I14;Tigh Speuran Observatory, Framingham;	Tigh Speuran Observatory, Framingham [code I14]
+I15;Wishing Star Observatory, Barrington;	Wishing Star Observatory, Barrington [code I15]
+I16;IAA-AI Atacama, San Pedro de Atacama;	IAA-AI Atacama, San Pedro de Atacama [code I16]
+I17;Thomas G. Cupillari Observatory, Fleetville;	Thomas G. Cupillari Observatory, Fleetville [code I17]
+I18;Fan Mountain Observatory, Covesville;	Fan Mountain Observatory, Covesville [code I18]
+I19;Observatorio El Gato Gris, Tanti;	Observatorio El Gato Gris, Tanti [code I19]
+I20;Observatorio Astronomico Salvador, Rio Cuarto;	Observatorio Astronomico Salvador, Rio Cuarto [code I20]
+I21;El Condor Observatory, Cordoba;	El Condor Observatory, Cordoba [code I21]
+I22;Abbey Ridge Observatory, Stillwater Lake;	Abbey Ridge Observatory, Stillwater Lake [code I22]
+I23;Frosty Cold Observatory, Mash Harbor;	Frosty Cold Observatory, Mash Harbor [code I23]
+I24;Lake of the Woods Observatory, Locust Grove;	Lake of the Woods Observatory, Locust Grove [code I24]
+I25;ECCCO Observatory, Bosque Alegre;	ECCCO Observatory, Bosque Alegre [code I25]
+I26;Observatorio Kappa Crucis, Cordoba;	Observatorio Kappa Crucis, Cordoba [code I26]
+I27;Barred Owl Observatory, Carp;	Barred Owl Observatory, Carp [code I27]
+I28;Starhoo Observatory, Lakeville;	Starhoo Observatory, Lakeville [code I28]
+I29;Middlesex School Observatory, Concord;	Middlesex School Observatory, Concord [code I29]
+I30;Observatorio Geminis Austral;	Observatorio Geminis Austral [code I30]
+I31;Observatorio Astronomico del Colegio Cristo Rey;	Observatorio Astronomico del Colegio Cristo Rey [code I31]
+I32;Observatorio Beta Orionis, Rosario;	Observatorio Beta Orionis, Rosario [code I32]
+I33;SOAR, Cerro Pachon;	SOAR, Cerro Pachon [code I33]
+I34;Morgantown;	Morgantown [code I34]
+I35;Sidoli;	Sidoli [code I35]
+I36;Observatorio Los Campitos, Canuelas;	Observatorio Los Campitos, Canuelas [code I36]
+I37;Astrodomi Observatory, Santa Rita;	Astrodomi Observatory, Santa Rita [code I37]
+I38;Observatorio Los Algarrobos, Salto;	Observatorio Los Algarrobos, Salto [code I38]
+I39;Observatorio Cruz del Sur, San Justo;	Observatorio Cruz del Sur, San Justo [code I39]
+I40;La Silla--TRAPPIST;	La Silla--TRAPPIST [code I40]
+I41;Palomar Mountain--ZTF;	Palomar Mountain--ZTF [code I41]
+I42;Westport Observatory;	Westport Observatory [code I42]
+I43;Tarleton State University Obs., Stephenville;	Tarleton State University Obs., Stephenville [code I43]
+I44;Northwest Florida State College, Niceville;	Northwest Florida State College, Niceville [code I44]
+I45;W Crusis Astronomical Observatory, San Justo;	W Crusis Astronomical Observatory, San Justo [code I45]
+I46;The Cottage Observatory, Altoona;	The Cottage Observatory, Altoona [code I46]
+I47;Pierre Auger Observatory, Malargue;	Pierre Auger Observatory, Malargue [code I47]
+I48;Observatorio El Catalejo, Santa Rosa;	Observatorio El Catalejo, Santa Rosa [code I48]
+I49;Sunflower Observatory, Santa Fe;	Sunflower Observatory, Santa Fe [code I49]
+I50;P2 Observatory, Mayhill;	P2 Observatory, Mayhill [code I50]
+I51;Clinton;	Clinton [code I51]
+I52;Steward Observatory, Mt. Lemmon Station;	Steward Observatory, Mt. Lemmon Station [code I52]
+I53;Armilla;	Armilla [code I53]
+I54;Observatorio Las Vaguadas, Badajoz;	Observatorio Las Vaguadas, Badajoz [code I54]
+I55;Valencia;	Valencia [code I55]
+I56;Observatorio Astronomico John Beckman, Almeria;	Observatorio Astronomico John Beckman, Almeria [code I56]
+I57;Elche;	Elche [code I57]
+I58;Betera;	Betera [code I58]
+I59;Observatorio Fuente de los matos, Muriedas;	Observatorio Fuente de los matos, Muriedas [code I59]
+I60;Guernanderf;	Guernanderf [code I60]
+I61;Ourense;	Ourense [code I61]
+I62;Observatorio Helios Ontigola;	Observatorio Helios Ontigola [code I62]
+I63;Cygnus Observatory, New Airesford;	Cygnus Observatory, New Airesford [code I63]
+I64;Maidenhead;	Maidenhead [code I64]
+I65;Yunquera;	Yunquera [code I65]
+I66;Taurus Australis Observatory, Brasilia;	Taurus Australis Observatory, Brasilia [code I66]
+I67;Hartley Wintney;	Hartley Wintney [code I67]
+I68;Pousada dos Anoes Observatory;	Pousada dos Anoes Observatory [code I68]
+I69;AGM Observatory, Marrakech;	AGM Observatory, Marrakech [code I69]
+I70;Gedney House Observatory, Kirton;	Gedney House Observatory, Kirton [code I70]
+I71;Observatorio Los Milanos, Caceres;	Observatorio Los Milanos, Caceres [code I71]
+I72;Observatorio Carpe-Noctem, Madrid;	Observatorio Carpe-Noctem, Madrid [code I72]
+I73;Salvia Observatory, Saulges;	Salvia Observatory, Saulges [code I73]
+I74;Baxter Garden Observatory, Salisbury;	Baxter Garden Observatory, Salisbury [code I74]
+I75;Observatorio Castellon;	Observatorio Castellon [code I75]
+I76;Observatorio Tesla, Valdemorillo;	Observatorio Tesla, Valdemorillo [code I76]
+I77;CEAMIG-REA Observatory, Belo Horizonte;	CEAMIG-REA Observatory, Belo Horizonte [code I77]
+I78;Observatorio Principia, Malaga;	Observatorio Principia, Malaga [code I78]
+I79;AstroCamp, Nerpio;	AstroCamp, Nerpio [code I79]
+I80;Rose Cottage Observatory, Keighley;	Rose Cottage Observatory, Keighley [code I80]
+I81;Tarbatness Observatory, Portmahomack;	Tarbatness Observatory, Portmahomack [code I81]
+I82;Guimar;	Guimar [code I82]
+I83;Cherryvalley Observatory, Rathmolyon;	Cherryvalley Observatory, Rathmolyon [code I83]
+I84;Cerro del Viento, Badajoz;	Cerro del Viento, Badajoz [code I84]
+I85;Las Negras;	Las Negras [code I85]
+I86;Observatorio UCM, Madrid;	Observatorio UCM, Madrid [code I86]
+I87;Astroshot Observatory, Monasterevin;	Astroshot Observatory, Monasterevin [code I87]
+I88;Fuensanta de Martos;	Fuensanta de Martos [code I88]
+I89;iTelescope Observatory, Nerpio;	iTelescope Observatory, Nerpio [code I89]
+I90;Blackrock Castle Observatory;	Blackrock Castle Observatory [code I90]
+I91;Retamar;	Retamar [code I91]
+I92;Astreo Observatory, Mairena del Aljarafe;	Astreo Observatory, Mairena del Aljarafe [code I92]
+I93;St Pardon de Conques;	St Pardon de Conques [code I93]
+I94;Observatorio Rho Ophiocus, Las Rozas de Madrid;	Observatorio Rho Ophiocus, Las Rozas de Madrid [code I94]
+I95;Observatorio de la Hita;	Observatorio de la Hita [code I95]
+I96;Hyperion Observatory, Urbanizacion Caraquiz;	Hyperion Observatory, Urbanizacion Caraquiz [code I96]
+I97;Penn Heights Observatory, Rickmansworth;	Penn Heights Observatory, Rickmansworth [code I97]
+I98;El Berrueco;	El Berrueco [code I98]
+I99;Observatorio Blanquita, Vaciamadrid;	Observatorio Blanquita, Vaciamadrid [code I99]
+J00;Segorbe;	Segorbe [code J00]
+J01;Observatorio Cielo Profundo, Leon;	Observatorio Cielo Profundo, Leon [code J01]
+J02;Busot;	Busot [code J02]
+J03;Gothers Observatory, St. Dennis;	Gothers Observatory, St. Dennis [code J03]
+J04;ESA Optical Ground Station, Tenerife;	ESA Optical Ground Station, Tenerife [code J04]
+J05;Bootes Observatory, Boecillo;	Bootes Observatory, Boecillo [code J05]
+J06;Trent Astronomical Observatory, Clifton;	Trent Astronomical Observatory, Clifton [code J06]
+J07;Observatorio SPAG Monfrague, Palazuelo-Empalme;	Observatorio SPAG Monfrague, Palazuelo-Empalme [code J07]
+J08;Observatorio Zonalunar, Puzol;	Observatorio Zonalunar, Puzol [code J08]
+J09;Balbriggan;	Balbriggan [code J09]
+J10;Alicante;	Alicante [code J10]
+J11;Matosinhos;	Matosinhos [code J11]
+J12;Caraquiz;	Caraquiz [code J12]
+J13;La Palma-Liverpool Telescope;	La Palma-Liverpool Telescope [code J13]
+J14;La Corte;	La Corte [code J14]
+J15;Muxagata;	Muxagata [code J15]
+J16;An Carraig Observatory, Loughinisland;	An Carraig Observatory, Loughinisland [code J16]
+J17;Ragdon;	Ragdon [code J17]
+J18;Dingle Observatory, Montgomery;	Dingle Observatory, Montgomery [code J18]
+J19;El Maestrat;	El Maestrat [code J19]
+J20;Aravaca;	Aravaca [code J20]
+J21;El Boalo;	El Boalo [code J21]
+J22;Tacande Observatory, La Palma;	Tacande Observatory, La Palma [code J22]
+J23;Centre Astronomique de La Couyere;	Centre Astronomique de La Couyere [code J23]
+J24;Observatorio Altamira;	Observatorio Altamira [code J24]
+J25;Penamayor Observatory, Nava;	Penamayor Observatory, Nava [code J25]
+J26;The Spaceguard Centre, Knighton;	The Spaceguard Centre, Knighton [code J26]
+J27;El Guijo Observatory;	El Guijo Observatory [code J27]
+J28;Jaen;	Jaen [code J28]
+J29;Observatorio Nira, Tias;	Observatorio Nira, Tias [code J29]
+J30;Observatorio Ventilla, Madrid;	Observatorio Ventilla, Madrid [code J30]
+J31;La Axarquia;	La Axarquia [code J31]
+J32;Aljaraque;	Aljaraque [code J32]
+J33;University of Hertfordshire Obs., Bayfordbury;	University of Hertfordshire Obs., Bayfordbury [code J33]
+J34;La Fecha;	La Fecha [code J34]
+J35;Tucci Observatory, Martos;	Tucci Observatory, Martos [code J35]
+J36;Observatorio DiezALaOnce, Illana;	Observatorio DiezALaOnce, Illana [code J36]
+J37;Huelva;	Huelva [code J37]
+J38;Observatorio La Vara, Valdes;	Observatorio La Vara, Valdes [code J38]
+J39;Ingenio;	Ingenio [code J39]
+J40;Malaga;	Malaga [code J40]
+J41;Raheny;	Raheny [code J41]
+J42;Puzol;	Puzol [code J42]
+J43;Oukaimeden Observatory, Marrakech;	Oukaimeden Observatory, Marrakech [code J43]
+J44;Observatorio Iturrieta, Alava;	Observatorio Iturrieta, Alava [code J44]
+J45;Observatorio Montana Cabreja, Vega de San Mateo;	Observatorio Montana Cabreja, Vega de San Mateo [code J45]
+J46;Observatorio Montana Blanca, Tias;	Observatorio Montana Blanca, Tias [code J46]
+J47;Observatorio Nazaret;	Observatorio Nazaret [code J47]
+J48;Observatory Mackay, La Laguna;	Observatory Mackay, La Laguna [code J48]
+J49;Santa Pola;	Santa Pola [code J49]
+J50;La Palma-NEON;	La Palma-NEON [code J50]
+J51;Observatorio Atlante, Tenerife;	Observatorio Atlante, Tenerife [code J51]
+J52;Observatorio Pinsoro;	Observatorio Pinsoro [code J52]
+J53;Posadas;	Posadas [code J53]
+J54;Bradford Robotic Telescope;	Bradford Robotic Telescope [code J54]
+J55;Los Altos de Arguineguin Observatory;	Los Altos de Arguineguin Observatory [code J55]
+J56;Observatorio La Avejerilla;	Observatorio La Avejerilla [code J56]
+J57;Centro Astronomico Alto Turia, Valencia;	Centro Astronomico Alto Turia, Valencia [code J57]
+J58;Brynllefrith Observatory, Llantwit Fardre;	Brynllefrith Observatory, Llantwit Fardre [code J58]
+J59;Observatorio Linceo, Santander;	Observatorio Linceo, Santander [code J59]
+J60;Tocororo Observatory, Arquillinos;	Tocororo Observatory, Arquillinos [code J60]
+J61;Brownstown Observatory, Kilcloon;	Brownstown Observatory, Kilcloon [code J61]
+J62;Kingsland Observatory, Boyle;	Kingsland Observatory, Boyle [code J62]
+J63;San Gabriel;	San Gabriel [code J63]
+J64;La Mata;	La Mata [code J64]
+J65;Celbridge;	Celbridge [code J65]
+J66;Kinver;	Kinver [code J66]
+J67;Observatorio La Puebla de Vallbona;	Observatorio La Puebla de Vallbona [code J67]
+J68;Tweenhills Observatory, Hartpury;	Tweenhills Observatory, Hartpury [code J68]
+J69;North Observatory, Clanfield;	North Observatory, Clanfield [code J69]
+J70;Obs. Astronomico Vega del Thader, El Palmar;	Obs. Astronomico Vega del Thader, El Palmar [code J70]
+J71;Willow Bank Observatory;	Willow Bank Observatory [code J71]
+J72;Valle del Sol;	Valle del Sol [code J72]
+J73;Quainton;	Quainton [code J73]
+J74;Bilbao;	Bilbao [code J74]
+J75;OAM Observatory, La Sagra;	OAM Observatory, La Sagra [code J75]
+J76;La Murta;	La Murta [code J76]
+J77;Golden Hill Observatory, Stourton Caundle;	Golden Hill Observatory, Stourton Caundle [code J77]
+J78;Murcia;	Murcia [code J78]
+J79;Observatorio Calarreona, Aguilas;	Observatorio Calarreona, Aguilas [code J79]
+J80;Sainte Helene;	Sainte Helene [code J80]
+J81;Guirguillano;	Guirguillano [code J81]
+J82;Leyland;	Leyland [code J82]
+J83;Olive Farm Observatory, Hoghton;	Olive Farm Observatory, Hoghton [code J83]
+J84;South Observatory, Clanfield;	South Observatory, Clanfield [code J84]
+J85;Makerstoun;	Makerstoun [code J85]
+J86;Sierra Nevada Observatory;	Sierra Nevada Observatory [code J86]
+J87;La Canada;	La Canada [code J87]
+J88;Strawberry Field Obs., Southampton;	Strawberry Field Obs., Southampton [code J88]
+J89;Tres Cantos Observatory;	Tres Cantos Observatory [code J89]
+J90;West Challow;	West Challow [code J90]
+J91;Alt emporda Observatory, Figueres;	Alt emporda Observatory, Figueres [code J91]
+J92;Beaconsfield;	Beaconsfield [code J92]
+J93;Mount Tuffley Observatory, Gloucester;	Mount Tuffley Observatory, Gloucester [code J93]
+J94;Abbeydale;	Abbeydale [code J94]
+J95;Great Shefford;	Great Shefford [code J95]
+J96;Observatorio de Cantabria;	Observatorio de Cantabria [code J96]
+J97;Alginet;	Alginet [code J97]
+J98;Observatorio Manises;	Observatorio Manises [code J98]
+J99;Burjassot;	Burjassot [code J99]
+K01;Astrognosis Observatory, Bradwell;	Astrognosis Observatory, Bradwell [code K01]
+K02;Eastwood Observatory, Leigh on Sea;	Eastwood Observatory, Leigh on Sea [code K02]
+K03;Observatori AAS Montsec;	Observatori AAS Montsec [code K03]
+K04;Lo Fossil Observatory, Ager;	Lo Fossil Observatory, Ager [code K04]
+K05;Eden Observatory, Banham;	Eden Observatory, Banham [code K05]
+K07;Observatoire de Gravelle, St. Maurice;	Observatoire de Gravelle, St. Maurice [code K07]
+K08;Observatorio Lledoner, Vallirana;	Observatorio Lledoner, Vallirana [code K08]
+K09;Llica d&#39;Amunt;	Llica d&#39;Amunt [code K09]
+K10;Micro Palomar, Reilhanette;	Micro Palomar, Reilhanette [code K10]
+K11;Observatoire de Pommier;	Observatoire de Pommier [code K11]
+K12;Obsevatorio Astronomico de Marratxi;	Obsevatorio Astronomico de Marratxi [code K12]
+K13;Albireo Observatory, Inca;	Albireo Observatory, Inca [code K13]
+K14;Observatorio de Sencelles;	Observatorio de Sencelles [code K14]
+K15;Murviel-les-Montpellier;	Murviel-les-Montpellier [code K15]
+K16;Reilhanette;	Reilhanette [code K16]
+K17;Observatoire des Valentines, Bex;	Observatoire des Valentines, Bex [code K17]
+K18;Hesingue;	Hesingue [code K18]
+K19;PASTIS Observatory, Banon;	PASTIS Observatory, Banon [code K19]
+K20;Danastro Observatory, Romeree;	Danastro Observatory, Romeree [code K20]
+K21;Saint-Saturnin-les-Avignon;	Saint-Saturnin-les-Avignon [code K21]
+K22;Les Barres Observatory, Lamanon;	Les Barres Observatory, Lamanon [code K22]
+K23;Gorgonzola;	Gorgonzola [code K23]
+K24;Schmelz;	Schmelz [code K24]
+K25;Haute Provence Sud, Saint-Michel-l&#39;Observatoire;	Haute Provence Sud, Saint-Michel-l&#39;Observatoire [code K25]
+K26;Contern;	Contern [code K26]
+K27;St-Martin Observatory, Amathay Vesigneux;	St-Martin Observatory, Amathay Vesigneux [code K27]
+K28;Sternwarte Eckdorf;	Sternwarte Eckdorf [code K28]
+K29;Stellarium Gornergrat;	Stellarium Gornergrat [code K29]
+K30;Luscherz;	Luscherz [code K30]
+K31;Osservatorio Astronomico di Bellino;	Osservatorio Astronomico di Bellino [code K31]
+K32;Maritime Alps Observatory, Cuneo;	Maritime Alps Observatory, Cuneo [code K32]
+K33;San Defendente;	San Defendente [code K33]
+K34;Turin;	Turin [code K34]
+K35;Huenfelden;	Huenfelden [code K35]
+K36;Ebersheim;	Ebersheim [code K36]
+K37;Cereseto;	Cereseto [code K37]
+K38;M57 Observatory, Saltrio;	M57 Observatory, Saltrio [code K38]
+K39;Serra Observatory;	Serra Observatory [code K39]
+K40;Altdorf;	Altdorf [code K40]
+K41;Vegaquattro Astronomical Obs., Novi Ligure;	Vegaquattro Astronomical Obs., Novi Ligure [code K41]
+K42;Knielingen;	Knielingen [code K42]
+K43;OVM Observatory, Chiesa in Valmalencom;	OVM Observatory, Chiesa in Valmalencom [code K43]
+K44;Marienburg Sternwarte, Hildesheim;	Marienburg Sternwarte, Hildesheim [code K44]
+K45;Oss. Astronomico di Punta Falcone, Piombino;	Oss. Astronomico di Punta Falcone, Piombino [code K45]
+K46;Bamberg;	Bamberg [code K46]
+K47;BSCR Observatory, Santa Maria a Monte;	BSCR Observatory, Santa Maria a Monte [code K47]
+K48;Keyhole Observatory, San Giorgio di Mantova;	Keyhole Observatory, San Giorgio di Mantova [code K48]
+K49;Carpione Observatory, Spedaletto;	Carpione Observatory, Spedaletto [code K49]
+K50;Sternwarte Feuerstein, Ebermannstadt;	Sternwarte Feuerstein, Ebermannstadt [code K50]
+K51;Osservatorio del Celado, Castello Tesino;	Osservatorio del Celado, Castello Tesino [code K51]
+K52;Gwen Observatory, San Francesco al Campo;	Gwen Observatory, San Francesco al Campo [code K52]
+K53;Marina di Cerveteri;	Marina di Cerveteri [code K53]
+K54;Astronomical Observatory University of Siena;	Astronomical Observatory University of Siena [code K54]
+K55;Wallhausen;	Wallhausen [code K55]
+K56;Osservatorio di Foligno;	Osservatorio di Foligno [code K56]
+K57;Fiore Observatory;	Fiore Observatory [code K57]
+K58;Gevelsberg;	Gevelsberg [code K58]
+K59;Elsterland Observatory, Jessnigk;	Elsterland Observatory, Jessnigk [code K59]
+K60;Lindby;	Lindby [code K60]
+K61;Rokycany Observatory;	Rokycany Observatory [code K61]
+K62;Teplice Observatory;	Teplice Observatory [code K62]
+K63;G. Pascoli Observatory, Castelvecchio Pascoli;	G. Pascoli Observatory, Castelvecchio Pascoli [code K63]
+K64;Waizenreuth;	Waizenreuth [code K64]
+K65;Cesena;	Cesena [code K65]
+K66;Osservatorio Astronomico di Anzio;	Osservatorio Astronomico di Anzio [code K66]
+K67;Bayerwald Sternwarte, Spiegelau;	Bayerwald Sternwarte, Spiegelau [code K67]
+K68;Osservatorio Elianto, Pontecagnano;	Osservatorio Elianto, Pontecagnano [code K68]
+K69;Riethnordhausen;	Riethnordhausen [code K69]
+K70;Rosarno;	Rosarno [code K70]
+K71;Neutraubling;	Neutraubling [code K71]
+K72;Celico;	Celico [code K72]
+K73;Gravina in Puglia;	Gravina in Puglia [code K73]
+K74;Muensterschwarzach Observatory, Schwarzach;	Muensterschwarzach Observatory, Schwarzach [code K74]
+K75;Astro Dolomites, Santa Cristina Valgardena;	Astro Dolomites, Santa Cristina Valgardena [code K75]
+K76;BSA Osservatorio, Savigliano;	BSA Osservatorio, Savigliano [code K76]
+K77;EHB01 Observatory, Engelhardsberg;	EHB01 Observatory, Engelhardsberg [code K77]
+K78;iota Scorpii Observatory, La Spezia;	iota Scorpii Observatory, La Spezia [code K78]
+K79;Erfurt;	Erfurt [code K79]
+K80;Platanus Observatory, Lusowko;	Platanus Observatory, Lusowko [code K80]
+K81;P.M.P.H.R. Deep Sky Observatory, Atina;	P.M.P.H.R. Deep Sky Observatory, Atina [code K81]
+K82;Alphard Observatory, Ostuni;	Alphard Observatory, Ostuni [code K82]
+K83;Beppe Forti Astronomical Observatory, Montelupo;	Beppe Forti Astronomical Observatory, Montelupo [code K83]
+K84;Felliscopio Observatory, Fellicarolo;	Felliscopio Observatory, Fellicarolo [code K84]
+K85;Kelmis;	Kelmis [code K85]
+K86;Brescia;	Brescia [code K86]
+K87;Dettelbach Vineyard Observatory;	Dettelbach Vineyard Observatory [code K87]
+K88;GINOP-KHK, Piszkesteto;	GINOP-KHK, Piszkesteto [code K88]
+K89;Digital Stargate Observatory, Manciano;	Digital Stargate Observatory, Manciano [code K89]
+K90;Sopot Astronomical Observatory;	Sopot Astronomical Observatory [code K90]
+K91;Sutherland-LCO A;	Sutherland-LCO A [code K91]
+K92;Sutherland-LCO B;	Sutherland-LCO B [code K92]
+K93;Sutherland-LCO C;	Sutherland-LCO C [code K93]
+K94;Sutherland;	Sutherland [code K94]
+K95;MASTER-SAAO Observatory, Sutherland;	MASTER-SAAO Observatory, Sutherland [code K95]
+K96;Savelli Observatory;	Savelli Observatory [code K96]
+K97;Freconrupt;	Freconrupt [code K97]
+K98;6ROADS Observatory 1, Wojnowko;	6ROADS Observatory 1, Wojnowko [code K98]
+K99;ISON-Uzhgorod Observatory;	ISON-Uzhgorod Observatory [code K99]
+L00;East Rome Observatory, Rome;	East Rome Observatory, Rome [code L00]
+L01;Visnjan Observatory, Tican;	Visnjan Observatory, Tican [code L01]
+L02;NOAK Observatory, Stavraki;	NOAK Observatory, Stavraki [code L02]
+L03;SGT Observatory, Gaflenz;	SGT Observatory, Gaflenz [code L03]
+L04;ROASTERR-1 Observatory, Cluj-Napoca;	ROASTERR-1 Observatory, Cluj-Napoca [code L04]
+L05;Dridri Observatory, Franciacorta;	Dridri Observatory, Franciacorta [code L05]
+L06;Sormano 2 Observatory, Bellagio Via Lattea;	Sormano 2 Observatory, Bellagio Via Lattea [code L06]
+L07;Osservatorio Salvatore di Giacomo, Agerola;	Osservatorio Salvatore di Giacomo, Agerola [code L07]
+L08;Metsahovi Optical Telescope, Metsahovi;	Metsahovi Optical Telescope, Metsahovi [code L08]
+L09;Sutherland-LCO Aqawan A #1;	Sutherland-LCO Aqawan A #1 [code L09]
+L10;Kryoneri Observatory;	Kryoneri Observatory [code L10]
+L11;Sandvreten Observatory;	Sandvreten Observatory [code L11]
+L12;Koksijde;	Koksijde [code L12]
+L13;Stardust Observatory, Brasov;	Stardust Observatory, Brasov [code L13]
+L14;Planetarium de Vaulx-en-Velin Observatory;	Planetarium de Vaulx-en-Velin Observatory [code L14]
+L15;St. George Observatory, Ploiesti;	St. George Observatory, Ploiesti [code L15]
+L16;Stardreams Observatory, Valenii de Munte;	Stardreams Observatory, Valenii de Munte [code L16]
+L17;Observatori Astronomic Albanya;	Observatori Astronomic Albanya [code L17]
+L18;QOS Observatory, Zalistci;	QOS Observatory, Zalistci [code L18]
+L19;Osservatorio Felsina AAB, Montepastore;	Osservatorio Felsina AAB, Montepastore [code L19]
+L20;AG_Sarajevo Observatory, Sarajevo;	AG_Sarajevo Observatory, Sarajevo [code L20]
+L21;Ostrov Observatory, Constanta;	Ostrov Observatory, Constanta [code L21]
+L22;Barlad Observatory;	Barlad Observatory [code L22]
+L23;Schela Observatory;	Schela Observatory [code L23]
+L24;Gauteng;	Gauteng [code L24]
+L25;Smolecin;	Smolecin [code L25]
+L26;Sanderphil Urban Observatory, Civitavecchia;	Sanderphil Urban Observatory, Civitavecchia [code L26]
+L27;29PREMOTE Observatory, Dauban;	29PREMOTE Observatory, Dauban [code L27]
+L28;ISON-Castelgrande Observatory;	ISON-Castelgrande Observatory [code L28]
+L29;Drebach-South Observatory, Windhoek;	Drebach-South Observatory, Windhoek [code L29]
+L30;Lohbach Observatory, Benninghofen;	Lohbach Observatory, Benninghofen [code L30]
+L31;RaSo Observatory, Chemnitz;	RaSo Observatory, Chemnitz [code L31]
+L32;Korea Microlensing Telescope Network-SAAO;	Korea Microlensing Telescope Network-SAAO [code L32]
+L33;Ananjev;	Ananjev [code L33]
+L34;Galhassin Robotic Telescope, Isnello;	Galhassin Robotic Telescope, Isnello [code L34]
+L35;DreamSky Observatory, Lisnyky;	DreamSky Observatory, Lisnyky [code L35]
+L36;Ondrejov--BlueEye600 Telescope;	Ondrejov--BlueEye600 Telescope [code L36]
+L37;Observatorio Alnitak, El Puerto de Santa Maria;	Observatorio Alnitak, El Puerto de Santa Maria [code L37]
+L38;Gartensternwarte Schafsweide, Schelde;	Gartensternwarte Schafsweide, Schelde [code L38]
+L39;Osservatorio Spica, Signa;	Osservatorio Spica, Signa [code L39]
+L50;GenShtab Observatory, Nauchnij;	GenShtab Observatory, Nauchnij [code L50]
+L51;MARGO, Nauchnij;	MARGO, Nauchnij [code L51]
+L52;MASTER-Tavrida;	MASTER-Tavrida [code L52]
+L71;Vedrus Observatory, Azovskaya;	Vedrus Observatory, Azovskaya [code L71]
+L72;Melezhy Astrophoto Observatory;	Melezhy Astrophoto Observatory [code L72]
+L96;ISON-Byurakan Observatory;	ISON-Byurakan Observatory [code L96]
+N27;Omsk-Yogik Observatory;	Omsk-Yogik Observatory [code N27]
+N30;Zeds Astronomical Observatory, Lahore;	Zeds Astronomical Observatory, Lahore [code N30]
+N31;Eden Astronomical Observatory, Lahore;	Eden Astronomical Observatory, Lahore [code N31]
+N42;Tien-Shan Astronomical Observatory;	Tien-Shan Astronomical Observatory [code N42]
+N43;Plateau Observatory for Dome A, Kunlun Station;	Plateau Observatory for Dome A, Kunlun Station [code N43]
+N50;Himalayan Chandra Telescope, IAO, Hanle;	Himalayan Chandra Telescope, IAO, Hanle [code N50]
+N55;Corona Borealis Observatory, Ngari;	Corona Borealis Observatory, Ngari [code N55]
+N87;Nanshan Station, Xinjiang Observatory;	Nanshan Station, Xinjiang Observatory [code N87]
+O43;Observatori Negara, Langkawi;	Observatori Negara, Langkawi [code O43]
+O44;Lijiang Station, Yunnan Observatories;	Lijiang Station, Yunnan Observatories [code O44]
+O45;Yunnan-HK Observatory, Gaomeigu;	Yunnan-HK Observatory, Gaomeigu [code O45]
+O50;Hin Hua Observatory, Klang;	Hin Hua Observatory, Klang [code O50]
+O75;ISON-Hureltogoot Observatory;	ISON-Hureltogoot Observatory [code O75]
+P25;Kinmen Educational Remote Observatory, Jincheng;	Kinmen Educational Remote Observatory, Jincheng [code P25]
+P34;Lvye Observatory, Suzhou;	Lvye Observatory, Suzhou [code P34]
+P35;Cuteip Remote Observatory, Changhua;	Cuteip Remote Observatory, Changhua [code P35]
+P36;ULTRA Observatory,Suzhou;	ULTRA Observatory,Suzhou [code P36]
+P40;Chinese Culture University, Taipei;	Chinese Culture University, Taipei [code P40]
+P66;Deokheung Optical Astronomy Observatory;	Deokheung Optical Astronomy Observatory [code P66]
+P73;BSH Byulsem Observatory, Busan;	BSH Byulsem Observatory, Busan [code P73]
+P93;Space Tracking and Communications Center, JAXA;	Space Tracking and Communications Center, JAXA [code P93]
+Q11;Shinshiro;	Shinshiro [code Q11]
+Q19;Machida;	Machida [code Q19]
+Q21;Southern Utsunomiya;	Southern Utsunomiya [code Q21]
+Q23;Sukagawa;	Sukagawa [code Q23]
+Q24;Katori;	Katori [code Q24]
+Q33;Nayoro Observatory, Hokkaido University;	Nayoro Observatory, Hokkaido University [code Q33]
+Q38;Swan Hill;	Swan Hill [code Q38]
+Q56;Heaven&#39;s Mirror Observatory, Yass;	Heaven&#39;s Mirror Observatory, Yass [code Q56]
+Q57;Korea Microlensing Telescope Network-SSO;	Korea Microlensing Telescope Network-SSO [code Q57]
+Q58;Siding Spring-LCO Clamshell #1;	Siding Spring-LCO Clamshell #1 [code Q58]
+Q59;Siding Spring-LCO Clamshell #2;	Siding Spring-LCO Clamshell #2 [code Q59]
+Q60;ISON-SSO Observatory, Siding Spring;	ISON-SSO Observatory, Siding Spring [code Q60]
+Q61;PROMPT, Siding Spring;	PROMPT, Siding Spring [code Q61]
+Q62;iTelescope Observatory, Siding Spring;	iTelescope Observatory, Siding Spring [code Q62]
+Q63;Siding Spring-LCO A;	Siding Spring-LCO A [code Q63]
+Q64;Siding Spring-LCO B;	Siding Spring-LCO B [code Q64]
+Q65;Warrumbungle Observatory;	Warrumbungle Observatory [code Q65]
+Q66;Siding Spring-Janess-G, JAXA;	Siding Spring-Janess-G, JAXA [code Q66]
+Q67;JBL Observatory, Bathurst;	JBL Observatory, Bathurst [code Q67]
+Q68;Blue Mountains Observatory, Leura;	Blue Mountains Observatory, Leura [code Q68]
+Q69;Hazelbrook (O&#39;Day);	Hazelbrook (O&#39;Day) [code Q69]
+Q79;Samford Valley Observatory;	Samford Valley Observatory [code Q79]
+Q80;Birkdale;	Birkdale [code Q80]
+R57;Aorangi Iti Observatory, Lake Tekapo;	Aorangi Iti Observatory, Lake Tekapo [code R57]
+R58;Beverly-Begg Observatory, Dunedin;	Beverly-Begg Observatory, Dunedin [code R58]
+T03;Haleakala-LCO Clamshell #3;	Haleakala-LCO Clamshell #3 [code T03]
+T04;Haleakala-LCO OGG B #2;	Haleakala-LCO OGG B #2 [code T04]
+T05;ATLAS-HKO, Haleakala;	ATLAS-HKO, Haleakala [code T05]
+T08;ATLAS-MLO, Mauna Loa;	ATLAS-MLO, Mauna Loa [code T08]
+T09;Mauna Kea-UH/Tholen NEO Follow-Up (Subaru);	Mauna Kea-UH/Tholen NEO Follow-Up (Subaru) [code T09]
+T12;Mauna Kea-UH/Tholen NEO Follow-Up (2.24-m);	Mauna Kea-UH/Tholen NEO Follow-Up (2.24-m) [code T12]
+T14;Mauna Kea-UH/Tholen NEO Follow-Up (CFHT);	Mauna Kea-UH/Tholen NEO Follow-Up (CFHT) [code T14]
+U53;Murray Hill Observatory, Beaverton;	Murray Hill Observatory, Beaverton [code U53]
+U54;Hume Observatory, Santa Rosa;	Hume Observatory, Santa Rosa [code U54]
+U56;Palo Alto;	Palo Alto [code U56]
+U57;Black Mountain Observatory, Los Altos;	Black Mountain Observatory, Los Altos [code U57]
+U63;Burnt Tree Hill Observatory, Cle Elum;	Burnt Tree Hill Observatory, Cle Elum [code U63]
+U64;CWU-Lind Observatory, Ellensburg;	CWU-Lind Observatory, Ellensburg [code U64]
+U68;JPL SynTrack Robotic Telescope, Auberry;	JPL SynTrack Robotic Telescope, Auberry [code U68]
+U69;iTelescope SRO Observatory, Auberry;	iTelescope SRO Observatory, Auberry [code U69]
+U73;Redondo Beach;	Redondo Beach [code U73]
+U78;Cedar Glen Observatory;	Cedar Glen Observatory [code U78]
+U79;Cosmos Research Center, Encinitas;	Cosmos Research Center, Encinitas [code U79]
+U80;CS3-DanHenge Observatory, Landers;	CS3-DanHenge Observatory, Landers [code U80]
+U81;CS3-Trojan Station, Landers;	CS3-Trojan Station, Landers [code U81]
+U82;CS3-Palmer Divide Station, Landers;	CS3-Palmer Divide Station, Landers [code U82]
+U96;Athabasca University Geophysical Observatory;	Athabasca University Geophysical Observatory [code U96]
+V01;Mountainville Observatory, Alpine;	Mountainville Observatory, Alpine [code V01]
+V02;Command Module, Tempe;	Command Module, Tempe [code V02]
+V03;Big Water;	Big Water [code V03]
+V04;FRoST, Anderson Mesa;	FRoST, Anderson Mesa [code V04]
+V05;Rusty Mountain Observatory, Gold Canyon;	Rusty Mountain Observatory, Gold Canyon [code V05]
+V06;Catalina Sky Survey-Kuiper;	Catalina Sky Survey-Kuiper [code V06]
+V07;Whipple Observatory, Mount Hopkins-PAIRITEL;	Whipple Observatory, Mount Hopkins-PAIRITEL [code V07]
+V08;Mountain Creek Ranch, Vail;	Mountain Creek Ranch, Vail [code V08]
+V09;Moka Observatory, Benson;	Moka Observatory, Benson [code V09]
+V16;Dark Sky New Mexico, Animas;	Dark Sky New Mexico, Animas [code V16]
+V23;FOAH Observatory, Magdalena;	FOAH Observatory, Magdalena [code V23]
+V26;UAS-ISON Observatory, Cosala;	UAS-ISON Observatory, Cosala [code V26]
+V29;Tzec Maun Cloudcroft Facility;	Tzec Maun Cloudcroft Facility [code V29]
+V30;Heaven on Earth Observatory, Mayhill;	Heaven on Earth Observatory, Mayhill [code V30]
+V31;Hazardous Observatory, Mayhill;	Hazardous Observatory, Mayhill [code V31]
+V35;Deep Sky Observatory Collaborative, Pier 5;	Deep Sky Observatory Collaborative, Pier 5 [code V35]
+V36;The Ranch Observatory, Lakewood;	The Ranch Observatory, Lakewood [code V36]
+V37;McDonald Observatory-LCO ELP;	McDonald Observatory-LCO ELP [code V37]
+V38;McDonald Observatory-LCO ELP Aqawan A #1;	McDonald Observatory-LCO ELP Aqawan A #1 [code V38]
+V59;Millwood Observatory, Comfort;	Millwood Observatory, Comfort [code V59]
+V60;Putman Mountain Observatory;	Putman Mountain Observatory [code V60]
+V70;Starry Night Observatory, Columbus;	Starry Night Observatory, Columbus [code V70]
+V78;Spirit Marsh Observatory. Sauk Centre;	Spirit Marsh Observatory. Sauk Centre [code V78]
+V81;Fayetteville;	Fayetteville [code V81]
+V83;Rolling Hills Observatory, Warrensburg;	Rolling Hills Observatory, Warrensburg [code V83]
+V86;Rattle Snake Observatory, Sedalia;	Rattle Snake Observatory, Sedalia [code V86]
+V88;River Ridge Observatory, Conway;	River Ridge Observatory, Conway [code V88]
+W04;Mark Evans Observatory, Bloomington;	Mark Evans Observatory, Bloomington [code W04]
+W08;Jimginny Observatory, Naperville;	Jimginny Observatory, Naperville [code W08]
+W11;Northwest Indiana Robotic Telescope, Lowell;	Northwest Indiana Robotic Telescope, Lowell [code W11]
+W14;Harvest;	Harvest [code W14]
+W19;Kalamazoo;	Kalamazoo [code W19]
+W22;WestRock Observatory, Columbus;	WestRock Observatory, Columbus [code W22]
+W25;RMS Observatory, Cincinnati;	RMS Observatory, Cincinnati [code W25]
+W28;Ex Nihilo Observatory, Winder;	Ex Nihilo Observatory, Winder [code W28]
+W30;Georgia College Observatory, Milledgeville;	Georgia College Observatory, Milledgeville [code W30]
+W33;Transit Dreams Observatory, Campobello;	Transit Dreams Observatory, Campobello [code W33]
+W34;Squirrel Valley Observatory, Columbus;	Squirrel Valley Observatory, Columbus [code W34]
+W38;Dark Sky Observatory, Boone;	Dark Sky Observatory, Boone [code W38]
+W46;Foxfire Village;	Foxfire Village [code W46]
+W49;CBA-MM Observatory, Mountain Meadows;	CBA-MM Observatory, Mountain Meadows [code W49]
+W50;Apex;	Apex [code W50]
+W54;Mark Slade Remote Observatory, Wilderness;	Mark Slade Remote Observatory, Wilderness [code W54]
+W55;Natelli Observatory, Frederick;	Natelli Observatory, Frederick [code W55]
+W63;Observatorio Astronomico UTP, Pereira;	Observatorio Astronomico UTP, Pereira [code W63]
+W66;SVH Observatory, Blairstown;	SVH Observatory, Blairstown [code W66]
+W67;Paul Robinson Observatory, Voorhees State Park;	Paul Robinson Observatory, Voorhees State Park [code W67]
+W70;Loose Goose Observatory, Saint-Jerome;	Loose Goose Observatory, Saint-Jerome [code W70]
+W71;Rand II Observatory, Lake Placid;	Rand II Observatory, Lake Placid [code W71]
+W75;SPECULOOS-South Observatory, Paranal;	SPECULOOS-South Observatory, Paranal [code W75]
+W76;CHILESCOPE Observatory, Rio Hurtad;	CHILESCOPE Observatory, Rio Hurtad [code W76]
+W77;Skyledge Observatory, Killingworth;	Skyledge Observatory, Killingworth [code W77]
+W78;Clay Telescope, Harvard University;	Clay Telescope, Harvard University [code W78]
+W79;Cerro Tololo-LCO Aqawan B #1;	Cerro Tololo-LCO Aqawan B #1 [code W79]
+W80;Westwood;	Westwood [code W80]
+W81;Nebula Knoll Observatoy, East Wakefield;	Nebula Knoll Observatoy, East Wakefield [code W81]
+W82;Mendel Observatory, Merrimack College;	Mendel Observatory, Merrimack College [code W82]
+W83;Whitin Observatory, Wellesley;	Whitin Observatory, Wellesley [code W83]
+W84;Cerro Tololo-DECam;	Cerro Tololo-DECam [code W84]
+W85;Cerro Tololo-LCO A;	Cerro Tololo-LCO A [code W85]
+W86;Cerro Tololo-LCO B;	Cerro Tololo-LCO B [code W86]
+W87;Cerro Tololo-LCO C;	Cerro Tololo-LCO C [code W87]
+W88;Slooh.com Chile Observatory, La Dehesa;	Slooh.com Chile Observatory, La Dehesa [code W88]
+W89;Cerro Tololo-LCO Aqawan A #1;	Cerro Tololo-LCO Aqawan A #1 [code W89]
+W90;Phillips Exeter Academy Grainger Observatory;	Phillips Exeter Academy Grainger Observatory [code W90]
+W91;VHS-VISTA, Cerro Paranal;	VHS-VISTA, Cerro Paranal [code W91]
+W92;MASTER-OAFA Observatory, San Juan;	MASTER-OAFA Observatory, San Juan [code W92]
+W93;Korea Microlensing Telescope Network-CTIO;	Korea Microlensing Telescope Network-CTIO [code W93]
+W94;AMACS1, San Pedro de Atacama;	AMACS1, San Pedro de Atacama [code W94]
+W95;Observatorio Panameno, San Pedro de Atacama;	Observatorio Panameno, San Pedro de Atacama [code W95]
+W96;CAO, San Pedro de Atacama (since 2013);	CAO, San Pedro de Atacama (since 2013) [code W96]
+W97;Atacama Desert Observatory, San Pedro de Atacama;	Atacama Desert Observatory, San Pedro de Atacama [code W97]
+W98;Polonia Observatory, San Pedro de Atacama;	Polonia Observatory, San Pedro de Atacama [code W98]
+W99;SON, San Pedro de Atacama Station;	SON, San Pedro de Atacama Station [code W99]
+X13;Observatorio Remoto Bosque Alegre;	Observatorio Remoto Bosque Alegre [code X13]
+X14;Observatorio Orbis Tertius, Cordoba;	Observatorio Orbis Tertius, Cordoba [code X14]
+X31;Galileo Galilei Observatory, Oro Verde;	Galileo Galilei Observatory, Oro Verde [code X31]
+X38;Observatorio Pueyrredon, La Lonja;	Observatorio Pueyrredon, La Lonja [code X38]
+X39;Observatorio Antares, Pilar;	Observatorio Antares, Pilar [code X39]
+X50;Observatorio Astronomico de Montevideo;	Observatorio Astronomico de Montevideo [code X50]
+X57;Polo Astronomico CMF,Foz do Iguacu;	Polo Astronomico CMF,Foz do Iguacu [code X57]
+X74;Observatorio Campo dos Amarais;	Observatorio Campo dos Amarais [code X74]
+X87;Dogsheaven Observatory, Brasilia;	Dogsheaven Observatory, Brasilia [code X87]
+X88;Observatorio Adhara, Sorocaba;	Observatorio Adhara, Sorocaba [code X88]
+Y00;SONEAR Observatory, Oliveira;	SONEAR Observatory, Oliveira [code Y00]
+Y28;OASI, Nova Itacuruba;	OASI, Nova Itacuruba [code Y28]
+Z17;Tenerife-LCO Aqawan A #2;	Tenerife-LCO Aqawan A #2 [code Z17]
+Z18;Gran Telescopio Canarias, Roque de los Muchachos;	Gran Telescopio Canarias, Roque de los Muchachos [code Z18]
+Z19;La Palma-TNG;	La Palma-TNG [code Z19]
+Z20;La Palma-MERCATOR;	La Palma-MERCATOR [code Z20]
+Z21;Tenerife-LCO Aqawan A #1;	Tenerife-LCO Aqawan A #1 [code Z21]
+Z22;MASTER-IAC Observatory, Tenerife;	MASTER-IAC Observatory, Tenerife [code Z22]
+Z26;Observatorio Astronomico Arcangel, Las Zocas;	Observatorio Astronomico Arcangel, Las Zocas [code Z26]
+Z27;Observatorio Coralito, La Laguna;	Observatorio Coralito, La Laguna [code Z27]
+Z32;Observatorio Astrofisico de Javalambre;	Observatorio Astrofisico de Javalambre [code Z32]
+Z33;6ROADS Observatory 2, Nerpio;	6ROADS Observatory 2, Nerpio [code Z33]
+Z34;NNHS Drummonds Observatory;	NNHS Drummonds Observatory [code Z34]
+Z35;OAO University Observatory Station Aras;	OAO University Observatory Station Aras [code Z35]
+Z36;Cancelada;	Cancelada [code Z36]
+Z37;Northolt Branch Observatory 3, Blandford Forum;	Northolt Branch Observatory 3, Blandford Forum [code Z37]
+Z38;Picoto Observatory, Leiria;	Picoto Observatory, Leiria [code Z38]
+Z39;Observatorio Costa Teguise;	Observatorio Costa Teguise [code Z39]
+Z40;El Manzanillo Observatory, Puerto de la Torre;	El Manzanillo Observatory, Puerto de la Torre [code Z40]
+Z41;Irydeo Observatory, Camarma de Esteruelas;	Irydeo Observatory, Camarma de Esteruelas [code Z41]
+Z42;Rushay Farm Observatory, Sturminster Newton;	Rushay Farm Observatory, Sturminster Newton [code Z42]
+Z43;Landehen;	Landehen [code Z43]
+Z44;Observatorio Terminus, A Coruna;	Observatorio Terminus, A Coruna [code Z44]
+Z45;Cosmos Observatory, Marbella;	Cosmos Observatory, Marbella [code Z45]
+Z46;Cardiff;	Cardiff [code Z46]
+Z47;Runcorn;	Runcorn [code Z47]
+Z48;Northolt Branch Observatory 2, Shepherd&#39;s Bush;	Northolt Branch Observatory 2, Shepherd&#39;s Bush [code Z48]
+Z49;Alston Observatory;	Alston Observatory [code Z49]
+Z50;Mazariegos;	Mazariegos [code Z50]
+Z51;Anunaki Observatory, Rivas Vaciamadrid;	Anunaki Observatory, Rivas Vaciamadrid [code Z51]
+Z52;The Studios Observatory, Grantham;	The Studios Observatory, Grantham [code Z52]
+Z53;TRAPPIST-North, Oukaimeden;	TRAPPIST-North, Oukaimeden [code Z53]
+Z54;Greenmoor Observatory, Woodcote;	Greenmoor Observatory, Woodcote [code Z54]
+Z55;Uraniborg Observatory, Ecija;	Uraniborg Observatory, Ecija [code Z55]
+Z56;Knocknaboola;	Knocknaboola [code Z56]
+Z57;Observatorio Zuben, Alhaurin de la Torre;	Observatorio Zuben, Alhaurin de la Torre [code Z57]
+Z58;ESA Cebreros TBT Observatory, Cebreros;	ESA Cebreros TBT Observatory, Cebreros [code Z58]
+Z59;Chelford Observatory;	Chelford Observatory [code Z59]
+Z60;Observatorio Zaldibia;	Observatorio Zaldibia [code Z60]
+Z61;Montecanal Observatory, Zaragoza;	Montecanal Observatory, Zaragoza [code Z61]
+Z62;Observatorio Forcarei;	Observatorio Forcarei [code Z62]
+Z63;Skybor Observatory, Borja;	Skybor Observatory, Borja [code Z63]
+Z64;Observatorio el Miron del Cielo;	Observatorio el Miron del Cielo [code Z64]
+Z65;Observatorio Astronomico Corgas;	Observatorio Astronomico Corgas [code Z65]
+Z66;DeSS Deimos Sky Survey, Niefla Mountain;	DeSS Deimos Sky Survey, Niefla Mountain [code Z66]
+Z67;Dunboyne Castle Observatory;	Dunboyne Castle Observatory [code Z67]
+Z68;Observatorio Torreaguila, Barbano;	Observatorio Torreaguila, Barbano [code Z68]
+Z69;Observatorio Mazagon Huelva;	Observatorio Mazagon Huelva [code Z69]
+Z70;Ponferrada;	Ponferrada [code Z70]
+Z71;Observatorio Norba Caesarina, Aldea Moret;	Observatorio Norba Caesarina, Aldea Moret [code Z71]
+Z72;Cademuir Observatory, Dalkey;	Cademuir Observatory, Dalkey [code Z72]
+Z73;Observatorio Nuevos Horizontes, Camas;	Observatorio Nuevos Horizontes, Camas [code Z73]
+Z74;Amanecer de Arrakis;	Amanecer de Arrakis [code Z74]
+Z75;Observatorio Sirius, Las Lomas;	Observatorio Sirius, Las Lomas [code Z75]
+Z76;Observatorio Carda, Villaviciosa;	Observatorio Carda, Villaviciosa [code Z76]
+Z77;Osuna;	Osuna [code Z77]
+Z78;Arroyo Observatory, Arroyo Hurtado;	Arroyo Observatory, Arroyo Hurtado [code Z78]
+Z79;Calar Alto TNO Survey;	Calar Alto TNO Survey [code Z79]
+Z80;Northolt Branch Observatory;	Northolt Branch Observatory [code Z80]
+Z81;Observatorio Estrella de Mar;	Observatorio Estrella de Mar [code Z81]
+Z82;BOOTES-2 Observatory, Algarrobo;	BOOTES-2 Observatory, Algarrobo [code Z82]
+Z83;Chicharronian 3C Observatory, Tres Cantos;	Chicharronian 3C Observatory, Tres Cantos [code Z83]
+Z84;Calar Alto-Schmidt;	Calar Alto-Schmidt [code Z84]
+Z85;Observatorio Sierra Contraviesa;	Observatorio Sierra Contraviesa [code Z85]
+Z86;St. Mellons;	St. Mellons [code Z86]
+Z87;Stanley Laver Observatory, Pontesbury;	Stanley Laver Observatory, Pontesbury [code Z87]
+Z88;Fosseway Observatoy, Stratton-on-the-Fosse;	Fosseway Observatoy, Stratton-on-the-Fosse [code Z88]
+Z89;Macclesfield;	Macclesfield [code Z89]
+Z90;Albox;	Albox [code Z90]
+Z91;Curdridge;	Curdridge [code Z91]
+Z92;West Park Observatory, Leeds;	West Park Observatory, Leeds [code Z92]
+Z93;Observatorio Polop, Alicante;	Observatorio Polop, Alicante [code Z93]
+Z94;Kempshott;	Kempshott [code Z94]
+Z95;Astronomia Para Todos Remote Observatory;	Astronomia Para Todos Remote Observatory [code Z95]
+Z96;Observatorio Cesaraugusto;	Observatorio Cesaraugusto [code Z96]
+Z97;OPERA Observatory, Saint Palais;	OPERA Observatory, Saint Palais [code Z97]
+Z98;Observatorio TRZ, Betera;	Observatorio TRZ, Betera [code Z98]
+Z99;Clixby Observatory, Cleethorpes;	Clixby Observatory, Cleethorpes [code Z99]
+;Angaur Island;	Angaur Island
+;Antigua;	Antigua
+;Ascension Island;	Ascension Island
+;Babelthuap Island;	Babelthuap Island
+;Bali;	Bali
+;Barbados;	Barbados
+;Belize City;	Belize City
+;Bermuda;	Bermuda
+;Brunei;	Brunei
+;Christmas Island;	Christmas Island
+;Cocos Island;	Cocos Island
+;Diego Garcia;	Diego Garcia
+;Djibouti;	Djibouti
+;Gibraltar;	Gibraltar
+;Grand Cayman Island;	Grand Cayman Island
+;Grand Turk Island;	Grand Turk Island
+;Guatemala City;	Guatemala City
+;Guernsey;	Guernsey
+;Hong Kong;	Hong Kong
+;Isle of Man;	Isle of Man
+;Johnston Atoll;	Johnston Atoll
+;Kure Island;	Kure Island
+;Kuwait City;	Kuwait City
+;Kwajalein Atoll;	Kwajalein Atoll
+;L. Taghkanic St. Pk.;	L. Taghkanic St. Pk.
+;Luxembourg City;	Luxembourg City
+;Macao;	Macao
+;Malta;	Malta
+;Midway Island;	Midway Island
+;Miquelon Is.;	Miquelon Is.
+;Monaco;	Monaco
+;Pagan Island;	Pagan Island
+;Pitcairn Island;	Pitcairn Island
+;Rota Island;	Rota Island
+;Saipan Island;	Saipan Island
+;Seychelles Is.;	Seychelles Is.
+;Singapore;	Singapore
+;St. Lucia;	St. Lucia
+;Tahiti;	Tahiti
+;Taora Island;	Taora Island
+;Tinian Island;	Tinian Island
+;Wake Island;	Wake Island
+;Kabul;	Kabul
+;Algiers;	Algiers
+;Oran;	Oran
+;Mount Erebus;	Mount Erebus
+;Buenos Aires;	Buenos Aires
+;Alice Springs;	Alice Springs
+;Adelaide;	Adelaide
+;Avalon;	Avalon
+;Brisbane;	Brisbane
+;Canberra;	Canberra
+;Darwin;	Darwin
+;Ipswich;	Ipswich
+;Kings Beach;	Kings Beach
+;Latham;	Latham
+;Learmonth;	Learmonth
+;Melbourne;	Melbourne
+;New Castle;	New Castle
+;Pearce;	Pearce
+;Perth;	Perth
+;Richmond;	Richmond
+;Sale;	Sale
+;Sydney;	Sydney
+;Townsville;	Townsville
+;Innsbruck;	Innsbruck
+;Linz;	Linz
+;Salzburg;	Salzburg
+;Vandans;	Vandans
+;Vienna;	Vienna
+;Vols;	Vols
+;Lajes;	Lajes
+;Freeport;	Freeport
+;Nassau;	Nassau
+;Al Manamah;	Al Manamah
+;Chittagong;	Chittagong
+;Dacca;	Dacca
+;Antwerp;	Antwerp
+;Brussels;	Brussels
+;Oostende;	Oostende
+;La Paz;	La Paz
+;Santa Cruz;	Santa Cruz
+;Sarajevo;	Sarajevo
+;Belem;	Belem
+;Brasilia;	Brasilia
+;Manaus;	Manaus
+;Natal;	Natal
+;Recife;	Recife
+;Rio de Janeiro;	Rio de Janeiro
+;Sao Paulo;	Sao Paulo
+;Sofia;	Sofia
+;Amilcar Cabral;	Amilcar Cabral
+;Douala;	Douala
+;Banff;AB	Banff, AB
+;Calgary;AB	Calgary, AB
+;Cold Lake;AB	Cold Lake, AB
+;Edmonton;AB	Edmonton, AB
+;Fort McMurray;AB	Fort McMurray, AB
+;Jasper;AB	Jasper, AB
+;Lethbridge;AB	Lethbridge, AB
+;Medicine Hat;AB	Medicine Hat, AB
+;Peace River;AB	Peace River, AB
+;Abbotsford;BC	Abbotsford, BC
+;Comox;BC	Comox, BC
+;Cranbrook;BC	Cranbrook, BC
+;Fort Nelson;BC	Fort Nelson, BC
+;Kamloops;BC	Kamloops, BC
+;Prince George;BC	Prince George, BC
+;Prince Rupert;BC	Prince Rupert, BC
+;Vancouver;BC	Vancouver, BC
+;Victoria;BC	Victoria, BC
+;Brandon;MB	Brandon, MB
+;Churchill;MB	Churchill, MB
+;The Pas;MB	The Pas, MB
+;Winnipeg;MB	Winnipeg, MB
+;Chatham;NB	Chatham, NB
+;Edmundston;NB	Edmundston, NB
+;Fredericton;NB	Fredericton, NB
+;Moncton;NB	Moncton, NB
+;St. John;NB	St. John, NB
+;Gander;NL	Gander, NL
+;Goose Bay;NL	Goose Bay, NL
+;St. John&#39;s;NL	St. John&#39;s, NL
+;Halifax;NS	Halifax, NS
+;Sydney;NS	Sydney, NS
+;Alert;NT	Alert, NT
+;Fort McPherson;NT	Fort McPherson, NT
+;Fort Simpson;NT	Fort Simpson, NT
+;Inuvik;NT	Inuvik, NT
+;Iqaluit;NT	Iqaluit, NT
+;Yellowknife;NT	Yellowknife, NT
+;Dryden;ON	Dryden, ON
+;Guelph;ON	Guelph, ON
+;Hamilton;ON	Hamilton, ON
+;Kapuskasing;ON	Kapuskasing, ON
+;Kenora;ON	Kenora, ON
+;Kingston;ON	Kingston, ON
+;Kitchener;ON	Kitchener, ON
+;London;ON	London, ON
+;Mississauga;ON	Mississauga, ON
+;North Bay;ON	North Bay, ON
+;Ottawa;ON	Ottawa, ON
+;Scarborough;ON	Scarborough, ON
+;Sioux Lookout;ON	Sioux Lookout, ON
+;Sioux Narrows;ON	Sioux Narrows, ON
+;St. Catherines;ON	St. Catherines, ON
+;Sudbury;ON	Sudbury, ON
+;Thunder Bay;ON	Thunder Bay, ON
+;Timmins;ON	Timmins, ON
+;Toronto;ON	Toronto, ON
+;Waterloo;ON	Waterloo, ON
+;Windsor;ON	Windsor, ON
+;Baie-Comeau;QC	Baie-Comeau, QC
+;Charlevoix;QC	Charlevoix, QC
+;Chibougamau;QC	Chibougamau, QC
+;Gaspe;QC	Gaspe, QC
+;Laval;QC	Laval, QC
+;Mont-Joli;QC	Mont-Joli, QC
+;Montreal;QC	Montreal, QC
+;Quebec;QC	Quebec, QC
+;Sept-Iles;QC	Sept-Iles, QC
+;Sherbrooke;QC	Sherbrooke, QC
+;St-Hubert;QC	St-Hubert, QC
+;Trois-Rivieres;QC	Trois-Rivieres, QC
+;Val-d&#39;or;QC	Val-d&#39;or, QC
+;Prince Albert;SK	Prince Albert, SK
+;Regina;SK	Regina, SK
+;Burwash;YT	Burwash, YT
+;Whitehorse;YT	Whitehorse, YT
+;Las Palmas;	Las Palmas
+;N&#39;djamina;	N&#39;djamina
+;Antofagasta;	Antofagasta
+;Arica;	Arica
+;Concepcion;	Concepcion
+;Puerto Montt;	Puerto Montt
+;Santiago;	Santiago
+;Valparaiso;	Valparaiso
+;Beijing;	Beijing
+;Canton;	Canton
+;Shanghai;	Shanghai
+;Barranquilla;	Barranquilla
+;Bogota;	Bogota
+;San Jose;	San Jose
+;Dubrovnik;	Dubrovnik
+;Guantanamo Bay;	Guantanamo Bay
+;Havana;	Havana
+;Nicosia;	Nicosia
+;Prague;	Prague
+;Aalborg;	Aalborg
+;Copenhagen;	Copenhagen
+;Soeborg;	Soeborg
+;Santo Domingo;	Santo Domingo
+;Guayaquil;	Guayaquil
+;Quito;	Quito
+;Alexandria;	Alexandria
+;Aswan;	Aswan
+;Cairo;	Cairo
+;San Salvador;	San Salvador
+;Sandhurst, Surry;	Sandhurst, Surry
+;Aldermaston;	Aldermaston
+;Birmingham;	Birmingham
+;Blackpool;	Blackpool
+;Bristol;	Bristol
+;Brize Norton;	Brize Norton
+;Cambridge;	Cambridge
+;Derby;	Derby
+;Dover;	Dover
+;Farnborough;	Farnborough
+;Finningley;	Finningley
+;Greenwich Obs;	Greenwich Obs
+;Holmer Green;	Holmer Green
+;Honington;	Honington
+;Leeds;	Leeds
+;Liverpool;	Liverpool
+;London;	London
+;Manchester;	Manchester
+;Melksham;	Melksham
+;Newcastle;	Newcastle
+;Nottingham;	Nottingham
+;Portsmouth;	Portsmouth
+;Rochdale, Lanc;	Rochdale, Lanc
+;Sheffield;	Sheffield
+;Southampton;	Southampton
+;Teignmouth;	Teignmouth
+;Addis Ababa;	Addis Ababa
+;Asmara;	Asmara
+;Stanley;	Stanley
+;Nandi;	Nandi
+;Dalsbruk;	Dalsbruk
+;Helsinki;	Helsinki
+;Cayenne;	Cayenne
+;Hao AB;	Hao AB
+;Bordeaux;	Bordeaux
+;Brest;	Brest
+;Calais/Dunkirk;	Calais/Dunkirk
+;Cannes;	Cannes
+;Cherbourg;	Cherbourg
+;Dijon;	Dijon
+;Gaillac;	Gaillac
+;Grenoble;	Grenoble
+;La Rochelle;	La Rochelle
+;Le Havre;	Le Havre
+;Lyon;	Lyon
+;Marseille;	Marseille
+;Montpellier;	Montpellier
+;Nice;	Nice
+;Nouan;	Nouan
+;Orleans;	Orleans
+;Paris;	Paris
+;Reims;	Reims
+;Rennes;	Rennes
+;Rouen;	Rouen
+;St. Nazaire;	St. Nazaire
+;Strasbourg;	Strasbourg
+;Toulouse;	Toulouse
+;Tours;	Tours
+;Libreville;	Libreville
+;Banjul;	Banjul
+;Lechfeld AFB, BY;	Lechfeld AFB, BY
+;Oberpfaffenhofen;	Oberpfaffenhofen
+;Altenstadt;	Altenstadt
+;Ansbach;	Ansbach
+;Baden-Baden;	Baden-Baden
+;Bamberg;	Bamberg
+;Berlin;	Berlin
+;Bitburg;	Bitburg
+;Bonn;	Bonn
+;Bremen;	Bremen
+;Buckeburg;	Buckeburg
+;Cologne;	Cologne
+;Dortmund;	Dortmund
+;Dusseldorf;	Dusseldorf
+;Erding;	Erding
+;Erfurt;	Erfurt
+;Frankfurt;	Frankfurt
+;Freiburg;	Freiburg
+;Furth (Mfr);	Furth (Mfr)
+;Gars am Inn;	Gars am Inn
+;Geilenkirchen;	Geilenkirchen
+;Gera;	Gera
+;Gutersloh;	Gutersloh
+;Hamburg;	Hamburg
+;Hannover;	Hannover
+;Helgoland;	Helgoland
+;Kassel;	Kassel
+;Kiel;	Kiel
+;Koln/Bonn AB;	Koln/Bonn AB
+;Lahr;	Lahr
+;Leck;	Leck
+;Leipzig;	Leipzig
+;Ludwigshafen;	Ludwigshafen
+;Mannheim;	Mannheim
+;Munich;	Munich
+;Nurnberg, BY;	Nurnberg, BY
+;Oldendorf;	Oldendorf
+;Peine;	Peine
+;Ramstein AB;	Ramstein AB
+;Regensburg;	Regensburg
+;Rostock;	Rostock
+;Selter;	Selter
+;Stuttgart;	Stuttgart
+;Uelzen;	Uelzen
+;Wurzburg;	Wurzburg
+;Zwickau;	Zwickau
+;Accra;	Accra
+;Athens;	Athens
+;Khania;	Khania
+;Godthab;	Godthab
+;Sondrestrom;	Sondrestrom
+;Thule;	Thule
+;Honiara;	Honiara
+;Agana NAS;	Agana NAS
+;Anderson AFB;	Anderson AFB
+;Georgetown;	Georgetown
+;Port-au-Prince;	Port-au-Prince
+;Tegucigalpa;	Tegucigalpa
+;Tai Tam;	Tai Tam
+;Budapest;	Budapest
+;Keflavik;	Keflavik
+;Reykjavik;	Reykjavik
+;Bangalore;	Bangalore
+;Bombay;	Bombay
+;Calcutta;	Calcutta
+;Himalayan Chandra Telescope (HCT);	Himalayan Chandra Telescope (HCT)
+;Madras;	Madras
+;Mount Abu Infrared Telescope;	Mount Abu Infrared Telescope
+;Nagpur;	Nagpur
+;New Delhi;	New Delhi
+;Ujung Pandang;	Ujung Pandang
+;Djakarta;	Djakarta
+;Jakarta;	Jakarta
+;Jatiluhur;	Jatiluhur
+;Palembang;	Palembang
+;Bandar Abbass;	Bandar Abbass
+;Bandar Lengeh;	Bandar Lengeh
+;Basrah;	Basrah
+;Esfahan;	Esfahan
+;Shiraz;	Shiraz
+;Tabriz;	Tabriz
+;Tehran;	Tehran
+;Baghdad;	Baghdad
+;Samarrah;	Samarrah
+;Dublin;	Dublin
+;Shannon;	Shannon
+;Jerusalem;	Jerusalem
+;Raanana;	Raanana
+;Tel Aviv;	Tel Aviv
+;Arese;	Arese
+;Aviano;	Aviano
+;Bologna;	Bologna
+;Decimomannu;	Decimomannu
+;Genoa;	Genoa
+;Istrana;	Istrana
+;Milan;	Milan
+;Naples;	Naples
+;Rome;	Rome
+;Venice;	Venice
+;Kingston;	Kingston
+;Montego Bay;	Montego Bay
+;Amami Island;	Amami Island
+;Ayase;	Ayase
+;Chitose;	Chitose
+;Fukuoka;	Fukuoka
+;Kyoto;	Kyoto
+;Nagasaki;	Nagasaki
+;Nagoya;	Nagoya
+;Okinawa;	Okinawa
+;Osaka;	Osaka
+;Sapporo;	Sapporo
+;Tokyo;	Tokyo
+;Amman;	Amman
+;Aqaba;	Aqaba
+;Nairobi;	Nairobi
+;Beirut;	Beirut
+;Monrovia;	Monrovia
+;Tripoli;	Tripoli
+;Funchal;	Funchal
+;Butterworth;	Butterworth
+;Kota Kinabalu;	Kota Kinabalu
+;Kuala Lumpur;	Kuala Lumpur
+;Kuching;	Kuching
+;Penang;	Penang
+;Sibu;	Sibu
+;Male;	Male
+;Valletta;	Valletta
+;Ine;	Ine
+;Jaluit;	Jaluit
+;Kili;	Kili
+;Majuro;	Majuro
+;Maloelap;	Maloelap
+;Mili;	Mili
+;Namorik;	Namorik
+;Tinak;	Tinak
+;Utirik;	Utirik
+;Wotje;	Wotje
+;Plaisance;	Plaisance
+;Acapulco;	Acapulco
+;Mexico City;	Mexico City
+;Chuuk;	Chuuk
+;Kosrae;	Kosrae
+;Pohnpei;	Pohnpei
+;Truk Atoll;	Truk Atoll
+;Yap Island;	Yap Island
+;Ben Guerir;	Ben Guerir
+;Casablanca;	Casablanca
+;Rabat;	Rabat
+;Tangier;	Tangier
+;Mandalay;	Mandalay
+;Rangoon;	Rangoon
+;Sittwe;	Sittwe
+;Belfast;	Belfast
+;Kathmandu;	Kathmandu
+;Amsterdam;	Amsterdam
+;Rotterdam;	Rotterdam
+;Wolphaartsdijk;	Wolphaartsdijk
+;Noumea;	Noumea
+;Auckland;	Auckland
+;Christchurch;	Christchurch
+;Dunedin;	Dunedin
+;Invercargill;	Invercargill
+;Ohakea;	Ohakea
+;Wellington;	Wellington
+;Whenuapai;	Whenuapai
+;Managua;	Managua
+;Kano;	Kano
+;Lagos;	Lagos
+;Bergen;	Bergen
+;Bodo;	Bodo
+;Oslo;	Oslo
+;Islamabad;	Islamabad
+;Karachi;	Karachi
+;Lahore;	Lahore
+;Peshawar;	Peshawar
+;Rawalpindi;	Rawalpindi
+;Balboa;	Balboa
+;Colon;	Colon
+;Panama City;	Panama City
+;Port Moresby;	Port Moresby
+;Asuncion;	Asuncion
+;Charlottetown;	Charlottetown
+;Chiclayo;	Chiclayo
+;Lima;	Lima
+;Talara;	Talara
+;Bacolod;	Bacolod
+;Cubi Point;	Cubi Point
+;Manila;	Manila
+;Gdansk;	Gdansk
+;Warsaw;	Warsaw
+;Beja;	Beja
+;Lisbon;	Lisbon
+;Borinquen;	Borinquen
+;Mayaguez;	Mayaguez
+;Ponce;	Ponce
+;Puerto Real;	Puerto Real
+;Roosevelt Roads;	Roosevelt Roads
+;San Juan;	San Juan
+;Doha;	Doha
+;Bucharest;	Bucharest
+;Leningrad;	Leningrad
+;Moscow;	Moscow
+;St. Petersburg;	St. Petersburg
+;Vladivostok;	Vladivostok
+;Cape Town;	Cape Town
+;Johannesburg;	Johannesburg
+;Pretoria;	Pretoria
+;Cheju;	Cheju
+;Desiderio AAF;	Desiderio AAF
+;Seoul;	Seoul
+;Pago Pago;	Pago Pago
+;Moose Jaw;	Moose Jaw
+;Saskatoon;	Saskatoon
+;Swift Current;	Swift Current
+;Dhahran;	Dhahran
+;Riyadh;	Riyadh
+;Jeddah;	Jeddah
+;Aberdeen;	Aberdeen
+;Edinburgh;	Edinburgh
+;Glasgow;	Glasgow
+;Dakar;	Dakar
+;Belgrade;	Belgrade
+;Sigonella;	Sigonella
+;Trapani;	Trapani
+;Tengah;	Tengah
+;Bratislava;	Bratislava
+;Aviles;	Aviles
+;Barcelona;	Barcelona
+;Madrid;	Madrid
+;Moron AB;	Moron AB
+;Oviedo;	Oviedo
+;Seville;	Seville
+;Zaragoza;	Zaragoza
+;Colombo;	Colombo
+;Khartoum;	Khartoum
+;Hyltebruk;	Hyltebruk
+;Stockholm;	Stockholm
+;Geneva;	Geneva
+;Bern;	Bern
+;Zurich;	Zurich
+;Damascus;	Damascus
+;Papeete;	Papeete
+;Taipei;	Taipei
+;Dar es Salaam;	Dar es Salaam
+;Bangkok;	Bangkok
+;Chiang Mai;	Chiang Mai
+;Hat Yai;	Hat Yai
+;Korat;	Korat
+;Phuket;	Phuket
+;Ubon;	Ubon
+;Udon-Thani;	Udon-Thani
+;Lhasa;	Lhasa
+;Port of Spain;	Port of Spain
+;Tunis;	Tunis
+;Ankara;	Ankara
+;Bandirma;	Bandirma
+;Diyarbakir;	Diyarbakir
+;Incirlik;	Incirlik
+;Istanbul;	Istanbul
+;Dubai;	Dubai
+;Entebbe;	Entebbe
+;Yalta;	Yalta
+;Montevideo;	Montevideo
+;Adak;AK	Adak, AK
+;Allen AAF;AK	Allen AAF, AK
+;Ambler;AK	Ambler, AK
+;Amchitka;AK	Amchitka, AK
+;Anchorage;AK	Anchorage, AK
+;Annette Is.;AK	Annette Is., AK
+;Barrow;AK	Barrow, AK
+;Bethel;AK	Bethel, AK
+;Bettles Field;AK	Bettles Field, AK
+;Big Delta;AK	Big Delta, AK
+;Big Lake;AK	Big Lake, AK
+;Chignik;AK	Chignik, AK
+;Circle;AK	Circle, AK
+;Clear;AK	Clear, AK
+;Cold Bay;AK	Cold Bay, AK
+;Cordova;AK	Cordova, AK
+;Deadhorse;AK	Deadhorse, AK
+;Delta Jct.;AK	Delta Jct., AK
+;Denali Nat&#39;l Park;AK	Denali Nat&#39;l Park, AK
+;Dutch Harbor;AK	Dutch Harbor, AK
+;Eagle;AK	Eagle, AK
+;Eagle River;AK	Eagle River, AK
+;Eielson AFB;AK	Eielson AFB, AK
+;Fairbanks;AK	Fairbanks, AK
+;Fort Greely;AK	Fort Greely, AK
+;Fort Richardson;AK	Fort Richardson, AK
+;Fort Yukon;AK	Fort Yukon, AK
+;Galena;AK	Galena, AK
+;Gulkana;AK	Gulkana, AK
+;Haines;AK	Haines, AK
+;Homer;AK	Homer, AK
+;Hooper Bay;AK	Hooper Bay, AK
+;Juneau;AK	Juneau, AK
+;Kenai;AK	Kenai, AK
+;Ketchikan;AK	Ketchikan, AK
+;King Salmon;AK	King Salmon, AK
+;Kodiak;AK	Kodiak, AK
+;Kotzebue;AK	Kotzebue, AK
+;McGrath;AK	McGrath, AK
+;Nenana;AK	Nenana, AK
+;Nome;AK	Nome, AK
+;Northway;AK	Northway, AK
+;Palmer;AK	Palmer, AK
+;Petersburg;AK	Petersburg, AK
+;Point Hope;AK	Point Hope, AK
+;Prudhoe Bay;AK	Prudhoe Bay, AK
+;Ruby;AK	Ruby, AK
+;Seward;AK	Seward, AK
+;Shemya;AK	Shemya, AK
+;Shungnak;AK	Shungnak, AK
+;Sitka;AK	Sitka, AK
+;Spenard;AK	Spenard, AK
+;Unalaska;AK	Unalaska, AK
+;Valdez;AK	Valdez, AK
+;Yakutat;AK	Yakutat, AK
+;Alexander City;AL	Alexander City, AL
+;Anniston;AL	Anniston, AL
+;Atmore;AL	Atmore, AL
+;Auburn;AL	Auburn, AL
+;Birmingham;AL	Birmingham, AL
+;Dothan;AL	Dothan, AL
+;Florala;AL	Florala, AL
+;Florence;AL	Florence, AL
+;Fort Payne;AL	Fort Payne, AL
+;Gadsden;AL	Gadsden, AL
+;Huntsville;AL	Huntsville, AL
+;Livingston;AL	Livingston, AL
+;Madison;AL	Madison, AL
+;Meridianville;AL	Meridianville, AL
+;Mobile;AL	Mobile, AL
+;Montgomery;AL	Montgomery, AL
+;Mountain Brook;AL	Mountain Brook, AL
+;Opelika;AL	Opelika, AL
+;Phenix City;AL	Phenix City, AL
+;Selma;AL	Selma, AL
+;Thomasville;AL	Thomasville, AL
+;Tuscaloosa;AL	Tuscaloosa, AL
+;Arkadelphia;AR	Arkadelphia, AR
+;Augusta;AR	Augusta, AR
+;Benton;AR	Benton, AR
+;Conway;AR	Conway, AR
+;El Dorado;AR	El Dorado, AR
+;Eudora;AR	Eudora, AR
+;Fayetteville;AR	Fayetteville, AR
+;Forrest City;AR	Forrest City, AR
+;Fort Smith;AR	Fort Smith, AR
+;Harrison;AR	Harrison, AR
+;Hot Springs Nat Pk;AR	Hot Springs Nat Pk, AR
+;Jacksonville;AR	Jacksonville, AR
+;Jonesboro;AR	Jonesboro, AR
+;Lake Village;AR	Lake Village, AR
+;Little Rock;AR	Little Rock, AR
+;Magnolia;AR	Magnolia, AR
+;Mena;AR	Mena, AR
+;N. Little Rock;AR	N. Little Rock, AR
+;Ozark;AR	Ozark, AR
+;Pine Bluff;AR	Pine Bluff, AR
+;Rogers;AR	Rogers, AR
+;Springdale;AR	Springdale, AR
+;Texarkana;AR	Texarkana, AR
+;West Memphis;AR	West Memphis, AR
+;Ajo;AZ	Ajo, AZ
+;Ash Fork;AZ	Ash Fork, AZ
+;Casa Grande;AZ	Casa Grande, AZ
+;Cave Creek;AZ	Cave Creek, AZ
+;El Mirage;AZ	El Mirage, AZ
+;Flagstaff;AZ	Flagstaff, AZ
+;Gila Bend;AZ	Gila Bend, AZ
+;Glendale;AZ	Glendale, AZ
+;Holbrook;AZ	Holbrook, AZ
+;Kingman;AZ	Kingman, AZ
+;McNary;AZ	McNary, AZ
+;Mesa;AZ	Mesa, AZ
+;Moenkopi;AZ	Moenkopi, AZ
+;Mount Hopkins;AZ	Mount Hopkins, AZ
+;Nogales;AZ	Nogales, AZ
+;Phoenix;AZ	Phoenix, AZ
+;Prescott;AZ	Prescott, AZ
+;Sanders;AZ	Sanders, AZ
+;Scottsdale;AZ	Scottsdale, AZ
+;Tempe;AZ	Tempe, AZ
+;Tombstone;AZ	Tombstone, AZ
+;Tucson;AZ	Tucson, AZ
+;Wickenburg;AZ	Wickenburg, AZ
+;Willcox;AZ	Willcox, AZ
+;Yuma;AZ	Yuma, AZ
+;Ahwahnee;CA	Ahwahnee, CA
+;Alameda;CA	Alameda, CA
+;Alhambra;CA	Alhambra, CA
+;Alpine;CA	Alpine, CA
+;Anaheim;CA	Anaheim, CA
+;Arcade-Arden;CA	Arcade-Arden, CA
+;Bakersfield;CA	Bakersfield, CA
+;Baldwin Park;CA	Baldwin Park, CA
+;Barstow;CA	Barstow, CA
+;Bellflower;CA	Bellflower, CA
+;Berkeley;CA	Berkeley, CA
+;Boulder Creek;CA	Boulder Creek, CA
+;Buena Park;CA	Buena Park, CA
+;Burbank;CA	Burbank, CA
+;Canoga Park;CA	Canoga Park, CA
+;Carmichael;CA	Carmichael, CA
+;Carson;CA	Carson, CA
+;Cerritos;CA	Cerritos, CA
+;Chino;CA	Chino, CA
+;Chino Hills;CA	Chino Hills, CA
+;Chula Vista;CA	Chula Vista, CA
+;Clearlake;CA	Clearlake, CA
+;Compton;CA	Compton, CA
+;Concord;CA	Concord, CA
+;Costa Mesa;CA	Costa Mesa, CA
+;Culver City;CA	Culver City, CA
+;Daly City;CA	Daly City, CA
+;Death Valley Nat&#39;l Mon;CA	Death Valley Nat&#39;l Mon, CA
+;Diamond Bar;CA	Diamond Bar, CA
+;Diamond Springs;CA	Diamond Springs, CA
+;Downey;CA	Downey, CA
+;E. Los Angeles;CA	E. Los Angeles, CA
+;Edwards AFB;CA	Edwards AFB, CA
+;El Cajon;CA	El Cajon, CA
+;El Monte;CA	El Monte, CA
+;Escondido;CA	Escondido, CA
+;Eureka;CA	Eureka, CA
+;Fairfield;CA	Fairfield, CA
+;Fountain Valley;CA	Fountain Valley, CA
+;Fremont;CA	Fremont, CA
+;Fresno;CA	Fresno, CA
+;Fullerton;CA	Fullerton, CA
+;Garden Grove;CA	Garden Grove, CA
+;Glendale;CA	Glendale, CA
+;Glendora;CA	Glendora, CA
+;Goldstone;CA	Goldstone, CA
+;Granada Hills;CA	Granada Hills, CA
+;Grass Valley;CA	Grass Valley, CA
+;Hawthorne;CA	Hawthorne, CA
+;Hayward;CA	Hayward, CA
+;Hollywood;CA	Hollywood, CA
+;Huntington Beach;CA	Huntington Beach, CA
+;Inglewood;CA	Inglewood, CA
+;Irvine;CA	Irvine, CA
+;Julian;CA	Julian, CA
+;La Mesa;CA	La Mesa, CA
+;La Verne;CA	La Verne, CA
+;Lakewood;CA	Lakewood, CA
+;Lockwood Valley;CA	Lockwood Valley, CA
+;Lompoc;CA	Lompoc, CA
+;Long Beach;CA	Long Beach, CA
+;Los Altos Hills;CA	Los Altos Hills, CA
+;Los Angeles;CA	Los Angeles, CA
+;Manhattan Beach;CA	Manhattan Beach, CA
+;Manton;CA	Manton, CA
+;Milpitas;CA	Milpitas, CA
+;Miramar NAS;CA	Miramar NAS, CA
+;Modesto;CA	Modesto, CA
+;Montebello;CA	Montebello, CA
+;Monterey;CA	Monterey, CA
+;Monterey Park;CA	Monterey Park, CA
+;Mountain View;CA	Mountain View, CA
+;N. Hollywood;CA	N. Hollywood, CA
+;Napa;CA	Napa, CA
+;Needles;CA	Needles, CA
+;New Washoe City;CA	New Washoe City, CA
+;Newport Beach;CA	Newport Beach, CA
+;Norco;CA	Norco, CA
+;Norwalk;CA	Norwalk, CA
+;Oakland;CA	Oakland, CA
+;Oceanside;CA	Oceanside, CA
+;Ontario;CA	Ontario, CA
+;Orange;CA	Orange, CA
+;Oxnard;CA	Oxnard, CA
+;Pacific Beach;CA	Pacific Beach, CA
+;Palmdale;CA	Palmdale, CA
+;Palo Alto;CA	Palo Alto, CA
+;Pasadena;CA	Pasadena, CA
+;Pico Rivera;CA	Pico Rivera, CA
+;Pilot Hill;CA	Pilot Hill, CA
+;Placerville;CA	Placerville, CA
+;Pomona;CA	Pomona, CA
+;Rancho Palos Verdes;CA	Rancho Palos Verdes, CA
+;Redding;CA	Redding, CA
+;Redondo Beach;CA	Redondo Beach, CA
+;Redwood City;CA	Redwood City, CA
+;Reseda;CA	Reseda, CA
+;Richmond;CA	Richmond, CA
+;Riverside;CA	Riverside, CA
+;Rosemead;CA	Rosemead, CA
+;Roseville;CA	Roseville, CA
+;Rowland Heights;CA	Rowland Heights, CA
+;Sacramento;CA	Sacramento, CA
+;Salinas;CA	Salinas, CA
+;Salton City;CA	Salton City, CA
+;San Bernardino;CA	San Bernardino, CA
+;San Diego;CA	San Diego, CA
+;San Francisco;CA	San Francisco, CA
+;San Jose;CA	San Jose, CA
+;San Leandro;CA	San Leandro, CA
+;San Mateo;CA	San Mateo, CA
+;San Pedro;CA	San Pedro, CA
+;Santa Ana;CA	Santa Ana, CA
+;Santa Barbara;CA	Santa Barbara, CA
+;Santa Clara;CA	Santa Clara, CA
+;Santa Maria;CA	Santa Maria, CA
+;Santa Monica;CA	Santa Monica, CA
+;Santa Rosa;CA	Santa Rosa, CA
+;Seal Beach;CA	Seal Beach, CA
+;Shell Beach;CA	Shell Beach, CA
+;Simi Valley;CA	Simi Valley, CA
+;Sonoma;CA	Sonoma, CA
+;South Gate;CA	South Gate, CA
+;Stockton;CA	Stockton, CA
+;Sun Valley;CA	Sun Valley, CA
+;Sunnyvale;CA	Sunnyvale, CA
+;Thousand Oaks;CA	Thousand Oaks, CA
+;Torrance;CA	Torrance, CA
+;Vacaville;CA	Vacaville, CA
+;Vallejo;CA	Vallejo, CA
+;Van Nuys;CA	Van Nuys, CA
+;Vandenberg AFB;CA	Vandenberg AFB, CA
+;Venice;CA	Venice, CA
+;Ventura;CA	Ventura, CA
+;Visalia;CA	Visalia, CA
+;Walnut Creek;CA	Walnut Creek, CA
+;West Covina;CA	West Covina, CA
+;West Hills;CA	West Hills, CA
+;Westminster;CA	Westminster, CA
+;Whittier;CA	Whittier, CA
+;Woodland Hills;CA	Woodland Hills, CA
+;Yuba City;CA	Yuba City, CA
+;Arvada;CO	Arvada, CO
+;Aspen;CO	Aspen, CO
+;Aurora;CO	Aurora, CO
+;Boulder;CO	Boulder, CO
+;Burlington;CO	Burlington, CO
+;Colorado Springs;CO	Colorado Springs, CO
+;Cortez;CO	Cortez, CO
+;Cripple Creek;CO	Cripple Creek, CO
+;Denver;CO	Denver, CO
+;Durango;CO	Durango, CO
+;Englewood;CO	Englewood, CO
+;Evergreen;CO	Evergreen, CO
+;Falcon;CO	Falcon, CO
+;Fort Collins;CO	Fort Collins, CO
+;Glenwood Springs;CO	Glenwood Springs, CO
+;Grand Junction;CO	Grand Junction, CO
+;Greeley;CO	Greeley, CO
+;Kit Carson;CO	Kit Carson, CO
+;Lakewood;CO	Lakewood, CO
+;Lamar;CO	Lamar, CO
+;Loveland;CO	Loveland, CO
+;Pueblo;CO	Pueblo, CO
+;Rifle;CO	Rifle, CO
+;Steamboat Springs;CO	Steamboat Springs, CO
+;Thornton;CO	Thornton, CO
+;Trinidad;CO	Trinidad, CO
+;Westminster;CO	Westminster, CO
+;Yuma;CO	Yuma, CO
+;Avon;CT	Avon, CT
+;Bridgeport;CT	Bridgeport, CT
+;Bristol;CT	Bristol, CT
+;Burlington;CT	Burlington, CT
+;Chester;CT	Chester, CT
+;Danbury;CT	Danbury, CT
+;Danielson;CT	Danielson, CT
+;Derby;CT	Derby, CT
+;Enfield;CT	Enfield, CT
+;Fairfield;CT	Fairfield, CT
+;Greenwich;CT	Greenwich, CT
+;Hamden;CT	Hamden, CT
+;Hartford;CT	Hartford, CT
+;Manchester;CT	Manchester, CT
+;Meriden;CT	Meriden, CT
+;Milford;CT	Milford, CT
+;New Britian;CT	New Britian, CT
+;New Hartford;CT	New Hartford, CT
+;New Haven;CT	New Haven, CT
+;New London;CT	New London, CT
+;Norwalk;CT	Norwalk, CT
+;Orange;CT	Orange, CT
+;Putnam;CT	Putnam, CT
+;Southington;CT	Southington, CT
+;Stamford;CT	Stamford, CT
+;Stratford;CT	Stratford, CT
+;Torrington;CT	Torrington, CT
+;W. Hartford;CT	W. Hartford, CT
+;Waterbury;CT	Waterbury, CT
+;West Haven;CT	West Haven, CT
+;Windam;CT	Windam, CT
+;Winsted;CT	Winsted, CT
+;Washington;DC	Washington, DC
+;Washington (USNO);DC	Washington (USNO), DC
+;Brookside Park;DE	Brookside Park, DE
+;Claymont;DE	Claymont, DE
+;Dover;DE	Dover, DE
+;Dover AFB;DE	Dover AFB, DE
+;Elsmere;DE	Elsmere, DE
+;Georgetown;DE	Georgetown, DE
+;Harrington;DE	Harrington, DE
+;Laurel;DE	Laurel, DE
+;Lewes;DE	Lewes, DE
+;Middletown;DE	Middletown, DE
+;Milford;DE	Milford, DE
+;New Castle;DE	New Castle, DE
+;Newark;DE	Newark, DE
+;Seaford;DE	Seaford, DE
+;Smyrna;DE	Smyrna, DE
+;Wilmington;DE	Wilmington, DE
+;Boca Raton;FL	Boca Raton, FL
+;Cape Canaveral;FL	Cape Canaveral, FL
+;Clearwater;FL	Clearwater, FL
+;Daytona Beach;FL	Daytona Beach, FL
+;Dover;FL	Dover, FL
+;Elgin AFB;FL	Elgin AFB, FL
+;Fort Lauderdale;FL	Fort Lauderdale, FL
+;Fort Myers;FL	Fort Myers, FL
+;Fruitland Park;FL	Fruitland Park, FL
+;Ft. Myers;FL	Ft. Myers, FL
+;Gainesville;FL	Gainesville, FL
+;Hialeah;FL	Hialeah, FL
+;Hollywood;FL	Hollywood, FL
+;Jacksonville;FL	Jacksonville, FL
+;Jensen Beach;FL	Jensen Beach, FL
+;Kissimmee;FL	Kissimmee, FL
+;Lake City;FL	Lake City, FL
+;Lakeland;FL	Lakeland, FL
+;Largo;FL	Largo, FL
+;Lynn Haven;FL	Lynn Haven, FL
+;Melbourne;FL	Melbourne, FL
+;Merritt Island;FL	Merritt Island, FL
+;Miami;FL	Miami, FL
+;Miami Beach;FL	Miami Beach, FL
+;Miramar;FL	Miramar, FL
+;Naples;FL	Naples, FL
+;Ocala;FL	Ocala, FL
+;Orange Park;FL	Orange Park, FL
+;Orlando;FL	Orlando, FL
+;Palm City;FL	Palm City, FL
+;Panama City;FL	Panama City, FL
+;Pensacola;FL	Pensacola, FL
+;Pompano Beach;FL	Pompano Beach, FL
+;Port Salerno;FL	Port Salerno, FL
+;Sarasota;FL	Sarasota, FL
+;Sebastian;FL	Sebastian, FL
+;St. Petersburg;FL	St. Petersburg, FL
+;Sunrise;FL	Sunrise, FL
+;Tallahassee;FL	Tallahassee, FL
+;Tampa;FL	Tampa, FL
+;West Palm Beach;FL	West Palm Beach, FL
+;Albany;GA	Albany, GA
+;Alpharetta;GA	Alpharetta, GA
+;Athens;GA	Athens, GA
+;Atlanta;GA	Atlanta, GA
+;Augusta;GA	Augusta, GA
+;Brunswick;GA	Brunswick, GA
+;Carrollton;GA	Carrollton, GA
+;Cartersville;GA	Cartersville, GA
+;Columbus;GA	Columbus, GA
+;East Point;GA	East Point, GA
+;Eatonton;GA	Eatonton, GA
+;Gainesville;GA	Gainesville, GA
+;La Grange;GA	La Grange, GA
+;Louisville;GA	Louisville, GA
+;Macon;GA	Macon, GA
+;Marietta;GA	Marietta, GA
+;Milledgeville;GA	Milledgeville, GA
+;Morrow;GA	Morrow, GA
+;Roswell;GA	Roswell, GA
+;Sandersville;GA	Sandersville, GA
+;Savannah;GA	Savannah, GA
+;Tifton;GA	Tifton, GA
+;Tucker;GA	Tucker, GA
+;Valdosta;GA	Valdosta, GA
+;Warner Robins;GA	Warner Robins, GA
+;Waycross;GA	Waycross, GA
+;Bradshaw AAF;HI	Bradshaw AAF, HI
+;Dillingham;HI	Dillingham, HI
+;Ewa;HI	Ewa, HI
+;Ford Island;HI	Ford Island, HI
+;Haiku;HI	Haiku, HI
+;Hana;HI	Hana, HI
+;Hauula;HI	Hauula, HI
+;Hilo;HI	Hilo, HI
+;Honolulu;HI	Honolulu, HI
+;Kaena Point;HI	Kaena Point, HI
+;Kahului;HI	Kahului, HI
+;Kailua Kona;HI	Kailua Kona, HI
+;Kalapana;HI	Kalapana, HI
+;Kalaupapa;HI	Kalaupapa, HI
+;Kamuela;HI	Kamuela, HI
+;Kaneohe Bay;HI	Kaneohe Bay, HI
+;Kapaa;HI	Kapaa, HI
+;Kapalua;HI	Kapalua, HI
+;Kaunakakai;HI	Kaunakakai, HI
+;Keahole;HI	Keahole, HI
+;Kekaha;HI	Kekaha, HI
+;Kohala;HI	Kohala, HI
+;Koko Head;HI	Koko Head, HI
+;Koloa;HI	Koloa, HI
+;Kona;HI	Kona, HI
+;Lanai City;HI	Lanai City, HI
+;Lihue;HI	Lihue, HI
+;Molokai;HI	Molokai, HI
+;Naalehu;HI	Naalehu, HI
+;Paauilo;HI	Paauilo, HI
+;Port Allen;HI	Port Allen, HI
+;South Kauai VORTAC;HI	South Kauai VORTAC, HI
+;Tern Island;HI	Tern Island, HI
+;Upolu;HI	Upolu, HI
+;Upolu Point;HI	Upolu Point, HI
+;Wahiawa;HI	Wahiawa, HI
+;Waialua;HI	Waialua, HI
+;Waikola;HI	Waikola, HI
+;Wailuku;HI	Wailuku, HI
+;Waimea;HI	Waimea, HI
+;Waipahu;HI	Waipahu, HI
+;Wheeler AFB;HI	Wheeler AFB, HI
+;Ames;IA	Ames, IA
+;Bettendorf;IA	Bettendorf, IA
+;Burlington;IA	Burlington, IA
+;Cedar Falls;IA	Cedar Falls, IA
+;Cedar Rapids;IA	Cedar Rapids, IA
+;Clinton;IA	Clinton, IA
+;Coralville;IA	Coralville, IA
+;Corning;IA	Corning, IA
+;Council Bluffs;IA	Council Bluffs, IA
+;Danville;IA	Danville, IA
+;Davenport;IA	Davenport, IA
+;Des Moines;IA	Des Moines, IA
+;Dubuque;IA	Dubuque, IA
+;Dunlap;IA	Dunlap, IA
+;Eldridge;IA	Eldridge, IA
+;Fort Dodge;IA	Fort Dodge, IA
+;Iowa City;IA	Iowa City, IA
+;Mason City;IA	Mason City, IA
+;New Hampton;IA	New Hampton, IA
+;Ottumwa;IA	Ottumwa, IA
+;Primghar;IA	Primghar, IA
+;Sheldon;IA	Sheldon, IA
+;Sioux City;IA	Sioux City, IA
+;Spencer;IA	Spencer, IA
+;Waterloo;IA	Waterloo, IA
+;Aberdeen;ID	Aberdeen, ID
+;Albion;ID	Albion, ID
+;American Falls;ID	American Falls, ID
+;Boise;ID	Boise, ID
+;Caldwell;ID	Caldwell, ID
+;Elk River;ID	Elk River, ID
+;Glenns Ferry;ID	Glenns Ferry, ID
+;Grangeville;ID	Grangeville, ID
+;Hailey;ID	Hailey, ID
+;Idaho Falls;ID	Idaho Falls, ID
+;Lewiston;ID	Lewiston, ID
+;Mackay;ID	Mackay, ID
+;Moscow;ID	Moscow, ID
+;Mountain Home AFB;ID	Mountain Home AFB, ID
+;Nampa;ID	Nampa, ID
+;New Meadows;ID	New Meadows, ID
+;Pocatello;ID	Pocatello, ID
+;Preston;ID	Preston, ID
+;Rexburg;ID	Rexburg, ID
+;Salmon;ID	Salmon, ID
+;Sandpoint;ID	Sandpoint, ID
+;Shoshone;ID	Shoshone, ID
+;Soda Springs;ID	Soda Springs, ID
+;Twin Falls;ID	Twin Falls, ID
+;Wallace;ID	Wallace, ID
+;Wilder;ID	Wilder, ID
+;Winchester;ID	Winchester, ID
+;Arlington Hts.;IL	Arlington Hts., IL
+;Aurora;IL	Aurora, IL
+;Belleville;IL	Belleville, IL
+;Bloomington;IL	Bloomington, IL
+;Carbondale;IL	Carbondale, IL
+;Cary;IL	Cary, IL
+;Champaign;IL	Champaign, IL
+;Chicago;IL	Chicago, IL
+;Chillicothe;IL	Chillicothe, IL
+;Cicero;IL	Cicero, IL
+;Creve Coeur;IL	Creve Coeur, IL
+;Decataur;IL	Decataur, IL
+;Dekalb;IL	Dekalb, IL
+;Des Plaines;IL	Des Plaines, IL
+;E. St. Louis;IL	E. St. Louis, IL
+;Effingham;IL	Effingham, IL
+;Eldorado;IL	Eldorado, IL
+;Elgin;IL	Elgin, IL
+;Evanston;IL	Evanston, IL
+;Joliet;IL	Joliet, IL
+;Kankakee;IL	Kankakee, IL
+;Lake Villa;IL	Lake Villa, IL
+;Melrose Park;IL	Melrose Park, IL
+;Moline;IL	Moline, IL
+;Naperville;IL	Naperville, IL
+;Oak Park;IL	Oak Park, IL
+;Paris;IL	Paris, IL
+;Peoria;IL	Peoria, IL
+;Peru;IL	Peru, IL
+;Robinson;IL	Robinson, IL
+;Rockford;IL	Rockford, IL
+;Schaumburg;IL	Schaumburg, IL
+;Skokie;IL	Skokie, IL
+;Springfield;IL	Springfield, IL
+;Sterling;IL	Sterling, IL
+;Urbana;IL	Urbana, IL
+;Washington;IL	Washington, IL
+;Waukegan;IL	Waukegan, IL
+;Anderson;IN	Anderson, IN
+;Bloomington;IN	Bloomington, IN
+;DeMotte;IN	DeMotte, IN
+;Elkhart;IN	Elkhart, IN
+;Evansville;IN	Evansville, IN
+;Ft. Wayne;IN	Ft. Wayne, IN
+;Gary;IN	Gary, IN
+;Grissom AFB;IN	Grissom AFB, IN
+;Hammond;IN	Hammond, IN
+;Indianapolis;IN	Indianapolis, IN
+;Kokomo;IN	Kokomo, IN
+;Lafayette;IN	Lafayette, IN
+;Mishawaka;IN	Mishawaka, IN
+;Monticello;IN	Monticello, IN
+;Montpelier;IN	Montpelier, IN
+;Muncie;IN	Muncie, IN
+;New Albany;IN	New Albany, IN
+;New Castle;IN	New Castle, IN
+;South Bend;IN	South Bend, IN
+;Terre Haute;IN	Terre Haute, IN
+;Wabash;IN	Wabash, IN
+;Abilene;KS	Abilene, KS
+;Ashland;KS	Ashland, KS
+;Dodge City;KS	Dodge City, KS
+;Fort Riley;KS	Fort Riley, KS
+;Fort Scott;KS	Fort Scott, KS
+;Garden City;KS	Garden City, KS
+;Hutchinson;KS	Hutchinson, KS
+;Independence;KS	Independence, KS
+;Kansas City;KS	Kansas City, KS
+;Lawrence;KS	Lawrence, KS
+;Leavenworth;KS	Leavenworth, KS
+;Lincoln;KS	Lincoln, KS
+;Manhattan;KS	Manhattan, KS
+;Norton;KS	Norton, KS
+;Oakley;KS	Oakley, KS
+;Olathe;KS	Olathe, KS
+;Osborne;KS	Osborne, KS
+;Overland Park;KS	Overland Park, KS
+;Pratt;KS	Pratt, KS
+;Russell;KS	Russell, KS
+;Salina;KS	Salina, KS
+;Shawnee;KS	Shawnee, KS
+;Topeka;KS	Topeka, KS
+;Wichita;KS	Wichita, KS
+;Ashland;KY	Ashland, KY
+;Booneville;KY	Booneville, KY
+;Bowling Green;KY	Bowling Green, KY
+;Corbin;KY	Corbin, KY
+;Covington;KY	Covington, KY
+;Crestwood;KY	Crestwood, KY
+;Elizabethtown;KY	Elizabethtown, KY
+;Falmouth;KY	Falmouth, KY
+;Frankfort;KY	Frankfort, KY
+;Glasgow;KY	Glasgow, KY
+;Hazard;KY	Hazard, KY
+;Henderson;KY	Henderson, KY
+;Hopkinsville;KY	Hopkinsville, KY
+;Lebanon;KY	Lebanon, KY
+;Lexington;KY	Lexington, KY
+;Louisville;KY	Louisville, KY
+;Maysville;KY	Maysville, KY
+;Morehead;KY	Morehead, KY
+;Newport;KY	Newport, KY
+;Owensboro;KY	Owensboro, KY
+;Paducah;KY	Paducah, KY
+;Richmond;KY	Richmond, KY
+;Somerset;KY	Somerset, KY
+;Winchester;KY	Winchester, KY
+;Alexandria;LA	Alexandria, LA
+;Baton Rouge;LA	Baton Rouge, LA
+;Bogalusa;LA	Bogalusa, LA
+;Bossier City;LA	Bossier City, LA
+;Delhi;LA	Delhi, LA
+;Ferriday;LA	Ferriday, LA
+;Fisher;LA	Fisher, LA
+;Houma;LA	Houma, LA
+;Kenner;LA	Kenner, LA
+;Lafayette;LA	Lafayette, LA
+;Lake Charles;LA	Lake Charles, LA
+;Mc Nary;LA	Mc Nary, LA
+;Metairie;LA	Metairie, LA
+;Monroe;LA	Monroe, LA
+;Morgan City;LA	Morgan City, LA
+;New Iberia;LA	New Iberia, LA
+;New Orleans;LA	New Orleans, LA
+;Port Sulphur;LA	Port Sulphur, LA
+;Ruston;LA	Ruston, LA
+;Shreveport;LA	Shreveport, LA
+;Slidell;LA	Slidell, LA
+;Thibodaux;LA	Thibodaux, LA
+;Walker;LA	Walker, LA
+;Winnfield;LA	Winnfield, LA
+;Adams;MA	Adams, MA
+;Arlington;MA	Arlington, MA
+;Attleboro;MA	Attleboro, MA
+;Boston;MA	Boston, MA
+;Brockton;MA	Brockton, MA
+;Brookline;MA	Brookline, MA
+;Cambridge;MA	Cambridge, MA
+;Chicopee;MA	Chicopee, MA
+;East Boston;MA	East Boston, MA
+;Fall River;MA	Fall River, MA
+;Fitchburg;MA	Fitchburg, MA
+;Framingham;MA	Framingham, MA
+;Holliston;MA	Holliston, MA
+;Holyoke;MA	Holyoke, MA
+;Lawrence;MA	Lawrence, MA
+;Lowell;MA	Lowell, MA
+;Lynn;MA	Lynn, MA
+;Malden;MA	Malden, MA
+;Mashpee;MA	Mashpee, MA
+;Medford;MA	Medford, MA
+;New Bedford;MA	New Bedford, MA
+;Newton;MA	Newton, MA
+;Pittsfield;MA	Pittsfield, MA
+;Plymouth;MA	Plymouth, MA
+;Quincy;MA	Quincy, MA
+;Salem;MA	Salem, MA
+;Somerville;MA	Somerville, MA
+;Springfield;MA	Springfield, MA
+;W. Springfield;MA	W. Springfield, MA
+;Wakefield;MA	Wakefield, MA
+;Waltham;MA	Waltham, MA
+;Westover AFB;MA	Westover AFB, MA
+;Weymouth;MA	Weymouth, MA
+;Worcester;MA	Worcester, MA
+;Aberdeen;MD	Aberdeen, MD
+;Aberdeen Prv Gnd;MD	Aberdeen Prv Gnd, MD
+;Annapolis;MD	Annapolis, MD
+;Baltimore;MD	Baltimore, MD
+;Bethesda;MD	Bethesda, MD
+;Bowie;MD	Bowie, MD
+;Cambridge;MD	Cambridge, MD
+;Centreville;MD	Centreville, MD
+;Cockeysville;MD	Cockeysville, MD
+;College Park;MD	College Park, MD
+;Cumberland;MD	Cumberland, MD
+;Dundalk;MD	Dundalk, MD
+;Frederick;MD	Frederick, MD
+;Gaithersburg;MD	Gaithersburg, MD
+;Greenbelt;MD	Greenbelt, MD
+;Hagerstown;MD	Hagerstown, MD
+;Laurel;MD	Laurel, MD
+;New Carrollton;MD	New Carrollton, MD
+;Ocean City;MD	Ocean City, MD
+;Pocomoke City;MD	Pocomoke City, MD
+;Potomac;MD	Potomac, MD
+;Rockville;MD	Rockville, MD
+;Salisbury;MD	Salisbury, MD
+;Silver Spring;MD	Silver Spring, MD
+;St. Michales;MD	St. Michales, MD
+;Westminster;MD	Westminster, MD
+;Wheaton;MD	Wheaton, MD
+;Ashland;ME	Ashland, ME
+;Auburn;ME	Auburn, ME
+;Augusta;ME	Augusta, ME
+;Bangor;ME	Bangor, ME
+;Bar Harbor;ME	Bar Harbor, ME
+;Biddeford;ME	Biddeford, ME
+;Brunswick;ME	Brunswick, ME
+;Gorham;ME	Gorham, ME
+;Greenville;ME	Greenville, ME
+;Kennebunk;ME	Kennebunk, ME
+;Lewiston;ME	Lewiston, ME
+;Lincoln;ME	Lincoln, ME
+;Millinocket;ME	Millinocket, ME
+;Monticello;ME	Monticello, ME
+;Norway;ME	Norway, ME
+;Oakfield;ME	Oakfield, ME
+;Portland;ME	Portland, ME
+;Rangeley;ME	Rangeley, ME
+;Rockland;ME	Rockland, ME
+;Rockwood;ME	Rockwood, ME
+;S. Portland;ME	S. Portland, ME
+;Saco;ME	Saco, ME
+;Sanford;ME	Sanford, ME
+;Stockholm;ME	Stockholm, ME
+;Van Buren;ME	Van Buren, ME
+;Waldoboro;ME	Waldoboro, ME
+;Westbrook;ME	Westbrook, ME
+;Ann Arbor;MI	Ann Arbor, MI
+;Battle Creek;MI	Battle Creek, MI
+;Bay City;MI	Bay City, MI
+;Dearborn;MI	Dearborn, MI
+;Dearborn Heights;MI	Dearborn Heights, MI
+;Detroit;MI	Detroit, MI
+;E. Lansing;MI	E. Lansing, MI
+;Flint;MI	Flint, MI
+;Grand Rapids;MI	Grand Rapids, MI
+;Hancock;MI	Hancock, MI
+;Harper Woods;MI	Harper Woods, MI
+;Iron River;MI	Iron River, MI
+;Jackson;MI	Jackson, MI
+;Kalamazoo;MI	Kalamazoo, MI
+;Lansing;MI	Lansing, MI
+;LaPeer;MI	LaPeer, MI
+;Livonia;MI	Livonia, MI
+;Marquette;MI	Marquette, MI
+;Muskegon;MI	Muskegon, MI
+;Novi;MI	Novi, MI
+;Pontiac;MI	Pontiac, MI
+;Port Huron;MI	Port Huron, MI
+;Rochester Hills;MI	Rochester Hills, MI
+;Roseville;MI	Roseville, MI
+;Royal Oak;MI	Royal Oak, MI
+;Saginaw;MI	Saginaw, MI
+;Sault Ste. Marie;MI	Sault Ste. Marie, MI
+;Southfield;MI	Southfield, MI
+;St. Clair Shores;MI	St. Clair Shores, MI
+;Sterling Heights;MI	Sterling Heights, MI
+;Taylor;MI	Taylor, MI
+;Traverse City;MI	Traverse City, MI
+;Troy;MI	Troy, MI
+;Warren;MI	Warren, MI
+;Westland;MI	Westland, MI
+;Wyoming;MI	Wyoming, MI
+;Ada;MN	Ada, MN
+;Argyle;MN	Argyle, MN
+;Aurora;MN	Aurora, MN
+;Bloomington;MN	Bloomington, MN
+;Brooklyn Park;MN	Brooklyn Park, MN
+;Carlton;MN	Carlton, MN
+;Duluth;MN	Duluth, MN
+;Eagan;MN	Eagan, MN
+;Edina;MN	Edina, MN
+;Fairfax;MN	Fairfax, MN
+;Glenwood;MN	Glenwood, MN
+;Granite Falls;MN	Granite Falls, MN
+;Hill City;MN	Hill City, MN
+;Hutchinson;MN	Hutchinson, MN
+;Madelia;MN	Madelia, MN
+;Mantorville;MN	Mantorville, MN
+;Minneapolis;MN	Minneapolis, MN
+;Minnetonka;MN	Minnetonka, MN
+;Northfield;MN	Northfield, MN
+;Park Rapids;MN	Park Rapids, MN
+;Pine City;MN	Pine City, MN
+;Plymouth;MN	Plymouth, MN
+;Rochester;MN	Rochester, MN
+;St. Cloud;MN	St. Cloud, MN
+;St. Louis Park;MN	St. Louis Park, MN
+;St. Paul;MN	St. Paul, MN
+;Waseca;MN	Waseca, MN
+;Winona;MN	Winona, MN
+;Cape Girardeau;MO	Cape Girardeau, MO
+;Chillicothe;MO	Chillicothe, MO
+;Columbia;MO	Columbia, MO
+;Crestwood;MO	Crestwood, MO
+;Crocker;MO	Crocker, MO
+;Florissant;MO	Florissant, MO
+;Fredericktown;MO	Fredericktown, MO
+;Hannibal;MO	Hannibal, MO
+;Independence;MO	Independence, MO
+;Jefferson City;MO	Jefferson City, MO
+;Joplin;MO	Joplin, MO
+;Kansas City;MO	Kansas City, MO
+;Lebanon;MO	Lebanon, MO
+;Mexico;MO	Mexico, MO
+;Mountain View;MO	Mountain View, MO
+;Nevada;MO	Nevada, MO
+;Pacific;MO	Pacific, MO
+;Poplar Bluff;MO	Poplar Bluff, MO
+;Princeton;MO	Princeton, MO
+;Rockport;MO	Rockport, MO
+;Springfield;MO	Springfield, MO
+;St. Charles;MO	St. Charles, MO
+;St. Joseph;MO	St. Joseph, MO
+;St. Louis;MO	St. Louis, MO
+;University City;MO	University City, MO
+;Bay St. Louis;MS	Bay St. Louis, MS
+;Biloxi;MS	Biloxi, MS
+;Clarksdale;MS	Clarksdale, MS
+;Columbus;MS	Columbus, MS
+;Corinth;MS	Corinth, MS
+;Greenville;MS	Greenville, MS
+;Greenwood;MS	Greenwood, MS
+;Gulfport;MS	Gulfport, MS
+;Hattiesburg;MS	Hattiesburg, MS
+;Holly Springs;MS	Holly Springs, MS
+;Jackson;MS	Jackson, MS
+;Laurel;MS	Laurel, MS
+;Meridian;MS	Meridian, MS
+;Natchez;MS	Natchez, MS
+;Oxford;MS	Oxford, MS
+;Pascagoula;MS	Pascagoula, MS
+;Picayune;MS	Picayune, MS
+;Tupelo;MS	Tupelo, MS
+;Vicksburg;MS	Vicksburg, MS
+;Winona;MS	Winona, MS
+;Anaconda;MT	Anaconda, MT
+;Baker;MT	Baker, MT
+;Billings;MT	Billings, MT
+;Bozeman;MT	Bozeman, MT
+;Butte;MT	Butte, MT
+;Chinook;MT	Chinook, MT
+;Cut Bank;MT	Cut Bank, MT
+;Dillon;MT	Dillon, MT
+;Forsyth;MT	Forsyth, MT
+;Great Falls;MT	Great Falls, MT
+;Havre;MT	Havre, MT
+;Helena;MT	Helena, MT
+;Kalispell;MT	Kalispell, MT
+;Lewistown;MT	Lewistown, MT
+;Livingston;MT	Livingston, MT
+;Lolo;MT	Lolo, MT
+;Missoula;MT	Missoula, MT
+;Opheim;MT	Opheim, MT
+;Polson;MT	Polson, MT
+;Poplar;MT	Poplar, MT
+;Roundup;MT	Roundup, MT
+;Troy;MT	Troy, MT
+;Winnett;MT	Winnett, MT
+;Asheville;NC	Asheville, NC
+;Boone;NC	Boone, NC
+;Burlington;NC	Burlington, NC
+;Chapel Hill;NC	Chapel Hill, NC
+;Charlotte;NC	Charlotte, NC
+;Durham;NC	Durham, NC
+;Elizabeth City;NC	Elizabeth City, NC
+;Fayetteville;NC	Fayetteville, NC
+;Gastonia;NC	Gastonia, NC
+;Goldsboro;NC	Goldsboro, NC
+;Greensboro;NC	Greensboro, NC
+;Hickory;NC	Hickory, NC
+;High Point;NC	High Point, NC
+;Kannapolis;NC	Kannapolis, NC
+;Knightdale;NC	Knightdale, NC
+;Oxford;NC	Oxford, NC
+;Raleigh;NC	Raleigh, NC
+;Rocky Mount;NC	Rocky Mount, NC
+;Statesville;NC	Statesville, NC
+;Swannanoa;NC	Swannanoa, NC
+;Wilmington;NC	Wilmington, NC
+;Winston-Salem;NC	Winston-Salem, NC
+;Ashley;ND	Ashley, ND
+;Beach;ND	Beach, ND
+;Bismarck;ND	Bismarck, ND
+;Bowman;ND	Bowman, ND
+;Devils Lake;ND	Devils Lake, ND
+;Dickinson;ND	Dickinson, ND
+;Fargo;ND	Fargo, ND
+;Garrison;ND	Garrison, ND
+;Grand Forks;ND	Grand Forks, ND
+;Hankinson;ND	Hankinson, ND
+;Hannah;ND	Hannah, ND
+;Harvey;ND	Harvey, ND
+;Hillsboro;ND	Hillsboro, ND
+;Jamestown;ND	Jamestown, ND
+;Lakota;ND	Lakota, ND
+;Lisbon;ND	Lisbon, ND
+;Mandan;ND	Mandan, ND
+;Minot;ND	Minot, ND
+;New Rockford;ND	New Rockford, ND
+;Pembina;ND	Pembina, ND
+;Rugby;ND	Rugby, ND
+;W. Fargo;ND	W. Fargo, ND
+;Williston;ND	Williston, ND
+;Ainsworth;NE	Ainsworth, NE
+;Alliance;NE	Alliance, NE
+;Atkinson;NE	Atkinson, NE
+;Bellevue;NE	Bellevue, NE
+;Columbus;NE	Columbus, NE
+;Crawford;NE	Crawford, NE
+;Crofton;NE	Crofton, NE
+;Fremont;NE	Fremont, NE
+;Grand Island;NE	Grand Island, NE
+;Hastings;NE	Hastings, NE
+;Humboldt;NE	Humboldt, NE
+;Kearney;NE	Kearney, NE
+;Kimball;NE	Kimball, NE
+;Lincoln;NE	Lincoln, NE
+;Lincoln Muni;NE	Lincoln Muni, NE
+;Mc Cook;NE	Mc Cook, NE
+;Norfolk;NE	Norfolk, NE
+;North Platte;NE	North Platte, NE
+;Ogallala;NE	Ogallala, NE
+;Omaha;NE	Omaha, NE
+;Pierce;NE	Pierce, NE
+;Sargent;NE	Sargent, NE
+;Schuyler;NE	Schuyler, NE
+;Valentine;NE	Valentine, NE
+;Wayne;NE	Wayne, NE
+;Berlin;NH	Berlin, NH
+;Claremont;NH	Claremont, NH
+;Concord;NH	Concord, NH
+;Conway;NH	Conway, NH
+;Derry;NH	Derry, NH
+;Dover;NH	Dover, NH
+;Exeter;NH	Exeter, NH
+;Franklin;NH	Franklin, NH
+;Groveton;NH	Groveton, NH
+;Keene;NH	Keene, NH
+;Laconia;NH	Laconia, NH
+;Lancaster;NH	Lancaster, NH
+;Lebanon;NH	Lebanon, NH
+;Littleton;NH	Littleton, NH
+;Manchester;NH	Manchester, NH
+;Meredith;NH	Meredith, NH
+;Merrimack;NH	Merrimack, NH
+;Milford;NH	Milford, NH
+;Nashua;NH	Nashua, NH
+;Newport;NH	Newport, NH
+;Plymouth;NH	Plymouth, NH
+;Portsmouth;NH	Portsmouth, NH
+;Rochester;NH	Rochester, NH
+;Salem;NH	Salem, NH
+;Weirs;NH	Weirs, NH
+;Winchester;NH	Winchester, NH
+;Woodsville;NH	Woodsville, NH
+;Atlantic City;NJ	Atlantic City, NJ
+;Bayonne;NJ	Bayonne, NJ
+;Bloomfield;NJ	Bloomfield, NJ
+;Bordentown;NJ	Bordentown, NJ
+;Bridgeton;NJ	Bridgeton, NJ
+;Camden;NJ	Camden, NJ
+;Cape May;NJ	Cape May, NJ
+;Clark;NJ	Clark, NJ
+;Clifton;NJ	Clifton, NJ
+;Cranford;NJ	Cranford, NJ
+;E. Brunswick;NJ	E. Brunswick, NJ
+;East Orange;NJ	East Orange, NJ
+;Eastampton;NJ	Eastampton, NJ
+;Elizabeth;NJ	Elizabeth, NJ
+;Freehold;NJ	Freehold, NJ
+;Highland Lakes;NJ	Highland Lakes, NJ
+;Irvington;NJ	Irvington, NJ
+;Jersey City;NJ	Jersey City, NJ
+;Marlton;NJ	Marlton, NJ
+;Millville;NJ	Millville, NJ
+;Mine Hill;NJ	Mine Hill, NJ
+;Morristown;NJ	Morristown, NJ
+;N. Cape May;NJ	N. Cape May, NJ
+;New Brunswick;NJ	New Brunswick, NJ
+;Newark;NJ	Newark, NJ
+;Newton;NJ	Newton, NJ
+;Ocean Grove;NJ	Ocean Grove, NJ
+;Paterson;NJ	Paterson, NJ
+;Perth Amboy;NJ	Perth Amboy, NJ
+;Plainfield;NJ	Plainfield, NJ
+;Princeton;NJ	Princeton, NJ
+;Somerset;NJ	Somerset, NJ
+;Somerville;NJ	Somerville, NJ
+;Trenton;NJ	Trenton, NJ
+;Union City;NJ	Union City, NJ
+;Vineland;NJ	Vineland, NJ
+;Alamogordo;NM	Alamogordo, NM
+;Albuquerque;NM	Albuquerque, NM
+;Aztec;NM	Aztec, NM
+;Belen;NM	Belen, NM
+;Carrizozo;NM	Carrizozo, NM
+;Clovis;NM	Clovis, NM
+;Farmington;NM	Farmington, NM
+;Folsom;NM	Folsom, NM
+;Gallup;NM	Gallup, NM
+;Hobbs;NM	Hobbs, NM
+;Las Cruces;NM	Las Cruces, NM
+;Lordsburg;NM	Lordsburg, NM
+;Los Alamos;NM	Los Alamos, NM
+;Magdalena;NM	Magdalena, NM
+;Northrop Strip;NM	Northrop Strip, NM
+;Park View;NM	Park View, NM
+;Roswell;NM	Roswell, NM
+;Santa Fe;NM	Santa Fe, NM
+;Santa Rosa;NM	Santa Rosa, NM
+;Socorro (New Mexico Tech.);NM	Socorro (New Mexico Tech.), NM
+;Taos;NM	Taos, NM
+;Truth or Consequences;NM	Truth or Consequences, NM
+;Tucumcari;NM	Tucumcari, NM
+;Vaughn;NM	Vaughn, NM
+;Alamo;NV	Alamo, NV
+;Austin;NV	Austin, NV
+;Beatty;NV	Beatty, NV
+;Boulder City;NV	Boulder City, NV
+;Caliente;NV	Caliente, NV
+;Carson City;NV	Carson City, NV
+;E. Las Vegas;NV	E. Las Vegas, NV
+;Elko;NV	Elko, NV
+;Eureka;NV	Eureka, NV
+;Fallon;NV	Fallon, NV
+;Goldfield;NV	Goldfield, NV
+;Hawthorne;NV	Hawthorne, NV
+;Henderson;NV	Henderson, NV
+;Las Vegas;NV	Las Vegas, NV
+;Lovelock;NV	Lovelock, NV
+;Mc Gill;NV	Mc Gill, NV
+;Midas;NV	Midas, NV
+;N. Las Vegas;NV	N. Las Vegas, NV
+;Nellis AFB;NV	Nellis AFB, NV
+;Paradise;NV	Paradise, NV
+;Reno;NV	Reno, NV
+;Sparks;NV	Sparks, NV
+;Wells;NV	Wells, NV
+;Winnemucca;NV	Winnemucca, NV
+;Albany;NY	Albany, NY
+;Binghamton;NY	Binghamton, NY
+;Buffalo;NY	Buffalo, NY
+;Central Islip;NY	Central Islip, NY
+;Elmira;NY	Elmira, NY
+;Fort Salonga;NY	Fort Salonga, NY
+;Glens Falls;NY	Glens Falls, NY
+;Hollis Hills;NY	Hollis Hills, NY
+;Huntington Station;NY	Huntington Station, NY
+;Lewiston;NY	Lewiston, NY
+;Lindenhurst;NY	Lindenhurst, NY
+;Malone;NY	Malone, NY
+;Montour Falls;NY	Montour Falls, NY
+;Mount Vernon;NY	Mount Vernon, NY
+;N. Bellmore;NY	N. Bellmore, NY
+;Neponsit;NY	Neponsit, NY
+;New Rochelle;NY	New Rochelle, NY
+;New York;NY	New York, NY
+;Niagara Falls;NY	Niagara Falls, NY
+;Olean;NY	Olean, NY
+;Plattsburgh;NY	Plattsburgh, NY
+;Plattsburgh AFB;NY	Plattsburgh AFB, NY
+;Poughkeepsie;NY	Poughkeepsie, NY
+;Rochester;NY	Rochester, NY
+;Schenectady;NY	Schenectady, NY
+;Southampton;NY	Southampton, NY
+;Staten Island;NY	Staten Island, NY
+;Stony Brook;NY	Stony Brook, NY
+;Syracuse;NY	Syracuse, NY
+;Tillson;NY	Tillson, NY
+;Troy;NY	Troy, NY
+;Utica;NY	Utica, NY
+;Valhalla;NY	Valhalla, NY
+;Watertown;NY	Watertown, NY
+;White Plains;NY	White Plains, NY
+;Yonkers;NY	Yonkers, NY
+;Yorktown Heights;NY	Yorktown Heights, NY
+;Akron;OH	Akron, OH
+;Amherst;OH	Amherst, OH
+;Barnesville;OH	Barnesville, OH
+;Brilliant;OH	Brilliant, OH
+;Canton;OH	Canton, OH
+;Chagrin Falls;OH	Chagrin Falls, OH
+;Chillicothe;OH	Chillicothe, OH
+;Cincinnati;OH	Cincinnati, OH
+;Circleville;OH	Circleville, OH
+;Cleveland;OH	Cleveland, OH
+;Columbia Stn.;OH	Columbia Stn., OH
+;Columbus;OH	Columbus, OH
+;Dayton;OH	Dayton, OH
+;Elyria;OH	Elyria, OH
+;Euclid;OH	Euclid, OH
+;Hamilton;OH	Hamilton, OH
+;Kettering;OH	Kettering, OH
+;Lakewood;OH	Lakewood, OH
+;Lima;OH	Lima, OH
+;Lorain;OH	Lorain, OH
+;Mansfield;OH	Mansfield, OH
+;North Olmstead;OH	North Olmstead, OH
+;Oberlin;OH	Oberlin, OH
+;Parma;OH	Parma, OH
+;Portsmouth;OH	Portsmouth, OH
+;Shelby;OH	Shelby, OH
+;Springfield;OH	Springfield, OH
+;Steubenville;OH	Steubenville, OH
+;Toledo;OH	Toledo, OH
+;Warren;OH	Warren, OH
+;Wright-Patterson AFB;OH	Wright-Patterson AFB, OH
+;Youngstown;OH	Youngstown, OH
+;Zanesville;OH	Zanesville, OH
+;Afton;OK	Afton, OK
+;Antlers;OK	Antlers, OK
+;Ardmore;OK	Ardmore, OK
+;Bartlesville;OK	Bartlesville, OK
+;Blackwell;OK	Blackwell, OK
+;Boise City;OK	Boise City, OK
+;Broken Arrow;OK	Broken Arrow, OK
+;Cherokee;OK	Cherokee, OK
+;Edmond;OK	Edmond, OK
+;Elk City;OK	Elk City, OK
+;Enid;OK	Enid, OK
+;Guthrie;OK	Guthrie, OK
+;Hooker;OK	Hooker, OK
+;Lawton;OK	Lawton, OK
+;Mangum;OK	Mangum, OK
+;Mc Alester;OK	Mc Alester, OK
+;Midwest City;OK	Midwest City, OK
+;Moore;OK	Moore, OK
+;Muskogee;OK	Muskogee, OK
+;Norman;OK	Norman, OK
+;Oklahoma City;OK	Oklahoma City, OK
+;Ponca City;OK	Ponca City, OK
+;Sallisaw;OK	Sallisaw, OK
+;Tulsa;OK	Tulsa, OK
+;Woodward;OK	Woodward, OK
+;Albany;OR	Albany, OR
+;Astoria;OR	Astoria, OR
+;Beaverton;OR	Beaverton, OR
+;Bend;OR	Bend, OR
+;Brookings;OR	Brookings, OR
+;Burns;OR	Burns, OR
+;Condon;OR	Condon, OR
+;Corvallis;OR	Corvallis, OR
+;Eugene;OR	Eugene, OR
+;Grants Pass;OR	Grants Pass, OR
+;Gresham;OR	Gresham, OR
+;Hillsboro;OR	Hillsboro, OR
+;Klamath Falls;OR	Klamath Falls, OR
+;La Grande;OR	La Grande, OR
+;Lake Oswego;OR	Lake Oswego, OR
+;Medford;OR	Medford, OR
+;Newport;OR	Newport, OR
+;Pendleton;OR	Pendleton, OR
+;Portland;OR	Portland, OR
+;Salem;OR	Salem, OR
+;Springfield;OR	Springfield, OR
+;Vale;OR	Vale, OR
+;Wallowa;OR	Wallowa, OR
+;Wasco;OR	Wasco, OR
+;Allentown;PA	Allentown, PA
+;Altoona;PA	Altoona, PA
+;Bethlehem;PA	Bethlehem, PA
+;Cheltenham;PA	Cheltenham, PA
+;Chester;PA	Chester, PA
+;E. Stroudsburg;PA	E. Stroudsburg, PA
+;Elverson;PA	Elverson, PA
+;Ephrata;PA	Ephrata, PA
+;Erie;PA	Erie, PA
+;Harrisburg;PA	Harrisburg, PA
+;Johnstown;PA	Johnstown, PA
+;Lancaster;PA	Lancaster, PA
+;McKeesport;PA	McKeesport, PA
+;Muncy;PA	Muncy, PA
+;New Castle;PA	New Castle, PA
+;Philadelphia;PA	Philadelphia, PA
+;Pittsburgh;PA	Pittsburgh, PA
+;Pottstown;PA	Pottstown, PA
+;Quakertown;PA	Quakertown, PA
+;Reading;PA	Reading, PA
+;Scranton;PA	Scranton, PA
+;Warren;PA	Warren, PA
+;Waynesburg;PA	Waynesburg, PA
+;Wilkes-Barre;PA	Wilkes-Barre, PA
+;Wynnewood;PA	Wynnewood, PA
+;Yardley;PA	Yardley, PA
+;York;PA	York, PA
+;Bristol;RI	Bristol, RI
+;Cranston;RI	Cranston, RI
+;Newport;RI	Newport, RI
+;Pawtucket;RI	Pawtucket, RI
+;Providence;RI	Providence, RI
+;Rumford;RI	Rumford, RI
+;W. Warwick;RI	W. Warwick, RI
+;Warwick;RI	Warwick, RI
+;Westerly;RI	Westerly, RI
+;Woonsocket;RI	Woonsocket, RI
+;Aiken;SC	Aiken, SC
+;Anderson;SC	Anderson, SC
+;Batesburg;SC	Batesburg, SC
+;Beaufort;SC	Beaufort, SC
+;Charleston;SC	Charleston, SC
+;Cheraw;SC	Cheraw, SC
+;Columbia;SC	Columbia, SC
+;Dillon;SC	Dillon, SC
+;Fairfax;SC	Fairfax, SC
+;Florence;SC	Florence, SC
+;Goose Creek;SC	Goose Creek, SC
+;Great Falls;SC	Great Falls, SC
+;Greenville;SC	Greenville, SC
+;Greenwood;SC	Greenwood, SC
+;Mauldin;SC	Mauldin, SC
+;Myrtle Beach;SC	Myrtle Beach, SC
+;N. Charleston;SC	N. Charleston, SC
+;Orangeburg;SC	Orangeburg, SC
+;Rock Hill;SC	Rock Hill, SC
+;Spartanburg;SC	Spartanburg, SC
+;Sumter;SC	Sumter, SC
+;Aberdeen;SD	Aberdeen, SD
+;Armour;SD	Armour, SD
+;Brookings;SD	Brookings, SD
+;Elk Point;SD	Elk Point, SD
+;Ellsworth AFB;SD	Ellsworth AFB, SD
+;Faith;SD	Faith, SD
+;Groton;SD	Groton, SD
+;Harrisburg;SD	Harrisburg, SD
+;Highmore;SD	Highmore, SD
+;Huron;SD	Huron, SD
+;Lemmon;SD	Lemmon, SD
+;Madison;SD	Madison, SD
+;Milbank;SD	Milbank, SD
+;Miller;SD	Miller, SD
+;Mitchell;SD	Mitchell, SD
+;Mobridge;SD	Mobridge, SD
+;Newell;SD	Newell, SD
+;Philip;SD	Philip, SD
+;Pierre;SD	Pierre, SD
+;Rapid City;SD	Rapid City, SD
+;Sioux Falls;SD	Sioux Falls, SD
+;Vermillion;SD	Vermillion, SD
+;Watertown;SD	Watertown, SD
+;Winner;SD	Winner, SD
+;Woonsocket;SD	Woonsocket, SD
+;Yankton;SD	Yankton, SD
+;Alcoa;TN	Alcoa, TN
+;Athens;TN	Athens, TN
+;Bristol;TN	Bristol, TN
+;Chattanooga;TN	Chattanooga, TN
+;Clarksville;TN	Clarksville, TN
+;Cleveland;TN	Cleveland, TN
+;Collegedale;TN	Collegedale, TN
+;Columbia;TN	Columbia, TN
+;Dayton;TN	Dayton, TN
+;Franklin;TN	Franklin, TN
+;Greenville;TN	Greenville, TN
+;Hendersonville;TN	Hendersonville, TN
+;Jackson;TN	Jackson, TN
+;Johnson City;TN	Johnson City, TN
+;Kingsport;TN	Kingsport, TN
+;Knoxville;TN	Knoxville, TN
+;Memphis;TN	Memphis, TN
+;Morristown;TN	Morristown, TN
+;Murfreesboro;TN	Murfreesboro, TN
+;Nashville;TN	Nashville, TN
+;Oak Ridge;TN	Oak Ridge, TN
+;Seymour;TN	Seymour, TN
+;Shelbyville;TN	Shelbyville, TN
+;Union City;TN	Union City, TN
+;Abilene;TX	Abilene, TX
+;Amarillo;TX	Amarillo, TX
+;Arlington;TX	Arlington, TX
+;Austin;TX	Austin, TX
+;Baytown;TX	Baytown, TX
+;Beaumont;TX	Beaumont, TX
+;Brownsville;TX	Brownsville, TX
+;Clear Lake City;TX	Clear Lake City, TX
+;Corpus Christi;TX	Corpus Christi, TX
+;Dallas;TX	Dallas, TX
+;Del Rio;TX	Del Rio, TX
+;Denton;TX	Denton, TX
+;Dickinson;TX	Dickinson, TX
+;Edna;TX	Edna, TX
+;El Paso;TX	El Paso, TX
+;Flower Mound;TX	Flower Mound, TX
+;Ft. Worth;TX	Ft. Worth, TX
+;Galveston;TX	Galveston, TX
+;Garland;TX	Garland, TX
+;Grand Prairie;TX	Grand Prairie, TX
+;Houston;TX	Houston, TX
+;Irving;TX	Irving, TX
+;Laredo;TX	Laredo, TX
+;Longview;TX	Longview, TX
+;Lubbock;TX	Lubbock, TX
+;Marshall;TX	Marshall, TX
+;McAllen;TX	McAllen, TX
+;Mesquite;TX	Mesquite, TX
+;Midland;TX	Midland, TX
+;Odessa;TX	Odessa, TX
+;Pasadena;TX	Pasadena, TX
+;Plano;TX	Plano, TX
+;Port Arthur;TX	Port Arthur, TX
+;Richardson;TX	Richardson, TX
+;Saginaw;TX	Saginaw, TX
+;San Angelo;TX	San Angelo, TX
+;San Antonio;TX	San Antonio, TX
+;Seabrook;TX	Seabrook, TX
+;Texarkana;TX	Texarkana, TX
+;Tyler;TX	Tyler, TX
+;Victoria;TX	Victoria, TX
+;Waco;TX	Waco, TX
+;Wichita Falls;TX	Wichita Falls, TX
+;Beaver;UT	Beaver, UT
+;Bluff;UT	Bluff, UT
+;Bountiful;UT	Bountiful, UT
+;Cedar City;UT	Cedar City, UT
+;Delta;UT	Delta, UT
+;Eureka;UT	Eureka, UT
+;Garland;UT	Garland, UT
+;Green River;UT	Green River, UT
+;Kanab;UT	Kanab, UT
+;Layton;UT	Layton, UT
+;Logan;UT	Logan, UT
+;Milford;UT	Milford, UT
+;Monticello;UT	Monticello, UT
+;Murray;UT	Murray, UT
+;Ogden;UT	Ogden, UT
+;Orem;UT	Orem, UT
+;Provo;UT	Provo, UT
+;Richmond;UT	Richmond, UT
+;Salina;UT	Salina, UT
+;Salt Lake City;UT	Salt Lake City, UT
+;St. George;UT	St. George, UT
+;Vernal;UT	Vernal, UT
+;Wendover;UT	Wendover, UT
+;Alexandria;VA	Alexandria, VA
+;Arlington;VA	Arlington, VA
+;Charlottesville;VA	Charlottesville, VA
+;Chesapeake;VA	Chesapeake, VA
+;Danville;VA	Danville, VA
+;Fredericksburg;VA	Fredericksburg, VA
+;Hampton;VA	Hampton, VA
+;Harrisonburg;VA	Harrisonburg, VA
+;Herndon;VA	Herndon, VA
+;King George;VA	King George, VA
+;Lynchburg;VA	Lynchburg, VA
+;Marion;VA	Marion, VA
+;Martinsville;VA	Martinsville, VA
+;Newport News;VA	Newport News, VA
+;Norfolk;VA	Norfolk, VA
+;Norton;VA	Norton, VA
+;Petersburg;VA	Petersburg, VA
+;Portsmouth;VA	Portsmouth, VA
+;Richmond;VA	Richmond, VA
+;Roanoke;VA	Roanoke, VA
+;Sterling;VA	Sterling, VA
+;Suffolk;VA	Suffolk, VA
+;Virginia Beach;VA	Virginia Beach, VA
+;Waynesboro;VA	Waynesboro, VA
+;Winchester;VA	Winchester, VA
+;Wytheville;VA	Wytheville, VA
+;Barre;VT	Barre, VT
+;Barton;VT	Barton, VT
+;Bellows Falls;VT	Bellows Falls, VT
+;Bennington;VT	Bennington, VT
+;Brandon;VT	Brandon, VT
+;Brattleboro;VT	Brattleboro, VT
+;Bristol;VT	Bristol, VT
+;Burlington;VT	Burlington, VT
+;Essex Junction;VT	Essex Junction, VT
+;Fair Haven;VT	Fair Haven, VT
+;Middlebury;VT	Middlebury, VT
+;Montpelier;VT	Montpelier, VT
+;Newport;VT	Newport, VT
+;Proctor;VT	Proctor, VT
+;Randolph;VT	Randolph, VT
+;Rutland;VT	Rutland, VT
+;Springfield;VT	Springfield, VT
+;St. Albans;VT	St. Albans, VT
+;Winooski;VT	Winooski, VT
+;Aberdeen;WA	Aberdeen, WA
+;Bellevue;WA	Bellevue, WA
+;Bellingham;WA	Bellingham, WA
+;Bremerton;WA	Bremerton, WA
+;Burlington;WA	Burlington, WA
+;Carbonado;WA	Carbonado, WA
+;Castlerock;WA	Castlerock, WA
+;E. Wenatchee;WA	E. Wenatchee, WA
+;Edmonds;WA	Edmonds, WA
+;Everett;WA	Everett, WA
+;Kelso;WA	Kelso, WA
+;Leavenworth;WA	Leavenworth, WA
+;Longview;WA	Longview, WA
+;Lynden;WA	Lynden, WA
+;Moses Lake;WA	Moses Lake, WA
+;Northport;WA	Northport, WA
+;Olympia;WA	Olympia, WA
+;Prosser;WA	Prosser, WA
+;Puyallup;WA	Puyallup, WA
+;Richland;WA	Richland, WA
+;Seattle;WA	Seattle, WA
+;Spokane;WA	Spokane, WA
+;Tacoma;WA	Tacoma, WA
+;Tenino;WA	Tenino, WA
+;Vancouver;WA	Vancouver, WA
+;Walla Walla;WA	Walla Walla, WA
+;Waterville;WA	Waterville, WA
+;Whidbey Is.;WA	Whidbey Is., WA
+;Yakima;WA	Yakima, WA
+;Appleton;WI	Appleton, WI
+;Baraboo;WI	Baraboo, WI
+;Barron;WI	Barron, WI
+;Boscobel;WI	Boscobel, WI
+;Delavan;WI	Delavan, WI
+;Eau Claire;WI	Eau Claire, WI
+;Fond du Lac;WI	Fond du Lac, WI
+;Green Bay;WI	Green Bay, WI
+;Hurley;WI	Hurley, WI
+;Janesville;WI	Janesville, WI
+;Kenosha;WI	Kenosha, WI
+;La Crosse;WI	La Crosse, WI
+;Madison;WI	Madison, WI
+;Manitowoc;WI	Manitowoc, WI
+;Milwaukee;WI	Milwaukee, WI
+;Oshkosh;WI	Oshkosh, WI
+;Racine;WI	Racine, WI
+;Rhinelander;WI	Rhinelander, WI
+;Sheboygan;WI	Sheboygan, WI
+;Sturtevant;WI	Sturtevant, WI
+;Superior;WI	Superior, WI
+;Waukesha;WI	Waukesha, WI
+;Wausau;WI	Wausau, WI
+;Wauwatosa;WI	Wauwatosa, WI
+;West Allis;WI	West Allis, WI
+;Beckley;WV	Beckley, WV
+;Bluefield;WV	Bluefield, WV
+;Charleston;WV	Charleston, WV
+;Clarksburg;WV	Clarksburg, WV
+;Elkins;WV	Elkins, WV
+;Fairmont;WV	Fairmont, WV
+;Gassaway;WV	Gassaway, WV
+;Harpers Ferry;WV	Harpers Ferry, WV
+;Hinton;WV	Hinton, WV
+;Huntington;WV	Huntington, WV
+;Lewisburg;WV	Lewisburg, WV
+;Martinsburg;WV	Martinsburg, WV
+;Morgantown;WV	Morgantown, WV
+;Nitro;WV	Nitro, WV
+;Parkersburg;WV	Parkersburg, WV
+;Parsons;WV	Parsons, WV
+;Princeton;WV	Princeton, WV
+;Salem;WV	Salem, WV
+;Weirton;WV	Weirton, WV
+;Wheeling;WV	Wheeling, WV
+;Afton;WY	Afton, WY
+;Buffalo;WY	Buffalo, WY
+;Casper;WY	Casper, WY
+;Cheyenne;WY	Cheyenne, WY
+;Cody;WY	Cody, WY
+;Evanston;WY	Evanston, WY
+;Gillette;WY	Gillette, WY
+;Granger;WY	Granger, WY
+;Green River;WY	Green River, WY
+;Lander;WY	Lander, WY
+;Laramie;WY	Laramie, WY
+;Rawlins;WY	Rawlins, WY
+;Riverton;WY	Riverton, WY
+;Rock Springs;WY	Rock Springs, WY
+;Sheridan;WY	Sheridan, WY
+;Efate;	Efate
+;Caracas;	Caracas
+;Maiquetia;	Maiquetia
+;St. Croix;	St. Croix
+;St. Thomas;	St. Thomas
+;Cardiff;	Cardiff
+;Aden;	Aden
+;Kinshasa;	Kinshasa
+;Lusaka;	Lusaka
+;Atacama Pathfinder EXperiment (APEX);	Atacama Pathfinder EXperiment (APEX)
+;Effelsberg Radio Observatory;	Effelsberg Radio Observatory
+;Nobeyama Radio Observatory (NRO);	Nobeyama Radio Observatory (NRO)
+-97;MAPO (South Pole);	MAPO (South Pole) [code -97]
+-96;ALT;	ALT [code -96]
+-93;Sardinia Radio Telescope (SRT 64-m);	Sardinia Radio Telescope (SRT 64-m) [code -93]
+-92;Hartebeesthoek (HartRAO 26-m);	Hartebeesthoek (HartRAO 26-m) [code -92]
+-91;Sternwarte Bochum;	Sternwarte Bochum [code -91]
+-89;St Croix (VLBA);	St Croix (VLBA) [code -89]
+-88;Hancock (VLBA);	Hancock (VLBA) [code -88]
+-87;North Liberty (VLBA);	North Liberty (VLBA) [code -87]
+-86;Brewster (VLBA);	Brewster (VLBA) [code -86]
+-85;Fort Davis (VLBA);	Fort Davis (VLBA) [code -85]
+-84;Los Alamos (VLBA);	Los Alamos (VLBA) [code -84]
+-83;Pie Town (VLBA);	Pie Town (VLBA) [code -83]
+-82;Kitt Peak (VLBA);	Kitt Peak (VLBA) [code -82]
+-81;Owens Valley (VLBA);	Owens Valley (VLBA) [code -81]
+-80;Mauna Kea (VLBA);	Mauna Kea (VLBA) [code -80]
+-73;EISCAT Tromso UHF (32-m);	EISCAT Tromso UHF (32-m) [code -73]
+-72;Hat Creek Radio Observatory;	Hat Creek Radio Observatory [code -72]
+-71;Effelsberg 100-m;	Effelsberg 100-m [code -71]
+-65;DSS 65;	DSS 65 [code -65]
+-63;DSS 63;	DSS 63 [code -63]
+-62;Bonn;	Bonn [code -62]
+-59;Weilheim;	Weilheim [code -59]
+-58;Medicina;	Medicina [code -58]
+-55;DSS 55;	DSS 55 [code -55]
+-54;DSS 54;	DSS 54 [code -54]
+-51;Algonquin;	Algonquin [code -51]
+-49;Parkes Radio Telescope 64-m;	Parkes Radio Telescope 64-m [code -49]
+-47;DSS 47 (ATCA reference antenna);	DSS 47 (ATCA reference antenna) [code -47]
+-45;DSS 45;	DSS 45 [code -45]
+-43;DSS 43;	DSS 43 [code -43]
+-39;Kaliazin;	Kaliazin [code -39]
+-38;Evpatoria;	Evpatoria [code -38]
+-37;Bear Lake;	Bear Lake [code -37]
+-36;DSS 36;	DSS 36 [code -36]
+-35;DSS 35;	DSS 35 [code -35]
+-34;DSS 34;	DSS 34 [code -34]
+-31;Usuda;	Usuda [code -31]
+-30;Kashima;	Kashima [code -30]
+-28;DSS 28;	DSS 28 [code -28]
+-27;DSS 27;	DSS 27 [code -27]
+-26;DSS 26;	DSS 26 [code -26]
+-25;DSS 25;	DSS 25 [code -25]
+-24;DSS 24;	DSS 24 [code -24]
+-15;DSS 15;	DSS 15 [code -15]
+-14;DSS 14;	DSS 14 [code -14]
+-13;DSS 13;	DSS 13 [code -13]
+-12;DSS 12;	DSS 12 [code -12]
+-9;Green Bank (GBT);	Green Bank (GBT) [code -9]
+-7;Atacama Large mm/sub-mm Array (ALMA) Center of Array;	Atacama Large mm/sub-mm Array (ALMA) Center of Array [code -7]
+-5;VLA;	VLA [code -5]
+-2;Haystack;	Haystack [code -2]
+-1;Arecibo;	Arecibo [code -1]
