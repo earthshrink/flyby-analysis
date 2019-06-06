@@ -1,0 +1,163 @@
+-136134	[-136134] 
+-399050	[-399050] 2015 PDC (simulation)
+-937001	[-937001] 2017 PDC (simulation) [PDC17]
+-937002	[-937002] 2017 PDCa (simulation) [PDC17a]
+-937011	[-937011] 2019 PDC (simulation) [PDC19]
+-937013	[-937013] 2019 PDCa (simulation) [PDC19a]
+-116908	[-116908] AJISAI (spacecraft)
+-126639	[-126639] AMC-8 (spacecraft) [GE-8]
+-123553	[-123553] AMSC-1 (spacecraft)
+-128868	[-128868] Anik-F1R (spacecraft)
+-399101	[-399101] Apollo 10 LM (spacecraft) (Snoopy)
+-399100	[-399100] Apollo 10 S-IVB (spacecraft)
+-399110	[-399110] Apollo 11 S-IVB (spacecraft)
+-399120	[-399120] Apollo 12 S-IVB (spacecraft)
+-399080	[-399080] Apollo 8 S-IVB (spacecraft)
+-399090	[-399090] Apollo 9 S-IVB (spacecraft)
+-127424	[-127424] Aqua (spacecraft)
+-128376	[-128376] Aura (spacecraft)
+-138250	[-138250] BEIDOU-M3 (spacecraft)
+-121	[-121] BepiColombo (Spacecraft) [MPO MMO]
+-86	[-86] CH1 (spacecraft)
+-204	[-204] CONTOUR-A (SPACECRAFT FRAGMENT)
+-205	[-205] CONTOUR-B (SPACECRAFT FRAGMENT)
+-206	[-206] CONTOUR-C (SPACECRAFT FRAGMENT)
+-82	[-82] Cassini (spacecraft)
+-151	[-151] Chandra Observatory (spacecraft)
+-40	[-40] Clementine (spacecraft) [DSPSE]
+-129107	[-129107] Cloudsat (spacecraft)
+-78	[-78] DSCOVR (spacecraft) [Triana]
+-203	[-203] Dawn (spacecraft)
+-140	[-140] Deep Impact Flyby - EPOXI (spacecraft) [EPOXI]
+-70	[-70] Deep Impact IMPACTOR (spacecraft)
+-30	[-30] Deep Space 1 (spacecraft) [DS1 DS-1]
+-140663	[-140663] DirecTV-15 (spacecraft)
+-129494	[-129494] DirecTV-9S (spacecraft)
+-126619	[-126619] EO-1 (spacecraft)
+-123754	[-123754] Echostar-1 (spacecraft)
+-133207	[-133207] Echostar-11 (spacecraft)
+-136499	[-136499] Echostar-14 (spacecraft)
+-138551	[-138551] Echostar-17 (spacecraft)
+-124313	[-124313] Echostar-2 (spacecraft)
+-126402	[-126402] Echostar-6 (spacecraft)
+-159	[-159] Europa Clipper (spacecraft)
+-143	[-143] ExoMars TGO (spacecraft)
+-111353	[-111353] FLTSATCOM 2 (spacecraft)
+-127783	[-127783] GALEX (spacecraft)
+-108366	[-108366] GOES-1 (spacecraft)
+-135491	[-135491] GOES-14 (spacecraft)
+-112472	[-112472] GOES-5 (spacecraft)
+-114050	[-114050] GOES-6 (spacecraft)
+-123051	[-123051] GOES-8 (spacecraft)
+-127391	[-127391] GRACE-1 (spacecraft)
+-177	[-177] GRAIL-A (spacecraft) [Ebb]
+-181	[-181] GRAIL-B (spacecraft) [Flow]
+-176	[-176] GRAIL-SS Second Stage (spacecraft)
+-143241	[-143241] GSAT-6A (spacecraft)
+-139479	[-139479] Gaia (spacecraft)
+-128884	[-128884] Galaxy-15 (spacecraft)
+-77	[-77] Galileo (spacecraft)
+-344	[-344] Galileo Probe (spacecraft)
+-47900	[-47900] Genesis (SRC) (spacecraft)
+-47	[-47] Genesis (bus) (spacecraft)
+-125126	[-125126] HGS-1 (spacecraft) (Asiasat-3)
+-130	[-130] Hayabusa (spacecraft) [Muses-C]
+-37	[-37] Hayabusa 2 (spacecraft)
+-486	[-486] Herschel Space Observatory (spacecraft)
+-48	[-48] Hubble Space Telescope (HST (spacecraft))
+-111	[-111] ICE (spacecraft) [ISEE-3]
+-198	[-198] INTEGRAL (spacecraft)
+-189	[-189] InSight (spacecraft)
+-640	[-640] Infrared Space Observatory (spacecraft) [ISO]
+-125544	[-125544] International Space Station (spacecraft) [ISS]
+-170	[-170] James Webb Space Telescope (spacecraft) [JWST]
+-133105	[-133105] Jason-2 (spacecraft)
+-141240	[-141240] Jason-3 (spacecraft)
+-61	[-61] Juno (spacecraft)
+-610	[-610] Juno Centaur Stage (spacecraft)
+-227	[-227] Kepler (spacecraft)
+-134381	[-134381] Kepler Booster (Third Stage) (spacecraft)
+-12	[-12] LADEE (spacecraft)
+-108820	[-108820] LAGEOS-1 (spacecraft)
+-122195	[-122195] LAGEOS-2 (spacecraft)
+-18	[-18] LCROSS (spacecraft)
+-141043	[-141043] LISA Pathfinder (spacecraft) [LPF]
+-999742	[-999742] LISA Pathfinder Propulsion Module (spacecraft) [PRM]
+-85	[-85] LRO (spacecraft)
+-25	[-25] Lunar Prospector (LP) (spacecraft)
+-202	[-202] MAVEN (spacecraft)
+-236	[-236] MESSENGER (spacecraft)
+-140482	[-140482] MMS-1 (spacecraft)
+-140483	[-140483] MMS-2 (spacecraft)
+-140484	[-140484] MMS-3 (spacecraft)
+-140485	[-140485] MMS-4 (spacecraft)
+-74900	[-74900] MRO Centaur Stage (spacecraft)
+-123846	[-123846] MSAT-1 (spacecraft)
+-760	[-760] MSL Centaur Stage (spacecraft)
+-65	[-65] MarCO-A (spacecraft) [Wall-E]
+-66	[-66] MarCO-B (spacecraft) [Eva]
+-2	[-2] Mariner 2 (spacecraft)
+-41	[-41] Mars Express (spacecraft) [MEX]
+-53	[-53] Mars Odyssey (spacecraft)
+-3	[-3] Mars Orbiter Mission (MOM) (spacecraft) [Mangalyaan ISRO]
+-74	[-74] Mars Reconnaissance Orbiter (spacecraft) [MRO]
+-76	[-76] Mars Science Laboratory (spacecraft) [MSL]
+-120452	[-120452] NAVSTAR-18 (spacecraft)
+-126407	[-126407] NAVSTAR-48 (spacecraft)
+-138833	[-138833] NAVSTAR-67 (spacecraft)
+-139166	[-139166] NAVSTAR-68 (spacecraft)
+-93	[-93] NEAR (spacecraft)
+-997	[-997] NEOCP 6Q0B44E [B44E]
+-998	[-998] NEOCP J002E3
+-98	[-98] New Horizons (spacecraft) [NH New_Horizons]
+-178	[-178] Nozomi (spacecraft) [Planet-B]
+-138358	[-138358] NuSTAR (spacecraft) [SMEX-11]
+-140059	[-140059] OCO-2 (spacecraft)
+-64	[-64] OSIRIS-REx (spacecraft) [ORX]
+-253	[-253] Opportunity (spacecraft) [MER]
+-39	[-39] Ouna (spacecraft)
+-96	[-96] Parker Solar Probe (spacecraft) [SPP PSP]
+-84	[-84] Phoenix (spacecraft)
+-23	[-23] Pioneer 10 (spacecraft)
+-24	[-24] Pioneer 11 (spacecraft)
+-6	[-6] Pioneer 6 (spacecraft)
+-20	[-20] Pioneer 8 (spacecraft)
+-489	[-489] Planck Space Observatory (spacecraft)
+-5	[-5] Planet-C (spacecraft) [VCO Akatsuki]
+-125789	[-125789] QuikSCAT (spacecraft)
+-226	[-226] Rosetta (spacecraft)
+-113631	[-113631] SATCOM-C5 (spacecraft) [RCA-SATCOM-5]
+-112065	[-112065] SBS-1 (spacecraft)
+-137218	[-137218] SKYTERRA-1 (spacecraft)
+-140376	[-140376] SMAP (spacecraft)
+-21	[-21] SOHO (spacecraft)
+-234900	[-234900] STEREO Third Stage (spacecraft)
+-234	[-234] STEREO-A (spacecraft) [AHEAD]
+-235	[-235] STEREO-B (spacecraft) [BEHIND]
+-136395	[-136395] Solar Dynamics Observatory (spacecraft) [SDO]
+-122911	[-122911] Solidaridad-1 (spacecraft)
+-143205	[-143205] SpaceX Roadster (spacecraft) (Tesla)
+-557	[-557] Spektr-R Observatory (spacecraft)
+-254	[-254] Spirit (spacecraft) [MER]
+-79	[-79] Spitzer Space Telescope [SST SIRTF (spacecraft)]
+-29900	[-29900] Stardust (SRC) (spacecraft)
+-29	[-29] Stardust (bus) (spacecraft) (NExT)
+-128485	[-128485] Swift Observatory (spacecraft)
+-119548	[-119548] TDRS-3 (spacecraft)
+-125994	[-125994] TERRA (spacecraft) [EOS-1]
+-95	[-95] TESS (spacecraft)
+-192	[-192] THEMIS-B (spacecraft) [ARTEMIS-P1]
+-193	[-193] THEMIS-C (spacecraft) [ARTEMIS-P2]
+-122927	[-122927] Telstar-401 (spacecraft)
+-137820	[-137820] Tiangong-1 (spacecraft)
+-55	[-55] Ulysses (spacecraft)
+-248	[-248] Venus Express (spacecraft) [VEX]
+-31	[-31] Voyager 1 (spacecraft)
+-32	[-32] Voyager 2 (spacecraft)
+-113269	[-113269] WESTAR-5 (spacecraft)
+-163	[-163] WISE (spacecraft)
+-165	[-165] WMAP (spacecraft)
+-129520	[-129520] XM-4 (spacecraft)
+-125989	[-125989] XMM-Newton (spacecraft)
+-937012	[-937012] c2019 PDC (simulation) [cPDC19 PDC19-c]
+
