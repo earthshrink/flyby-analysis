@@ -1,5 +1,5 @@
-.SUFFIXES:	.q .j .t
-.SECONDARY:	$(T:=.j)
+.SUFFIXES:	.q .j .t .tex .pdf
+#.SECONDARY:	$(T:=.j)
 
 .q.j:
 	../bin/query $< > $@
@@ -7,15 +7,20 @@
 .j.t:
 	../bin/extract $< > $@
 
+.tex.pdf:
+	pdflatex $<
 
-T=	\
+Q=	\
 	near_los	\
 	near_aos	\
 	near_altair	\
 	near_millstone	\
 
+T=	\
+	near_ssn
 
-All=	$(T:=.t)
+
+All=	$(Q:=.t) $(T:=.pdf)
 
 all:	$(All)
 
