@@ -2,10 +2,10 @@
 #.SECONDARY:	$(T:=.j)
 
 .q.j:
-	../bin/query $< > $@
+	../bin/query.sh $< > $@
 
 .j.t:
-	../bin/extract $< > $@
+	../bin/extract.pl $< > $@
 
 .tex.pdf:
 	pdflatex $<
