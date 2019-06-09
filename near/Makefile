@@ -1,5 +1,5 @@
 .SUFFIXES:	.q .j .t .tex .pdf
-#.SECONDARY:	$(T:=.j)
+.DELETE_ON_ERROR:
 
 .q.j:
 	../bin/query.sh $< > $@
@@ -20,7 +20,9 @@ T=	\
 	near_ssn
 
 
-All=	$(Q:=.t) $(T:=.pdf)
+All= $(T:=.pdf)
 
 all:	$(All)
+
+near_ssn.pdf:	near_ssn.tex near_altair.t near_millstone.t
 

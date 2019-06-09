@@ -28,9 +28,16 @@ print join($sepr,
 	"velocitylag",
 	)."\n";
 
-while (<>) { last if /^\$\$SOE/; }
+my $indata = 0;
 while (<>) {
+	die "Error reported at line $.: $_" if /invalid/i;
 	last if /^\$\$EOE/;
+	if (/^\$\$SOE/) {
+		$indata++;
+		next;
+		}
+	next unless $indata;
+
 	my ($datet, $solar, $lunar, $azi, $ele, $lt, $r, $v, $rest) = split /,/;
 
 	$lt *= 60.0;	# comes in minutes!!
@@ -75,4 +82,6 @@ while (<>) {
 	$pv = $v;
 	$pt = $t;
 	}
+
+die "No data processed" unless $indata;
 

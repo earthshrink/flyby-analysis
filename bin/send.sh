@@ -25,5 +25,8 @@ shift $((OPTIND-1))
 query=$1
 cmd="mutt -F ${0%/*}/offline -s $SUBJECT $BCC $CC horizons@ssd.jpl.nasa.gov"
 
-[ "$query" ] && [ -s $query ] && exec sed "s/__EMAIL__/$EMAIL/" $query | eval $cmd
+[ "$query" ] && [ -s $query ] && {
+	sed "s/__EMAIL__/$EMAIL/" $query | eval $cmd
+	exit
+	}
 echo | eval $cmd
