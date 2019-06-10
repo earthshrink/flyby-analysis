@@ -17,6 +17,8 @@ Q=	\
 	near_millstone	\
 
 T=	\
+	near_goldstone	\
+	near_canberra	\
 	near_ssn
 
 
@@ -25,4 +27,8 @@ All= $(T:=.pdf)
 all:	$(All)
 
 near_ssn.pdf:	near_ssn.tex near_altair.t near_millstone.t
+
+near_goldstone.pdf:	near_goldstone.tex near_los.t
+
+near_canberra.pdf:	near_canberra.tex near_aos.t
 
