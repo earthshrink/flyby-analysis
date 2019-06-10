@@ -1,0 +1,143 @@
+\documentclass{article}
+
+\usepackage{SIunits}
+\usepackage{graphicx}
+\usepackage{tikz}
+\usepackage{pgfplots}
+
+\usepgfplotslibrary{dateplot}
+\usepgfplotslibrary{units}
+\pgfplotsset{compat=1.14}
+
+\begin{document}
+\begin{tikzpicture}
+\tikzset{
+	small dot/.style = {fill = black, circle, scale = 0.3}
+	}
+\footnotesize
+\begin{axis}[
+	scale only axis,
+	scaled ticks = false,
+	date coordinates in=x,
+	date ZERO=2009-11-13 07:00:00,
+	xmin={2009-11-13 07:00:00},
+	xmax={2009-11-13 08:00:00},
+	xticklabel = {\small{\hour:\minute}\\\small{\month-\day}},
+	xticklabel style = {anchor = north, blue, align = center},
+	axis x line* = bottom,
+	ytick align = outside,
+	yticklabel style = {anchor = east, blue},
+	every y tick/.style = {blue},
+	minor y tick num = 0,
+	ytick pos = left,
+	axis y line* = left,
+	y unit = {1000~\kilo\metre},
+	ylabel = {\color{blue}Range},
+	ylabel shift = -0.1cm,
+	y filter/.code = {\pgfmathparse{1e-6*\pgfmathresult}},
+	legend style={
+		at = {(0.37,0.85)},
+		anchor = west,
+		draw = none,
+		font = \small,
+		fill = white
+		}
+	]
+	\addplot [thick, mark = none, blue]
+		table [x index=0, y index=4, col sep=tab, skip first n=1]
+		{rosetta2009_newnorcia.t}
+	;
+	\addlegendentry[blue] {range $r$};
+\end{axis}
+\begin{axis}[
+	scale only axis,
+	date coordinates in=x,
+	date ZERO=2009-11-13 07:00:00,
+	xmin={2009-11-13 07:00:00},
+	xmax={2009-11-13 08:00:00},
+	xticklabel = \empty,
+	xticklabel style = {anchor = north, teal},
+	axis x line* = bottom,
+	ytick align = outside,
+	yticklabel style = {anchor = west, teal},
+	ytick pos = right,
+	every y tick/.style = {teal},
+	minor y tick num = 0,
+	y unit = {\kilo\metre/\second},
+	ylabel = {\color{teal}Range rate},
+	ylabel shift = -0.25cm,
+	axis y line* = right,
+	y filter/.code = {\pgfmathparse{1e-3*\pgfmathresult}},
+	legend style={
+		at = {(0.37,0.80)},
+		anchor = west,
+		draw = none,
+		font = \small,
+		fill = white
+		}
+	]
+	\addplot [thick, mark = none, teal]
+		table [x index=0, y index=5, col sep=tab, skip first n=1]
+		{rosetta2009_newnorcia.t}
+	;
+	\addlegendentry[teal] {range rate $v$};
+\end{axis}
+\begin{axis}[
+	scale only axis,
+	scaled ticks = false,
+	date coordinates in=x,
+	date ZERO=2009-11-13 07:00:00,
+	xmin={2009-11-13 07:00:00},
+	xmax={2009-11-13 09:45:00},
+	xticklabel = \empty,
+	xticklabel style = {anchor = north, red},
+	axis x line* = bottom,
+	ytick align = inside,
+	yticklabel style = {anchor = west, red},
+	yticklabel shift = -0.2cm,
+	every y tick/.style = {red},
+	minor y tick num = 0,
+	y unit = {\milli\metre/\second},
+	ylabel = {\color{red}Velocity lag},
+	ylabel style = { at = { (ticklabel cs:0.45) } },
+	ylabel shift = -1.2cm,
+	axis y line* = left,
+	y filter/.code = {\pgfmathparse{(-2000*\pgfmathresult)}},
+	legend style={
+		at = {(0.37,0.75)},
+		anchor = west,
+		draw = none,
+		font = \small,
+		fill = white
+		}
+	]
+	\addplot [thick, mark = none, red]
+		table [x index=0, y index=8, col sep=tab, skip first n=1]
+		{rosetta2009_newnorcia.t}
+	;
+	\addlegendentry[red] {$\Delta v = -2ar/c$};
+
+	\addplot [dashed] coordinates {
+		(2009-11-13 07:29:25, -0.05)
+		(2009-11-13 07:29:25, 0.57)
+		};
+
+	\addplot [dashed] coordinates {
+		(2009-11-13 07:49:25, -0.05)
+		(2009-11-13 07:49:25, 0.57)
+		};
+
+	\node [small dot, pin = 60:{\small $0.0395~\milli\metre/\second$}]
+		at (axis cs:2009-11-13 07:29:25, 0.0395) {};
+
+	\node [small dot, pin = 30:{\small $-530~\milli\metre/\second$}]
+		at (axis cs:2009-11-13 07:49:25, -530) {};
+
+	\node [rotate = 90, anchor = north] %coordinate, pin = above left:{\small LOS}]
+		at (axis cs:2009-11-13 07:29:25, -800) {\small\it AOS New Norcia};
+
+	\node [rotate = -90, anchor = north] %coordinate, pin = above left:{\small LOS}]
+		at (axis cs:2009-11-13 07:49:25, -475) {\small\it LOS New Norcia};
+\end{axis}
+\end{tikzpicture}
+\end{document}

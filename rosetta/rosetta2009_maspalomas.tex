@@ -1,0 +1,146 @@
+\documentclass{article}
+
+\usepackage{SIunits}
+\usepackage{graphicx}
+\usepackage{tikz}
+\usepackage{pgfplots}
+
+\usepgfplotslibrary{dateplot}
+\usepgfplotslibrary{units}
+\pgfplotsset{compat=1.14}
+
+\begin{document}
+\begin{tikzpicture}[xscale=0.75,yscale=0.5]
+\tikzset{
+	small dot/.style = {fill = black, circle, scale = 0.3}
+	}
+\footnotesize
+\begin{axis}[
+	scale only axis,
+	scaled ticks = false,
+	date coordinates in=x,
+	date ZERO=2009-11-13 07:30:00,
+	xmin={2009-11-13 07:30:00},
+	xmax={2009-11-13 10:30:00},
+	xticklabel = {\tiny{\hour:\minute}\\\tiny{\month-\day}},
+	xticklabel style = {anchor = north, blue, align = center},
+	axis x line* = bottom,
+	ytick align = outside,
+	yticklabel style = {anchor = east, blue},
+	every y tick/.style = {blue},
+	minor y tick num = 0,
+	ytick pos = left,
+	axis y line* = left,
+	y unit = {1000~\kilo\metre},
+	ylabel = {\color{blue}Range},
+	ylabel shift = -0.1cm,
+	y filter/.code = {\pgfmathparse{1e-6*\pgfmathresult}},
+	legend style={
+		at = {(0.35,0.70)},
+		anchor = west,
+		draw = none,
+		font = \tiny,
+		fill = white
+		}
+	]
+	\addplot [thick, mark = none, blue]
+		table [x index=0, y index=4, col sep=tab, skip first n=1]
+		{rosetta2009_maspalomas.t}
+	;
+	\addlegendentry[blue] {range $r$};
+\end{axis}
+\begin{axis}[
+	scale only axis,
+	date coordinates in=x,
+	date ZERO=2009-11-13 07:30:00,
+	xmin={2009-11-13 07:30:00},
+	xmax={2009-11-13 10:30:00},
+	xticklabel = \empty,
+	xticklabel style = {anchor = north, teal},
+	axis x line* = bottom,
+	ytick align = outside,
+	yticklabel style = {anchor = west, teal},
+	ytick pos = right,
+	every y tick/.style = {teal},
+	minor y tick num = 0,
+	ymin = -15,
+	ymax = +15,
+	y unit = {\kilo\metre/\second},
+	ylabel = {\color{teal}Range rate},
+	ylabel shift = -0.25cm,
+	axis y line* = right,
+	y filter/.code = {\pgfmathparse{1e-3*\pgfmathresult}},
+	legend style={
+		at = {(0.35,0.65)},
+		anchor = west,
+		draw = none,
+		font = \tiny,
+		fill = white
+		}
+	]
+	\addplot [thick, mark = none, teal]
+		table [x index=0, y index=5, col sep=tab, skip first n=1]
+		{rosetta2009_maspalomas.t}
+	;
+	\addlegendentry[teal] {range rate $v$};
+\end{axis}
+\begin{axis}[
+	scale only axis,
+	scaled ticks = false,
+	date coordinates in=x,
+	date ZERO=2009-11-13 07:30:00,
+	xmin={2009-11-13 07:30:00},
+	xmax={2009-11-13 10:30:00},
+	xticklabel = \empty,
+	xticklabel style = {anchor = north, red},
+	axis x line* = bottom,
+	ytick align = inside,
+	yticklabel style = {anchor = west, red},
+	yticklabel shift = -2.5cm,
+	every y tick/.style = {red},
+	minor y tick num = 0,
+	y unit = {\milli\metre/\second},
+	ylabel = {\color{red}Velocity lag},
+	ylabel style = { at = { (ticklabel cs:0.20) } },
+	ylabel shift = -1.3cm,
+	axis y line = right,
+	y filter/.code = {\pgfmathparse{(-2000*\pgfmathresult)}},
+	legend style={
+		at = {(0.35,0.60)},
+		anchor = west,
+		draw = none,
+		font = \tiny,
+		fill = white
+		}
+	]
+
+	\addplot [smooth, mark = none, red]
+		table [x index=0, y index=8, col sep=tab, skip first n=1]
+		{rosetta2009_maspalomas.t}
+	;
+	\addlegendentry[red] {$\Delta v = -2ar/c$};
+
+	\addplot [dashed] coordinates {
+		(2009-11-13 08:06:07, 0)
+		(2009-11-13 08:06:07, 0.38)
+		};
+
+	\addplot [dashed] coordinates {
+		(2009-11-13 10:10:07, 0)
+		(2009-11-13 10:10:07, 0.38)
+		};
+
+	\node [small dot, pin = 30:{\tiny $-600~\milli\metre/\second$}]
+		at (axis cs:2009-11-13 08:06:07, -600) {};
+
+	\node [small dot, pin = -120:{\tiny $-4.385~\milli\metre/\second$}]
+		at (axis cs:2009-11-13 10:10:07, -4.385) {};
+
+	\node [rotate = 90, anchor = south] %coordinate, pin = above left:{\tiny LOS}]
+		at (axis cs:2009-11-13 08:06:07, -450) {\tiny\it AOS Maspalomas};
+
+	\node [rotate = -90, anchor = south] %coordinate, pin = above left:{\tiny LOS}]
+		at (axis cs:2009-11-13 10:10:07, -450) {\tiny\it LOS Maspalomas};
+\end{axis}
+\end{tikzpicture}
+\end{document}
