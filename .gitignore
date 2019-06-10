@@ -1,2 +1,8 @@
 bin/env
 bin/offline
+*.t
+*.j
+*.pdf
+*.aux*
+*.log
+*.html

@@ -30,7 +30,7 @@ print join($sepr,
 
 my $indata = 0;
 while (<>) {
-	die "Error reported at line $.: $_" if /invalid/i;
+	die "Error reported at line $.: $_" if /^\s*(invalid|no\s|multiple)/i;
 	last if /^\$\$EOE/;
 	if (/^\$\$SOE/) {
 		$indata++;

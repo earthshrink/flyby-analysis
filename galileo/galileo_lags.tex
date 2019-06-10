@@ -1,0 +1,122 @@
+\documentclass{article}
+
+\usepackage{SIunits}
+\usepackage{graphicx}
+\usepackage{tikz}
+\usepackage{pgfplots}
+
+\usepgfplotslibrary{dateplot}
+\usepgfplotslibrary{units}
+\pgfplotsset{compat=1.14}
+
+\begin{document}
+\begin{tikzpicture}[xscale=0.8,yscale=0.65]
+\tikzset{
+	small dot/.style = {fill = black, circle, scale = 0.3}
+	}
+\footnotesize
+\begin{axis}[
+	scale only axis,
+	scaled ticks = false,
+	date coordinates in=x,
+	date ZERO=1990-12-08,
+	xmin={1990-12-08 18:00:00},
+	xmax={1990-12-08 23:30:00},
+	%
+	xticklabel = {\small{\hour:\minute}\\\small{\month-\day}},
+	xticklabel style = {anchor = north, blue, align = center},
+	axis x line* = bottom,
+	%
+	ytick align = outside,
+	yticklabel style = {anchor = east, blue},
+	every y tick/.style = {blue},
+	minor y tick num = 0,
+	ytick pos = left,
+	axis y line* = left,
+	y unit = {\metre/\second},
+	ylabel = {\color{blue}Velocity lag},
+	ylabel shift = -0.2cm,
+	y filter/.code = {\pgfmathparse{-\pgfmathresult}},
+	%
+	legend style={
+		at = {(0.72,0.20)},
+		anchor = west,
+		draw = none,
+		font = \small,
+		fill = white
+		}
+	]
+	\addplot [thick, mark = none, blue]
+		table [x index=0, y index=8, col sep=tab, skip first n=1]
+		{galileo_madrid.t}
+	;
+	\addlegendentry[blue] {Madrid};
+
+	\addplot [thick, mark = none, teal]
+		table [x index=0, y index=8, col sep=tab, skip first n=1]
+		{galileo_goldstone.t}
+	;
+	\addlegendentry[teal] {Goldstone};
+
+	\addplot [thick, mark = none, red]
+		table [x index=0, y index=8, col sep=tab, skip first n=1]
+		{galileo_canberra.t}
+	;
+	\addlegendentry[red] {Canberra};
+
+	\addplot [dashed, black] coordinates {
+		(1990-12-08 00:00:00, 0.0)
+		(1990-12-09 00:00:00, 0.0)
+		};
+
+	\addplot [dashed, blue] coordinates {
+		(1990-12-08 19:39:08, -0.05)
+		(1990-12-08 19:39:08, 0.58)
+		};
+
+	\addplot [dashed, teal] coordinates {
+		(1990-12-08 20:48:09, 0.58)
+		(1990-12-08 20:48:09, -0.05)
+		};
+
+	\addplot [dashed, teal] coordinates {
+		(1990-12-08 21:18:09, 0.58)
+		(1990-12-08 21:18:09, -0.05)
+		};
+
+	\addplot [dashed, red] coordinates {
+		(1990-12-08 21:20:09, 0.58)
+		(1990-12-08 21:20:09, -0.05)
+		};
+
+	\node [rotate = 90, anchor = south, blue]
+		at (axis cs:1990-12-08 19:39:08, -0.42) {\small\it LOS Madrid $\sim$ 19:39:08};
+
+		\node [small dot, pin = 150:{\small
+			$26.08~\milli\metre/\second$}]
+			at (axis cs:1990-12-08 19:39:08, 0.02608) {};
+
+	\node [rotate = 90, anchor = north, teal]
+		at (axis cs:1990-12-08 20:48:08, -0.42) {\small\it AOS Goldstone $\sim$ 20:48:08};
+
+		\node [small dot, pin = {[pin distance=1cm]
+			-30:{\small $-116.9\milli\metre/\second$}} ]
+			at (axis cs:1990-12-08 20:48:08, -0.1169) {};
+
+		\node [small dot, pin = {[pin distance=0.5cm]
+			20:{\small $24.42\milli\metre/\second$}} ]
+			at (axis cs:1990-12-08 21:18:00, 0.02442) {};
+
+	\node [rotate = -90, anchor = north, teal]
+		at (axis cs:1990-12-08 21:18:08, -0.42) {\small\it LOS Goldstone $\sim$ 21:18:08 };
+
+	\node [rotate = 90, anchor = north, red]
+		at (axis cs:1990-12-08 21:20:08, -0.42) {\small\it AOS Canberra $\sim$ 21:20:08 };
+
+		\node [small dot, pin = -45:{\small
+			$-56.76\milli\metre/\second$}]
+			at (axis cs:1990-12-08 21:20:08, -0.05676) {};
+
+\end{axis}
+\end{tikzpicture}
+\end{document}
