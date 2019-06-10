@@ -42,31 +42,39 @@ and thus with no dependence on
 	an expanding space-time metric
 		as currently required for
 			the cosmological shifts. 
-The only other velocity variable available in the context
+The only other velocity variable available
 	for interpreting these range errors
 		in terms of time
-	is the speed of light _c_.
-This is therefore
-	the only possible alternative explanation,
+	is the speed of light _c_,
+i.e.,
+	as _&Delta;r=-c.&Delta;t_.
+That makes it
+	the only alternative explanation
+		at all allowed by the context,
 but it entails
 	a difference in speeds between
 		radar and telemetry signals,
 	in itself
 		an aether-theoretic hypothesis
 	[4],
-and would also not explain how
+and crucially would not explain how
 	this difference is peculiar to
 		NEAR's flyby
 	and absent in Juno's,
 		which was at almost the same altitude
 	[5].
-On the other hand,
-the excess lags are implied by
+The excess lags are thus
+	the only possible explanation,
+and are implied by
 	the carrier phase lock condition at the transponder
 		as a chirp spectral mode
-	[3],
-and the transponder carrier loop design
-	was changed after NEAR
+	[3].
+The specificity to older spacecrafts
+	including Galileo, NEAR and Rosetta
+correlates with
+	a substantial change in
+		the transponder carrier loop design
+	after Cassini
 	[6].
 
 
@@ -76,9 +84,15 @@ the traditional notion of _translational symmetry_ of waves
 is specific to
 	sinusoidal eigenfunctions
 		and therefore to Fourier spectra.
-NEAR's radar residuals were already a 5&sigma; dataset
-	against this notion.
-There are other deep issues with
+The standard deviation S = 126.59 m
+	and mean square error R = 654.153 m
+		&equiv; 5.1675 S
+	(see JPL's own annotation at the top of
+		the [residuals figure](ref/Antreasian/fig10_near_SSNrange.pdf))
+makes NEAR's radar residuals already a 5&sigma; dataset
+	against translational symmetry being
+		a law of nature.
+There are other, deeper issues with
 	current astrophysics,
 including that
 	the nuclear distributions and
