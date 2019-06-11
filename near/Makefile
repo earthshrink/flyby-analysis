@@ -2,7 +2,7 @@
 .DELETE_ON_ERROR:
 
 .q.j:
-	../bin/query.sh $< > $@
+	../bin/query.pl $< > $@
 
 .j.t:
 	../bin/extract.pl $< > $@
