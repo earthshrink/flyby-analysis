@@ -95,6 +95,47 @@
 		\addlegendentry[red] {\SI{\pm 5}{\metre} bounds for Millstone};
 
 	\end{axis}
+	\begin{axis} [
+		date coordinates in = x,
+		date ZERO=1998-01-23,
+		xmin={1998-01-23 06:12:00},
+		xmax={1998-01-23 06:52:00},
+		scaled ticks = false,
+		tick align = inside,
+		xtick pos = left,
+		xticklabel = {\tiny \hour:\minute},
+		xticklabel style = {anchor = south, color = blue},
+		%
+		minor y tick num = 0,
+		ylabel = {},
+		yticklabel = {\tiny ~\pgfmathprintnumber{\tick} \si{\kilo\metre}},
+		yticklabel shift = -0.1cm,
+		yticklabel style = {anchor = east, color = red},
+		y filter/.code = {\pgfmathparse{1e-3*\pgfmathresult}},
+		axis y line* = right,
+		%
+		grid = none,
+		legend style={
+			at = {(0.50,0.85)},
+			anchor = north,
+			draw = none,
+			font = \tiny,
+			fill = none
+			}
+		]
+
+		\addplot [mark = none, dashed, blue]
+			table [x index=0, y index=4, col sep=tab, skip first n=1]
+			{../near/near_altair.t};
+
+		\addlegendentry[blue] {$r$ for ALTAIR (\si{\kilo\metre})};
+
+		\addplot [mark = none, dashed, red]
+			table [x index=0, y index=4, col sep=tab, skip first n=1]
+			{../near/near_millstone.t};
+
+		\addlegendentry[red] {$r$ for Millstone (\si{\kilo\metre})};
+	\end{axis}
 	\end{tikzpicture}
 	};
 \end{tikzpicture}

@@ -15,6 +15,7 @@
 	small dot/.style = {fill = black, circle, scale = 0.3}
 	}
 \footnotesize
+{
 \begin{axis}[
 	scale only axis,
 	scaled ticks = false,
@@ -31,10 +32,10 @@
 	minor y tick num = 0,
 	ytick pos = left,
 	axis y line* = left,
-	y unit = {\kilo\metre},
+	y unit = {1000~\kilo\metre},
 	ylabel = {\color{blue}Range},
 	ylabel shift = -0.1cm,
-	y filter/.code = {\pgfmathparse{1e-3*\pgfmathresult}},
+	y filter/.code = {\pgfmathparse{1e-6*\pgfmathresult}},
 	legend style={
 		at = {(0.65,0.20)},
 		anchor = west,
@@ -63,12 +64,14 @@
 	ytick pos = right,
 	every y tick/.style = {teal},
 	minor y tick num = 0,
+	ymin = -15,
+	ymax = +15,
 	y unit = {\kilo\metre/\second},
 	ylabel = {\color{teal}Range rate},
 	%ylabel style = { rotate = 180 },
 	ylabel shift = -0.25cm,
 	axis y line* = right,
-	y filter/.code = {\pgfmathparse{\pgfmathresult}},
+	y filter/.code = {\pgfmathparse{1e-3*\pgfmathresult}},
 	legend style={
 		at = {(0.65,0.15)},
 		anchor = west,
@@ -137,5 +140,6 @@
 	\node [small dot, pin = 150:{\small $7.0~\milli\metre/\second$}]
 		at (axis cs:1998-01-23 05:41:00, 7.00) {};
 \end{axis}
+}
 \end{tikzpicture}
 \end{document}

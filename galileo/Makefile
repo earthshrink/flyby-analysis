@@ -16,7 +16,8 @@ Q=	\
 	galileo_madrid
 
 T=	\
-	galileo_doppler		\
+	galileo_doppler_velocity	\
+	galileo_doppler_acceleration	\
 	galileo_lags
 
 
@@ -24,7 +25,9 @@ All= $(T:=.pdf)
 
 all:	$(All)
 
-galileo_doppler.pdf:	galileo_doppler.tex $(Q:=.t)
+galileo_doppler_velocity.pdf:	galileo_doppler_velocity.tex $(Q:=.t)
+
+galileo_doppler_acceleration.pdf:	galileo_doppler_acceleration.tex $(Q:=.t)
 
 galileo_lags.pdf:	galileo_lags.tex $(Q:=.t)
 
