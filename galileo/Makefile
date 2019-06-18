@@ -1,6 +1,8 @@
 .SUFFIXES:	.q .j .t .tex .pdf
 .DELETE_ON_ERROR:
 
+LATEXOPT=-shell-escape -file-line-error
+
 .q.j:
 	../bin/query.pl $< > $@
 
@@ -8,7 +10,7 @@
 	../bin/extract.pl $< > $@
 
 .tex.pdf:
-	pdflatex $<
+	pdflatex $(LATEXOPT) $<
 
 Q=	\
 	galileo_canberra	\

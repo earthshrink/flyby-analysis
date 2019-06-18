@@ -7,9 +7,13 @@
 
 \usepgfplotslibrary{dateplot}
 \usepgfplotslibrary{units}
+\usetikzlibrary{external}
+\tikzexternalize
 \pgfplotsset{compat=1.14}
 
 \begin{document}
+\tikzsetnextfilename{fig_galileo_doppler_acceleration}
+\tikzset{external/force remake}
 \begin{tikzpicture}
 
 \node (galileo) at (0,0) {

@@ -7,8 +7,12 @@
 
 \usepgfplotslibrary{dateplot}
 \usepgfplotslibrary{units}
+\usetikzlibrary{external}
+\tikzexternalize
 
 \begin{document}
+\tikzsetnextfilename{fig_near_ssn}
+\tikzset{external/force remake}
 \begin{tikzpicture}
 
 \node (ssn) at (0,0) {

@@ -7,10 +7,14 @@
 
 \usepgfplotslibrary{dateplot}
 \usepgfplotslibrary{units}
+\usetikzlibrary{external}
+\tikzexternalize
 \pgfplotsset{compat=1.14}
 
 \begin{document}
-\begin{tikzpicture}
+\tikzsetnextfilename{fig_near_goldstone}
+\tikzset{external/force remake}
+\begin{tikzpicture}[xscale=0.75,yscale=0.5]
 \tikzset{
 	small dot/.style = {fill = black, circle, scale = 0.3}
 	}
