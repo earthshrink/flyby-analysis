@@ -6,3 +6,6 @@ bin/offline
 *.aux*
 *.log
 *.html
+*.dep
+*.dpth
+*.md5
