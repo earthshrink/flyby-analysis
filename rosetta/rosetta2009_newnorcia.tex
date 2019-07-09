@@ -41,7 +41,7 @@
 	ylabel shift = -0.1cm,
 	y filter/.code = {\pgfmathparse{1e-6*\pgfmathresult}},
 	legend style={
-		at = {(0.17,0.85)},
+		at = {(0.17,0.30)},
 		anchor = west,
 		draw = none,
 		font = \small,
@@ -76,7 +76,7 @@
 	axis y line* = right,
 	y filter/.code = {\pgfmathparse{1e-3*\pgfmathresult}},
 	legend style={
-		at = {(0.17,0.80)},
+		at = {(0.17,0.25)},
 		anchor = west,
 		draw = none,
 		font = \small,
@@ -111,7 +111,7 @@
 	axis y line* = left,
 	y filter/.code = {\pgfmathparse{(-2000*\pgfmathresult)}},
 	legend style={
-		at = {(0.17,0.75)},
+		at = {(0.17,0.20)},
 		anchor = west,
 		draw = none,
 		font = \small,
@@ -140,11 +140,16 @@
 	\node [rotate = -90, anchor = north] %coordinate, pin = above left:{\small LOS}]
 		at (axis cs:2009-11-13 07:49:25, -475) {\small\it LOS New Norcia};
 
-	\tracingmacros=1
-	\node [small dot]%, pin = -30:{x}] %{\tiny $0.0395~\milli\metre/\second$}]
+	\node [small dot]
 		at (axis cs:2009-11-13 07:29:25, 0.0395) {};
 
-	\node [small dot]%, pin = 30:{\tiny $-530~\milli\metre/\second$}]
+	\node [pin = 30:{\tiny $0.0395~\milli\metre/\second$}]
+		at (axis cs:2009-11-13 07:29:25, 0.0395) {};
+
+	\node [small dot]
+		at (axis cs:2009-11-13 07:49:25, -530) {};
+
+	\node [pin = -80:{\tiny $-530~\milli\metre/\second$}]
 		at (axis cs:2009-11-13 07:49:25, -530) {};
 \end{axis}
 }
