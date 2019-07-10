@@ -1,0 +1,12 @@
+bin/env
+bin/offline
+*.q
+*.t
+*.j
+*.tex
+*.aux*
+*.log
+*.html
+*.dep
+*.dpth
+*.md5
