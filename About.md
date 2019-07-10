@@ -175,6 +175,6 @@ Paper no. 7057-11 [arXiv:0812.1004v1](https://arXiv.org/abs/0812.1004v1) (2008)
 
 <sup>a</sup>
 In the basic sense that
-	the subscribed age of the universe is barely 2.7 times
+	the subscribed age of the universe is barely three times
 		that of the sun.
 
