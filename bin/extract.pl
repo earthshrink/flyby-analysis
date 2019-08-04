@@ -26,6 +26,7 @@ print join($sepr,
 	"acceleration",
 	"rangelag",
 	"velocitylag",
+	"ratedoppler",
 	)."\n";
 
 my $indata = 0;
@@ -76,6 +77,7 @@ while (<>) {
 		(defined $a ? $a : ""),
 		(defined $rlag ? $rlag : ""),
 		(defined $vlag ? $vlag : ""),
+		(defined $a ? $a/$v : ""),
 		)."\n";
 
 	#last if $n++ > 10;
