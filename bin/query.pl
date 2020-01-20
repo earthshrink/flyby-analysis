@@ -17,8 +17,9 @@ while (<>)
   # Skip comments:
   next if (/^ *!/);
   #
-  # Strip off trailing line-endind:
+  # Trim
   chomp;
+  s/^ //;
   #
   # Remove any spaces surrounding '=' for compactness:
   s/ *= */=/;
