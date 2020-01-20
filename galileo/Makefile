@@ -4,10 +4,10 @@
 LATEXOPT=-shell-escape -file-line-error
 
 .q.j:
-	../bin/query.pl $< > $@
+	../bin/query.py $< > $@
 
 .j.t:
-	../bin/extract.pl $< > $@
+	../bin/extract.py $< > $@
 
 .tex.pdf:
 	pdflatex $(LATEXOPT) $<
