@@ -46,3 +46,8 @@ rosetta2009_maspalomas.pdf: rosetta2009_maspalomas.tex rosetta2009_maspalomas.t
 
 rosetta2009_newnorcia.pdf: rosetta2009_newnorcia.tex rosetta2009_newnorcia.t
 
+clean:
+	rm -f *.j *.t *.dep *.dpth *.md5 *.aux* *.log
+
+err:
+	tail -n 100 $$(ls -t *.log | sed -n 2p)

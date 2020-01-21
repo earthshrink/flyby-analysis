@@ -34,3 +34,9 @@ near_ssn.pdf:	near_ssn.tex near_altair.t near_millstone.t
 near_goldstone.pdf:	near_goldstone.tex near_los.t
 
 near_canberra.pdf:	near_canberra.tex near_aos.t
+
+clean:
+	rm -f *.j *.t *.dep *.dpth *.md5 *.aux* *.log
+
+err:
+	tail -n 100 $$(ls -t *.log | sed -n 2p)

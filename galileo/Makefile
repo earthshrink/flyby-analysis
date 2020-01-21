@@ -33,3 +33,8 @@ galileo_doppler_acceleration.pdf:	galileo_doppler_acceleration.tex $(Q:=.t)
 
 galileo_lags.pdf:	galileo_lags.tex $(Q:=.t)
 
+clean:
+	rm -f *.j *.t *.dep *.dpth *.md5 *.aux* *.log
+
+err:
+	tail -n 100 $$(ls -t *.log | sed -n 2p)
