@@ -6,11 +6,18 @@ and
 	NASA's Doppler-integrated range
 during NEAR's Earth flyby on 23rd January 1998 
 	[1].
-These radar residuals had remained unconsidered
-	in all of JPL's subsequent papers on
+These radar residuals have never been considered
+	in JPL's subsequent papers on
 		various anomalies 
-	[2].
-They were shown in
+	(e.g., [2]).
+In fact,
+the radar data also obtained for Galileo
+	had not even been examined till after NEAR's flyby
+	[1],
+and were eventually found similar,
+	as privately revealed by J K Campbell
+		early on in this work.
+NEAR's radar residuals were shown in
 	[3]
 to not only closely fit
 	the instantaneous range as _range lags_
@@ -78,6 +85,23 @@ correlates with
 	[6].
 
 
+Coupling to the Earth's magnetic field
+	has been hypothesized
+to reconcile
+	the absence of the anomaly in later flybys
+		with a frame-dragging explanation for the anomalies
+	[7].
+There is clearly no way to reconcile
+	the radar residuals with any space-time mechanism,
+however,
+even if we ignored their _kilometre-scale_ magnitudes
+	[8],
+again because
+	the radar and telemetry signals followed essentially
+		the same paths,
+	as remarked.
+
+
 In hindsight,
 the traditional notion of _translational symmetry_ of waves
 	against range proportional shifts
@@ -102,12 +126,12 @@ including that
 but for the rather limited age of the universe<sup>a</sup>
 	imposed by the translational symmetry premise
 		for the Hubble shifts
-	(cf [7]).
+	(cf [9]).
 The practical significance of
 	the chirp modes
 for communication, radar and imaging technologies
 	here on Earth
-	[8]
+	[10]
 seems to far outweigh
 	the philosophical issues of astrophysics,
 	however.
@@ -149,15 +173,23 @@ AAS, 14-435 (2014)
 
 [6] V Guruprasad,
 _Conclusive analysis and cause of the flyby anomaly_,
-[IEEE NAECON](https://attend.ieee.org/naecon-2019)
-(to be presented, 2019) 
+Presented at [IEEE NAECON 2019](https://attend.ieee.org/naecon-2019/wp-content/uploads/sites/29/2019/08/Guruprasad-483-Radar-2.pdf). ([Proceedings preprint](https://doi.org/10.36227/techrxiv.10252871))
 
 [7]
+B M Mirza,
+_The Flyby Anomaly and the Gravitational-Magnetic Field Induced Frame-Dragging Effect around the Earth_,
+MNRAS, 489, 3, 3232-3235, [arXiv:1909.08083](https://arXiv.org/abs/1909.08083) (2019) 
+
+[8]
+V Guruprasad, _Comment on "The Flyby Anomaly and the Gravitational-Magnetic Field Induced Frame-Dragging Effect around the Earth"_,
+[arXiv:1911.05453](https://arXiv.org/abs/1911.05453) (2019) 
+
+[9]
 A A Penzias,
 _The Origin of Elements_,
 [Nobel Lecture (1978)](https://www.nobelprize.org/uploads/2018/06/penzias-lecture.pdf)
 
-[8] V Guruprasad,
+[10] V Guruprasad,
 _A wave effect enabling universal frequency scaling,
 monostatic passive radar,
 incoherent aperture synthesis,
@@ -165,7 +197,7 @@ and
 general immunity to jamming and interference_,
 MILCOM 2005 [arXiv:0812.2652v1](https://arXiv.org/abs/0812.2652v1).
 Also: _Relaxed bandwidth sharing with Space Division Multiplexing_,
-IEEE WCNC 2005.  
+IEEE WCNC 2005;
 _Prediction of spectral shifts proportional to source distances by time-varying frequency or wavelength selection_,
 Proc. Nature of Light II: Light in Nature,
 SPIE Optics+Photonics Symp,
