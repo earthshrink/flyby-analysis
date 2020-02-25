@@ -15,6 +15,10 @@
 \tikzset{external/force remake}
 \begin{tikzpicture}
 
+\tikzset{
+	exclude point/.style = {fill = black, opacity = 0.25, circle, scale = 0.5}
+	}
+
 \node (ssn) at (0,0) {
 	\includegraphics[width=.9\textwidth] {Antreasian/fig10_near_SSNrange.pdf}
 	};
@@ -98,6 +102,12 @@
 
 		\addlegendentry[red] {\SI{\pm 5}{\metre} bounds for Millstone};
 
+		\node [exclude point] at (axis cs:1998-01-23 06:12.40, -790) {};
+		\node [exclude point] at (axis cs:1998-01-23 06:13.75, -935) {};
+		\node [exclude point] at (axis cs:1998-01-23 06:15.15, -955) {};
+		\node [exclude point] at (axis cs:1998-01-23 06:16.45, -838) {};
+		\node [exclude point] at (axis cs:1998-01-23 06:17.75, -920) {};
+		\node [exclude point] at (axis cs:1998-01-23 06:23.90, -780) {};
 	\end{axis}
 	\begin{axis} [
 		date coordinates in = x,
