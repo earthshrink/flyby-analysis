@@ -19,6 +19,10 @@
 	exclude point/.style = {fill = black, opacity = 0.25, circle, scale = 0.5}
 	}
 
+\tikzset{
+	proof point/.style = {fill = green, opacity = 0.75, circle, scale = 0.25}
+	}
+
 \node (ssn) at (0,0) {
 	\includegraphics[width=.9\textwidth] {Antreasian/fig10_near_SSNrange.pdf}
 	};
@@ -120,6 +124,16 @@
 		\node [exclude point] at (axis cs:1998-01-23 06:16.45, -838) {};
 		\node [exclude point] at (axis cs:1998-01-23 06:17.75, -920) {};
 		\node [exclude point] at (axis cs:1998-01-23 06:23.90, -780) {};
+
+		\node [proof point] at (axis cs:1998-01-23 06:25.20, -730) {};
+		\node [proof point] at (axis cs:1998-01-23 06:36.80, -605) {};
+		\node [proof point] at (axis cs:1998-01-23 06:44.80, -505) {};
+
+		% Altair: 39 points
+		% => Millstone: 105 - 39 = 66
+		% => less 6 outliers: 60 points
+		% => spread: min -730, max -505
+
 	\end{axis}
 	\begin{axis} [
 		date coordinates in = x,
