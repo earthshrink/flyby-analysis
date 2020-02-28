@@ -23,6 +23,10 @@
 	proof point/.style = {fill = green, opacity = 0.75, circle, scale = 0.25}
 	}
 
+\tikzset{
+	mark point/.style = {fill = violet, opacity = 0.50, circle, scale = 0.25}
+	}
+
 \node (ssn) at (0,0) {
 	\includegraphics[width=.9\textwidth] {Antreasian/fig10_near_SSNrange.pdf}
 	};
@@ -118,6 +122,7 @@
 
 		\addlegendentry[red] {\SI{\pm 5}{\metre} bounds for Millstone};
 
+		% millstone
 		\node [exclude point] at (axis cs:1998-01-23 06:12.40, -790) {};
 		\node [exclude point] at (axis cs:1998-01-23 06:13.75, -935) {};
 		\node [exclude point] at (axis cs:1998-01-23 06:15.15, -955) {};
@@ -129,10 +134,62 @@
 		\node [proof point] at (axis cs:1998-01-23 06:36.80, -605) {};
 		\node [proof point] at (axis cs:1998-01-23 06:44.80, -505) {};
 
-		% Altair: 39 points
-		% => Millstone: 105 - 39 = 66
-		% => less 6 outliers: 60 points
-		% => spread: min -730, max -505
+		% altair
+		\node [mark point] at (axis cs:1998-01-23 06:14.50, -929) {};
+		\node [mark point] at (axis cs:1998-01-23 06:15.90, -929) {};
+		\node [mark point] at (axis cs:1998-01-23 06:16.34, -908) {};
+
+		\node [mark point] at (axis cs:1998-01-23 06:17.25, -894) {};
+		\node [mark point] at (axis cs:1998-01-23 06:17.75, -881) {};
+		\node [mark point] at (axis cs:1998-01-23 06:18.67, -867) {};
+
+		\node [mark point] at (axis cs:1998-01-23 06:20.50, -853) {};
+		\node [mark point] at (axis cs:1998-01-23 06:21.45, -847) {};
+
+		\node [mark point] at (axis cs:1998-01-23 06:22.90, -832) {};
+		\node [mark point] at (axis cs:1998-01-23 06:23.45, -818) {};
+		\node [mark point] at (axis cs:1998-01-23 06:23.94, -825) {};
+		\node [mark point] at (axis cs:1998-01-23 06:24.18, -805) {};
+		\node [mark point] at (axis cs:1998-01-23 06:24.90, -804) {};
+
+		\node [mark point] at (axis cs:1998-01-23 06:27.22, -779) {};
+
+		\node [mark point] at (axis cs:1998-01-23 06:31.40, -717) {};
+
+		\node [mark point] at (axis cs:1998-01-23 06:34.02, -695) {};
+
+		\node [mark point] at (axis cs:1998-01-23 06:35.42, -666) {};
+		\node [mark point] at (axis cs:1998-01-23 06:35.93, -671) {};
+
+		\node [mark point] at (axis cs:1998-01-23 06:37.36, -658) {};
+
+		\node [mark point] at (axis cs:1998-01-23 06:38.65, -614) {};
+		\node [mark point] at (axis cs:1998-01-23 06:39.15, -598) {};
+
+		\node [mark point] at (axis cs:1998-01-23 06:40.35, -597) {};
+		\node [mark point] at (axis cs:1998-01-23 06:40.64, -588) {};
+
+		\node [mark point] at (axis cs:1998-01-23 06:42.00, -575) {};
+		\node [mark point] at (axis cs:1998-01-23 06:42.35, -567) {};
+
+		\node [mark point] at (axis cs:1998-01-23 06:43.10, -553) {};
+		\node [mark point] at (axis cs:1998-01-23 06:43.35, -556) {};
+		\node [mark point] at (axis cs:1998-01-23 06:43.58, -544) {};
+		\node [mark point] at (axis cs:1998-01-23 06:43.85, -533) {};
+
+		\node [mark point] at (axis cs:1998-01-23 06:44.89, -520) {};
+		\node [mark point] at (axis cs:1998-01-23 06:45.85, -512) {};
+		\node [mark point] at (axis cs:1998-01-23 06:46.10, -501) {};
+
+		\node [mark point] at (axis cs:1998-01-23 06:47.63, -482) {};
+		\node [mark point] at (axis cs:1998-01-23 06:48.85, -467) {};
+		\node [mark point] at (axis cs:1998-01-23 06:49.15, -472) {};
+
+		\node [mark point] at (axis cs:1998-01-23 06:50.20, -450) {};
+		\node [mark point] at (axis cs:1998-01-23 06:50.58, -446) {};
+		\node [mark point] at (axis cs:1998-01-23 06:51.05, -444) {};
+
+		\node [mark point] at (axis cs:1998-01-23 06:51.54, -454) {};
 
 	\end{axis}
 	\begin{axis} [
