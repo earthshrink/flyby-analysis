@@ -11,6 +11,8 @@
 \tikzexternalize
 \pgfplotsset{compat=1.14}
 
+\def\short#1{\csname @gobbletwo\expandafter\endcsname\number#1}
+
 \begin{document}
 \tikzsetnextfilename{fig_near_goldstone}
 \tikzset{external/force remake}
@@ -27,7 +29,7 @@
 	date ZERO=1998-01-23,
 	xmin={1998-01-23 00:00:00},
 	xmax={1998-01-23 12:00:00},
-	xticklabel = {\small{\hour:\minute}\\\small{\month-\day}},
+	xticklabel = {\small{\short{\year}-\month-\day}\\\small{\hour:\minute}},
 	xticklabel style = {anchor = north, blue, align = center},
 	axis x line* = bottom,
 	ytick align = outside,

@@ -11,6 +11,8 @@
 \tikzexternalize
 \pgfplotsset{compat=1.14}
 
+\def\short#1{\csname @gobbletwo\expandafter\endcsname\number#1}
+
 \begin{document}
 \tikzsetnextfilename{fig_rosetta2009_maspalomas}
 \tikzset{external/force remake}
@@ -26,7 +28,8 @@
 	date ZERO=2009-11-13 07:30:00,
 	xmin={2009-11-13 07:30:00},
 	xmax={2009-11-13 10:30:00},
-	xticklabel = {\small{\hour:\minute}\\\small{\month-\day}},
+	%xticklabel = {\small{\short{\year}-\month-\day}\\\small{\hour:\minute}},
+	xticklabel = {\small{\hour:\minute}},
 	xticklabel style = {anchor = north, blue, align = center},
 	axis x line* = bottom,
 	ytick align = outside,

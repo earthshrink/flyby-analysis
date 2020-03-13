@@ -11,6 +11,8 @@
 \tikzexternalize
 \pgfplotsset{compat=1.14}
 
+\def\short#1{\csname @gobbletwo\expandafter\endcsname\number#1}
+
 \begin{document}
 \tikzsetnextfilename{fig_galileo_lags}
 \tikzset{external/force remake}
@@ -18,7 +20,7 @@
 \tikzset{
 	small dot/.style = {fill = black, circle, scale = 0.3}
 	}
-\footnotesize
+\footnotesize{
 \begin{axis}[
 	scale only axis,
 	scaled ticks = false,
@@ -27,7 +29,7 @@
 	xmin={1990-12-08 18:00:00},
 	xmax={1990-12-08 23:30:00},
 	%
-	xticklabel = {\small{\hour:\minute}\\\small{\month-\day}},
+	xticklabel = {\small{\short{\year}-\month-\day}\\\small{\hour:\minute}},
 	xticklabel style = {anchor = north, blue, align = center},
 	axis x line* = bottom,
 	%
@@ -122,5 +124,6 @@
 			at (axis cs:1990-12-08 21:20:08, -0.05676) {};
 
 \end{axis}
+}
 \end{tikzpicture}
 \end{document}
