@@ -18,7 +18,7 @@
 \tikzset{
 	small dot/.style = {fill = black, circle, scale = 0.3}
 	}
-\footnotesize
+\footnotesize{
 \begin{axis}[
 	scale only axis,
 	scaled ticks = false,
@@ -26,7 +26,7 @@
 	date ZERO=2007-11-13 16:00:00,
 	xmin={2007-11-13 16:00:00},
 	xmax={2007-11-13 22:00:00},
-	xticklabel = {\tiny{\hour:\minute}\\\tiny{\month-\day}},
+	xticklabel = {\small{\hour:\minute}\\\small{\month-\day}},
 	xticklabel style = {anchor = north, blue, align = center},
 	axis x line* = bottom,
 	ytick align = outside,
@@ -43,7 +43,7 @@
 		at = {(0.30,0.80)},
 		anchor = west,
 		draw = none,
-		font = \tiny,
+		font = \small,
 		fill = white
 		}
 	]
@@ -77,7 +77,7 @@
 		at = {(0.30,0.75)},
 		anchor = west,
 		draw = none,
-		font = \tiny,
+		font = \small,
 		fill = white
 		}
 	]
@@ -112,11 +112,10 @@
 		at = {(0.30,0.70)},
 		anchor = west,
 		draw = none,
-		font = \tiny,
+		font = \small,
 		fill = white
 		}
 	]
-
 	\addplot [smooth, mark = none, red]
 		table [x index=0, y index=8, col sep=tab, skip first n=1]
 		{rosetta2007_goldstone.t}
@@ -128,12 +127,13 @@
 		(2007-11-13 21:21:00,  0.450)
 		};
 
-	\node [small dot, pin = 150:{\tiny $-514.6~\milli\metre/\second$}]
+	\node [small dot, pin = 150:{\small $-514.6~\milli\metre/\second$}]
 		at (axis cs:2007-11-13 21:21:00, -514.6) {};
 
 	\node [rotate = -90, anchor = south] %coordinate, pin = above right:{\tiny AOS}]
 		at (axis cs:2007-11-13 21:21:00, -660) {\small\it AOS Goldstone};
 
 \end{axis}
+}
 \end{tikzpicture}
 \end{document}

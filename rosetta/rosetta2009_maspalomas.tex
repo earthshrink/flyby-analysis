@@ -14,11 +14,11 @@
 \begin{document}
 \tikzsetnextfilename{fig_rosetta2009_maspalomas}
 \tikzset{external/force remake}
-\begin{tikzpicture}[xscale=0.75,yscale=0.5]
+\begin{tikzpicture}
 \tikzset{
 	small dot/.style = {fill = black, circle, scale = 0.3}
 	}
-\footnotesize
+\footnotesize{
 \begin{axis}[
 	scale only axis,
 	scaled ticks = false,
@@ -26,7 +26,7 @@
 	date ZERO=2009-11-13 07:30:00,
 	xmin={2009-11-13 07:30:00},
 	xmax={2009-11-13 10:30:00},
-	xticklabel = {\tiny{\hour:\minute}\\\tiny{\month-\day}},
+	xticklabel = {\small{\hour:\minute}\\\small{\month-\day}},
 	xticklabel style = {anchor = north, blue, align = center},
 	axis x line* = bottom,
 	ytick align = outside,
@@ -40,10 +40,10 @@
 	ylabel shift = -0.1cm,
 	y filter/.code = {\pgfmathparse{1e-6*\pgfmathresult}},
 	legend style={
-		at = {(0.35,0.70)},
+		at = {(0.30,0.70)},
 		anchor = west,
 		draw = none,
-		font = \tiny,
+		font = \small,
 		fill = white
 		}
 	]
@@ -75,10 +75,10 @@
 	axis y line* = right,
 	y filter/.code = {\pgfmathparse{1e-3*\pgfmathresult}},
 	legend style={
-		at = {(0.35,0.65)},
+		at = {(0.30,0.65)},
 		anchor = west,
 		draw = none,
-		font = \tiny,
+		font = \small,
 		fill = white
 		}
 	]
@@ -110,14 +110,13 @@
 	axis y line = right,
 	y filter/.code = {\pgfmathparse{(-2000*\pgfmathresult)}},
 	legend style={
-		at = {(0.35,0.60)},
+		at = {(0.30,0.60)},
 		anchor = west,
 		draw = none,
-		font = \tiny,
+		font = \small,
 		fill = white
 		}
 	]
-
 	\addplot [smooth, mark = none, red]
 		table [x index=0, y index=8, col sep=tab, skip first n=1]
 		{rosetta2009_maspalomas.t}
@@ -134,17 +133,18 @@
 		(2009-11-13 10:10:07, 0.38)
 		};
 
-	\node [small dot, pin = 30:{\tiny $-600~\milli\metre/\second$}]
+	\node [small dot, pin = 30:{\small $-600~\milli\metre/\second$}]
 		at (axis cs:2009-11-13 08:06:07, -600) {};
 
-	\node [small dot, pin = -120:{\tiny $-4.385~\milli\metre/\second$}]
+	\node [small dot, pin = -120:{\small $-4.385~\milli\metre/\second$}]
 		at (axis cs:2009-11-13 10:10:07, -4.385) {};
 
-	\node [rotate = 90, anchor = south] %coordinate, pin = above left:{\tiny LOS}]
+	\node [rotate = 90, anchor = south] %coordinate, pin = above left:{\small LOS}]
 		at (axis cs:2009-11-13 08:06:07, -450) {\small\it AOS Maspalomas};
 
-	\node [rotate = -90, anchor = south] %coordinate, pin = above left:{\tiny LOS}]
+	\node [rotate = -90, anchor = south] %coordinate, pin = above left:{\small LOS}]
 		at (axis cs:2009-11-13 10:10:07, -450) {\small\it LOS Maspalomas};
 \end{axis}
+}
 \end{tikzpicture}
 \end{document}

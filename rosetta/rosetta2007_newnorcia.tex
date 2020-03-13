@@ -18,7 +18,7 @@
 \tikzset{
 	small dot/.style = {fill = black, circle, scale = 0.3}
 	}
-\footnotesize
+\footnotesize{
 \begin{axis}[
 	scale only axis,
 	scaled ticks = false,
@@ -26,7 +26,7 @@
 	date ZERO=2007-11-13 16:00:00,
 	xmin={2007-11-13 16:00:00},
 	xmax={2007-11-13 22:00:00},
-	xticklabel = {\tiny{\hour:\minute}\\\tiny{\month-\day}},
+	xticklabel = {\small{\hour:\minute}\\\small{\month-\day}},
 	xticklabel style = {anchor = north, blue, align = center},
 	axis x line* = bottom,
 	ytick align = outside,
@@ -130,8 +130,9 @@
 	\node [small dot, pin = 30:{\small $-41.76~\milli\metre/\second$}]
 		at (axis cs:2007-11-13 19:59:00, -41.76) {};
 
-	\node [rotate = 90, anchor = south] %coordinate, pin = above left:{\tiny LOS}]
+	\node [rotate = 90, anchor = south] %coordinate, pin = above left:{\small LOS}]
 		at (axis cs:2007-11-13 19:59:00, -400) {\small\it LOS New Norcia};
 \end{axis}
+}
 \end{tikzpicture}
 \end{document}
