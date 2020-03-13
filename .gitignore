@@ -1,5 +1,8 @@
 bin/env
 bin/offline
+*.ipynb
+*.pyc
+*.d
 *.t
 *.j
 *.pdf

@@ -60,7 +60,7 @@
 			y filter/.code={\pgfmathparse{\pgfmathresult-25}}
 			]
 			table [x index=0, y index=7, col sep=tab, skip first n=1]
-			{../near/near_altair.t};
+			{near_altair.t};
 
 		\addlegendentry[blue] {$\Delta r$-25 for ALTAIR (\si{\metre})};
 
@@ -68,7 +68,7 @@
 			table [x index=0, y index=7, col sep=tab, skip first n=1,
 				restrict y to domain=-1100:-500
 			]
-			{../near/near_millstone.t};
+			{near_millstone.t};
 
 		\addlegendentry[red] {$\Delta r$ for Millstone (\si{\metre})};
 
@@ -76,11 +76,11 @@
 			y filter/.code={\pgfmathparse{\pgfmathresult-50}}
 			]
 			table [x index=0, y index=7, col sep=tab, skip first n=1]
-			{../near/near_altair.t};
+			{near_altair.t};
 
 		\addplot [mark = none, blue, dotted]
 			table [x index=0, y index=7, col sep=tab, skip first n=1]
-			{../near/near_altair.t};
+			{near_altair.t};
 
 		\addlegendentry[blue] {\SI{\pm 25}{\metre} bounds for ALTAIR};
 
@@ -90,7 +90,7 @@
 			table [x index=0, y index=7, col sep=tab, skip first n=1,
 				restrict y to domain=-1100:-500
 			]
-			{../near/near_millstone.t};
+			{near_millstone.t};
 
 		\addplot [mark = none, red, dotted,
 			y filter/.code={\pgfmathparse{\pgfmathresult+5}},
@@ -98,7 +98,7 @@
 			table [x index=0, y index=7, col sep=tab, skip first n=1,
 				restrict y to domain=-1100:-500
 			]
-			{../near/near_millstone.t};
+			{near_millstone.t};
 
 		\addlegendentry[red] {\SI{\pm 5}{\metre} bounds for Millstone};
 
@@ -140,13 +140,13 @@
 
 		\addplot [mark = none, dashed, blue]
 			table [x index=0, y index=4, col sep=tab, skip first n=1]
-			{../near/near_altair.t};
+			{near_altair.t};
 
 		\addlegendentry[blue] {$r$ for ALTAIR (\si{\kilo\metre})};
 
 		\addplot [mark = none, dashed, red]
 			table [x index=0, y index=4, col sep=tab, skip first n=1]
-			{../near/near_millstone.t};
+			{near_millstone.t};
 
 		\addlegendentry[red] {$r$ for Millstone (\si{\kilo\metre})};
 	\end{axis}

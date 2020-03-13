@@ -1,7 +1,9 @@
-.SUFFIXES:	.q .j .t .tex .pdf
+.SUFFIXES:	.q .j .t .tex .d .pdf
+.SECONDARY:
 .DELETE_ON_ERROR:
 
 LATEXOPT=-shell-escape -file-line-error
+DEPS=.deps
 
 .q.j:
 	../bin/query.py $< > $@
@@ -9,32 +11,30 @@ LATEXOPT=-shell-escape -file-line-error
 .j.t:
 	../bin/extract.py $< > $@
 
-.tex.pdf:
+#.tex.pdf:
+%.pdf: %.tex $(DEPS)/%.d
 	pdflatex $(LATEXOPT) $<
 
-Q=	\
-	galileo_canberra	\
-	galileo_goldstone	\
-	galileo_madrid
+$(DEPS)/%.d: %.tex
+	@mkdir -p $(DEPS)
+	tea="$$(sed -n -e 's/.*{\([-a-zA-Z0-9_]*\.t\).*/\1/p' $< | uniq | sed -z 's/\n/ /g')"; echo -e "$*.pdf $*.d : $$tea" > $@
 
-T=	\
-	galileo_doppler_velocity	\
-	galileo_doppler_acceleration	\
-	galileo_lags
+Q=	$(wildcard *.q)
+L=	$(wildcard *.tex)
 
+D=	$(L:%.tex=$(DEPS)/%.d)
+T=	$(L:.tex=.pdf)
 
-All= $(T:=.pdf)
+.PHONY: all
+all:	$(T)
 
-all:	$(All)
+-include $(D)
 
-galileo_doppler_velocity.pdf:	galileo_doppler_velocity.tex $(Q:=.t)
-
-galileo_doppler_acceleration.pdf:	galileo_doppler_acceleration.tex $(Q:=.t)
-
-galileo_lags.pdf:	galileo_lags.tex $(Q:=.t)
-
+.PHONY: clean
 clean:
-	rm -f *.j *.t *.dep *.dpth *.md5 *.aux* *.log
+	-rm -f *.j *.t *.dep *.dpth *.md5 *.aux* *.log
 
+.PHONY: err
 err:
 	tail -n 100 $$(ls -t *.log | sed -n 2p)
+

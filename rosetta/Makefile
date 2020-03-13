@@ -1,7 +1,9 @@
-.SUFFIXES:	.q .j .t .tex .pdf
+.SUFFIXES:	.q .j .t .tex .d .pdf
+.SECONDARY:
 .DELETE_ON_ERROR:
 
 LATEXOPT=-shell-escape -file-line-error
+DEPS=.deps
 
 .q.j:
 	../bin/query.py $< > $@
@@ -9,45 +11,32 @@ LATEXOPT=-shell-escape -file-line-error
 .j.t:
 	../bin/extract.py $< > $@
 
-.tex.pdf:
+#.tex.pdf:
+%.pdf: %.tex $(DEPS)/%.d
 	pdflatex $(LATEXOPT) $<
 
-Q=	\
-	rosetta2005_goldstone	\
-	rosetta2005_newnorcia	\
-	rosetta2007_goldstone	\
-	rosetta2007_newnorcia	\
-	rosetta2009_kourou	\
-	rosetta2009_maspalomas	\
-	rosetta2009_newnorcia
+$(DEPS)/%.d: %.tex
+	@mkdir -p $(DEPS)
+	tea="$$(sed -n -e 's/.*{\([-a-zA-Z0-9_]*\.t\).*/\1/p' $< | uniq | sed -z 's/\n/ /g')"; echo -e "$*.pdf $*.d : $$tea" > $@
 
-T=	\
-	rosetta2005_goldstone	\
-	rosetta2005_newnorcia	\
-	rosetta2007_goldstone	\
-	rosetta2007_newnorcia	\
-	rosetta2009_maspalomas	\
-	rosetta2009_newnorcia
+EXCL=	rosetta2005_newnorcia_lags.tex
 
+Q=	$(wildcard *.q)
+L=	$(filter-out $(EXCL), $(wildcard *.tex))
 
-All= $(T:=.pdf)
+D=	$(L:%.tex=$(DEPS)/%.d)
+T=	$(L:.tex=.pdf)
 
-all:	$(All)
+.PHONY: all
+all:	$(T)
 
-rosetta2005_goldstone.pdf: rosetta2005_goldstone.tex rosetta2005_goldstone.t
+-include $(D)
 
-rosetta2005_newnorcia.pdf: rosetta2005_newnorcia.tex rosetta2005_newnorcia.t
-
-rosetta2007_goldstone.pdf: rosetta2007_goldstone.tex rosetta2007_goldstone.t
-
-rosetta2007_newnorcia.pdf: rosetta2007_newnorcia.tex rosetta2007_newnorcia.t
-
-rosetta2009_maspalomas.pdf: rosetta2009_maspalomas.tex rosetta2009_maspalomas.t
-
-rosetta2009_newnorcia.pdf: rosetta2009_newnorcia.tex rosetta2009_newnorcia.t
-
+.PHONY: clean
 clean:
-	rm -f *.j *.t *.dep *.dpth *.md5 *.aux* *.log
+	-rm -f *.j *.t *.dep *.dpth *.md5 *.aux* *.log
 
+.PHONY: err
 err:
 	tail -n 100 $$(ls -t *.log | sed -n 2p)
+
