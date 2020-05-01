@@ -21,3 +21,6 @@ that generate
  - [fig_rosetta2009_maspalomas.pdf](rosetta/fig_rosetta2009_maspalomas.pdf)
  - [fig_rosetta2009_newnorcia.pdf](rosetta/fig_rosetta2009_newnorcia.pdf)
 
+The fundamental significance of the lags revealed by these graphs is explained
+	[here](https://github.com/earthshrink/flyby-analysis/blob/master/About.md).
+
