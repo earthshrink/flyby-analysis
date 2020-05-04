@@ -6,7 +6,11 @@ contains a collection of
 	scripts, queries, LaTeX sources and
 	selected figure PDFs from NASA and ESA papers on the `flyby anomaly`
 that generate
-	the following PDF graphs:
+	the following PDF graphs
+presented at
+    [NAECON 2019](https://attend.ieee.org/naecon-2019/post-conference-info/)
+and included in the final paper
+    ([preprint](https://doi.org/10.36227/techrxiv.10252871)):
 
  - [fig_galileo_doppler_acceleration.pdf](galileo/fig_galileo_doppler_acceleration.pdf)
  - [fig_galileo_doppler_velocity.pdf](galileo/fig_galileo_doppler_velocity.pdf)
