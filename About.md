@@ -102,7 +102,7 @@ The standard deviation S = 126.59 m
     and mean square error R = 654.153 m
         &equiv; 5.1675 S
     (see JPL's own annotation at the top of
-        the [residuals figure](ref/Antreasian/fig10_near_SSNrange.pdf))
+        the [residuals figure](https://github.com/earthshrink/flyby-analysis/blob/gh-pages/near/fig_near_ssn.pdf))
 makes NEAR's radar residuals already a 5&sigma; dataset
     against translational symmetry of waves being
         a law of nature.
