@@ -18,8 +18,8 @@ my %month; @month{qw/Jan Feb Mar Apr May Jun
 
 print join($sepr,
 	"timestamp",
-	"azimuth",
-	"elevation",
+	"azi/ra",
+	"el/dec",
 	"lighttime",
 	"range",
 	"velocity",
@@ -53,6 +53,10 @@ while (<>) {
 	if (defined $pt) {
 		$dt = $t->subtract_datetime_absolute($pt);
 		$dt = $dt->seconds() + $dt->nanoseconds()*1e-9;
+		}
+
+	if (my ($h, $m, $s) = $ele =~ /([+-]?\d{2}).(\d{2}).(\d{2}.\d+)/) {
+		$ele = $h + $m/60. + $s/3600.;
 		}
 
 	my $dv;

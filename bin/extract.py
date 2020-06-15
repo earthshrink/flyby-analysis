@@ -33,6 +33,7 @@ class Processor:
 
     def __init__(self):
         self._re_data = re.compile(r'\$\$SOE.*\$\$EOE', re.DOTALL)
+        self._re_angles = re.compile(r'\s*([+-]?\d{2}).(\d{2}).(\d{2}\.\d+)')
         self._speed = 299792458
 
     def parse(self, response):
@@ -41,12 +42,24 @@ class Processor:
         match_result = self._re_data.search(response)
         data = pd.read_csv(StringIO(match_result.group()[6:match_result.end()
                                                          -match_result.start()-6]),
-                           names=['timestamp', 'azimuth', 'elevation',
+                           names=['timestamp', 'azi/ra', 'el/dec',
                                   'lighttime', 'range', 'velocity'],
                            usecols=[0, 3, 4, 5, 6, 7],
                            index_col=0,
                            parse_dates=[0])
         return data
+
+
+    def hms(self, sh, sm, ss):
+        return float(sh) + float(sm)/60.0 + float(ss)/3600
+
+
+    def normalize_angle(self, datum):
+        m = self._re_angles.match(datum)
+        if m:
+            return self.hms(m.group(1), m.group(2), m.group(3))
+        return datum
+
 
     def normalize(self, data):
         """Normalize data returned by the JPL/Horizons server"""
@@ -66,7 +79,8 @@ class Processor:
 
         data['ratedoppler'] = data['acceleration'] / data['velocity']
 
-        data.drop(columns=['dt', 'traveltime'], inplace=True)
+        data['el/dec'] = data['el/dec'].map(lambda a: self.normalize_angle(a))
+
         return data
 
     def load(self, dname):
