@@ -4,6 +4,7 @@
 
 LATEXOPT=-shell-escape -file-line-error
 DEPS=.deps
+R_earth=6378.1
 
 .q.j:
 	../bin/query.py $< > $@
@@ -38,3 +39,7 @@ clean:
 err:
 	tail -n 100 $$(ls -t *.log | sed -n 2p)
 
+
+.PHONY: altitude
+altitude: galileo_altitude.t
+	@awk -F "\t" 'BEGIN { i=1; split("LOS Madrid|Perigee|AOS Goldstone|AOS Canberra", label, "|"); } /^1990-12-08.(19:39|20:35|20:48|21:20)/ { print $$1 "\t" ($$5/1000 - $(R_earth)) "\t\t" label[i]; i += 1; }' $<

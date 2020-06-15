@@ -4,6 +4,7 @@
 
 LATEXOPT=-shell-escape -file-line-error
 DEPS=.deps
+R_earth=6378.1
 
 .q.j:
 	../bin/query.py $< > $@
@@ -40,3 +41,7 @@ clean:
 err:
 	tail -n 100 $$(ls -t *.log | sed -n 2p)
 
+
+.PHONY: altitude
+altitude: rosetta2005_altitude.t
+	@awk -F "\t" 'BEGIN { i=1; split("LOS New Norcia|Perigee|AOS New Norcia", label, "|"); } /^2005-03-04.(19:57|22:09|22:44)/ { print $$1 "\t" ($$5/1000 - $(R_earth)) "\t\t" label[i]; i += 1; }' $<

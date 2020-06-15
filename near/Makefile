@@ -4,6 +4,7 @@
 
 LATEXOPT=-shell-escape -file-line-error
 DEPS=.deps
+R_earth=6378.1
 
 .q.j:
 	../bin/query.py $< > $@
@@ -38,3 +39,6 @@ clean:
 err:
 	tail -n 100 $$(ls -t *.log | sed -n 2p)
 
+.PHONY: altitude
+altitude: near_altitude.t
+	@awk -F "\t" 'BEGIN { i=1; split("Millstone start|LOS Goldstone|ALTAIR end|Perigee|AOS Canberra", label, "|"); } /^1998-01-23.(06:12|06:15|06:51|07:23|09:54)/ { print $$1 "\t" ($$5/1000 - $(R_earth)) "\t\t" label[i]; i += 1; }' $<
