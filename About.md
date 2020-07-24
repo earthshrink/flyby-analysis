@@ -115,6 +115,22 @@ for communication, radar and imaging technologies
     conference papers.
 
 
+## Update
+
+The tracking times given for NEAR in
+    [1]
+indicate that
+    DSN Goldstone tracked for over a minute _after_
+        the SSN radars started tracking.
+The first ALTAIR datapoint thus marks
+    a 929 m disagreement with
+        _non-extrapolated_ DSN trajectory.
+This settles a mistaken prevailing notion
+    brought up by an anonymous referee,
+but not shared by my JPL correspondents or myself,
+    that the anomalies did not imply errors in the DSN tracking data.
+
+
 ### References
 
 [1] P G Antreasian and J R Guinn,

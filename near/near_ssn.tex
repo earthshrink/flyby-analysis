@@ -55,6 +55,18 @@
 			fill = none
 			}
 		]
+		\draw [fill=orange!30, orange!30, opacity=0.2]
+			(axis cs:1998-01-23 06:15, -300)
+			--
+			(axis cs:1998-01-23 06:15, -1100)
+			--
+			(axis cs:1998-01-23 06:12, -1100)
+			--
+			(axis cs:1998-01-23 06:12, -300)
+			;
+
+		\node [rotate = 90, below, orange]
+			at (axis cs:1998-01-23 06:13, -700) {\tiny\it Goldstone};
 
 		\addplot [mark = none, blue,
 			y filter/.code={\pgfmathparse{\pgfmathresult-25}}
