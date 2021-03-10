@@ -79,7 +79,8 @@ class Processor:
 
         data['ratedoppler'] = data['acceleration'] / data['velocity']
 
-        data['el/dec'] = data['el/dec'].map(lambda a: self.normalize_angle(a))
+        if isinstance(data['el/dec'], str):
+            data['el/dec'] = data['el/dec'].map(lambda a: self.normalize_angle(a))
 
         return data
 
