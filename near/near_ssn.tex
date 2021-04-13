@@ -71,13 +71,13 @@
 		\addplot [mark = none, blue,
 			y filter/.code={\pgfmathparse{\pgfmathresult-25}}
 			]
-			table [x index=0, y index=7, col sep=tab, skip first n=1]
+			table [x index=0, y index=9, col sep=tab, skip first n=1]
 			{near_altair.t};
 
 		\addlegendentry[blue] {$\Delta r$-25 for ALTAIR (\si{\metre})};
 
 		\addplot [mark = none, red]
-			table [x index=0, y index=7, col sep=tab, skip first n=1,
+			table [x index=0, y index=9, col sep=tab, skip first n=1,
 				restrict y to domain=-1100:-500
 			]
 			{near_millstone.t};
@@ -87,11 +87,11 @@
 		\addplot [mark = none, blue, dotted,
 			y filter/.code={\pgfmathparse{\pgfmathresult-50}}
 			]
-			table [x index=0, y index=7, col sep=tab, skip first n=1]
+			table [x index=0, y index=9, col sep=tab, skip first n=1]
 			{near_altair.t};
 
 		\addplot [mark = none, blue, dotted]
-			table [x index=0, y index=7, col sep=tab, skip first n=1]
+			table [x index=0, y index=9, col sep=tab, skip first n=1]
 			{near_altair.t};
 
 		\addlegendentry[blue] {\SI{\pm 25}{\metre} bounds for ALTAIR};
@@ -99,7 +99,7 @@
 		\addplot [mark = none, red, dotted,
 			y filter/.code={\pgfmathparse{\pgfmathresult-5}}
 			]
-			table [x index=0, y index=7, col sep=tab, skip first n=1,
+			table [x index=0, y index=9, col sep=tab, skip first n=1,
 				restrict y to domain=-1100:-500
 			]
 			{near_millstone.t};
@@ -107,7 +107,7 @@
 		\addplot [mark = none, red, dotted,
 			y filter/.code={\pgfmathparse{\pgfmathresult+5}},
 			]
-			table [x index=0, y index=7, col sep=tab, skip first n=1,
+			table [x index=0, y index=9, col sep=tab, skip first n=1,
 				restrict y to domain=-1100:-500
 			]
 			{near_millstone.t};
