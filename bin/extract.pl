@@ -81,7 +81,7 @@ while (<>) {
 		(defined $a ? $a : ""),
 		(defined $rlag ? $rlag : ""),
 		(defined $vlag ? $vlag : ""),
-		(defined $a ? $a/$v : ""),
+		(defined $a ? $a/$c : ""),
 		)."\n";
 
 	#last if $n++ > 10;

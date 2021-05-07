@@ -2,6 +2,7 @@
 """Batch processor for JPL/Horizons CGI response"""
 
 from io import StringIO
+from scipy import constants as c
 import sys
 import re
 import pandas as pd
@@ -77,7 +78,7 @@ class Processor:
         data['rangelag'] = data['velocity'] * data['traveltime']
         data['velocitylag'] = data['acceleration'] * data['traveltime']
 
-        data['ratedoppler'] = data['acceleration'] / data['velocity']
+        data['ratedoppler'] = data['acceleration'] / c.c
 
         if isinstance(data['el/dec'], str):
             data['el/dec'] = data['el/dec'].map(lambda a: self.normalize_angle(a))
