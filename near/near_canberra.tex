@@ -24,7 +24,7 @@
 	}
 
 \node [anchor = north west] (neardoppler) at (0.85, -1.15) {
-	\includegraphics[width = 7.30cm] {Antreasian/fig4_neardop_wlabels_topright.png}
+	\includegraphics[width = 7.28cm] {Antreasian/fig4_neardop_wlabels_topright.png}
 	};
 
 \node [anchor = north west] (velocitylags) at (0, 0) {
@@ -180,6 +180,23 @@
 
 		\node [small dot, pin = 85:{\small $11.13~\milli\metre/\second$}]
 			at (axis cs:1998-01-23 09:54:00, 11.13) {};
+
+		% for overlay alignment
+		\addplot [loosely dotted, blue] coordinates {
+			(1998-01-24 17:40:30, -0.050)
+			(1998-01-24 17:40:30,  0.300)
+			};
+
+		\addplot [loosely dotted, blue] coordinates {
+			(1998-01-26 01:20:30, -0.050)
+			(1998-01-26 01:20:30,  0.300)
+			};
+
+		\addplot [loosely dotted, blue] coordinates {
+			(1998-01-27 09:00:30, -0.050)
+			(1998-01-27 09:00:30,  0.300)
+			};
+
 	\end{axis}
 	\end{tikzpicture}
 	};
