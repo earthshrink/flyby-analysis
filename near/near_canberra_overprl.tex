@@ -14,7 +14,7 @@
 \def\short#1{\csname @gobbletwo\expandafter\endcsname\number#1}
 
 \begin{document}
-\tikzsetnextfilename{fig_near_canberra}
+\tikzsetnextfilename{fig_near_canberra_overprl}
 \tikzset{external/force remake}
 \begin{tikzpicture}
 \footnotesize
@@ -23,8 +23,8 @@
 	small dot/.style = {fill = black, circle, scale = 0.3}
 	}
 
-\node [anchor = north west] (neardoppler) at (0.85, -1.15) {
-	\includegraphics[width = 7.28cm] {Antreasian/fig4_neardop_wlabels_topright.png}
+\node [anchor=north west, opacity=0.7] (neardoppler) at (0.39, -0.2) {
+	\includegraphics[width = 7.65cm] {Anderson/fig2a_near_doppler_postosc.png}
 	};
 
 \node [anchor = north west] (velocitylags) at (0, 0) {
@@ -183,18 +183,18 @@
 
 		% for overlay alignment
 		\addplot [loosely dotted, blue] coordinates {
-			(1998-01-24 17:40:30, -0.050)
-			(1998-01-24 17:40:30,  0.300)
+			(1998-01-24 17:00:30, -0.050)
+			(1998-01-24 17:00:30,  0.300)
 			};
 
 		\addplot [loosely dotted, blue] coordinates {
-			(1998-01-26 01:20:30, -0.050)
-			(1998-01-26 01:20:30,  0.300)
+			(1998-01-26 00:30:30, -0.050)
+			(1998-01-26 00:30:30,  0.300)
 			};
 
 		\addplot [loosely dotted, blue] coordinates {
-			(1998-01-27 09:00:30, -0.050)
-			(1998-01-27 09:00:30,  0.300)
+			(1998-01-27 08:00:30, -0.050)
+			(1998-01-27 08:00:30,  0.300)
 			};
 
 	\end{axis}
