@@ -20,3 +20,7 @@ to visually demonstrate
 See [About](About.md) for
 	the background and significance of the pattern.
 
+
+## 2022 update
+
+See [gh-pages](https://earthshrink.github.io/flyby-analysis/) for new results.
