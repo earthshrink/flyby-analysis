@@ -9,8 +9,9 @@ that generate
 	the following PDF graphs
 presented at
     [NAECON 2019](https://attend.ieee.org/naecon-2019/post-conference-info/)
-and included in the final paper
-    ([preprint](https://doi.org/10.36227/techrxiv.10252871)),
+and included in the
+    [final paper](https://ieeexplore.ieee.org/document/9057993)
+    ([preprint](https://doi.org/10.36227/techrxiv.10252871) with minor fixes),
 with further updates on the last (SSN residuals):
 
  - [fig_galileo_doppler_acceleration.pdf](galileo/fig_galileo_doppler_acceleration.pdf)
@@ -30,4 +31,23 @@ with further updates on the last (SSN residuals):
 
 The fundamental significance of the lags revealed by these graphs is explained
 	[here](https://github.com/earthshrink/flyby-analysis/blob/master/About.md).
+
+
+## 2022 update
+
+### Residual oscillations are reproduced by simulation
+
+See [anomaly-sim](https://github.com/earthshrink/anomaly-sim)
+
+
+### Phase shift in post-encounter Doppler
+
+A phase shift has been found between JPL's AIAA 1998 and PRL 2008 analyses
+of NEAR's post-encounter Doppler residual oscillations, similar to one found
+in the simulation.
+
+Compare
+ - [fig_near_canberra.pdf](near/fig_near_canberra.pdf)
+ - [fig_near_canberra_overprl.pdf](near/fig_near_canberra_overprl.pdf)
+
 
